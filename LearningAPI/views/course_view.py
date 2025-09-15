@@ -1,5 +1,11 @@
 from django.utils.decorators import method_decorator
 from django.http import HttpResponseServerError
+from django.conf import settings # Added for debug toolbar diagnosis
+
+import structlog
+import logging
+
+log = structlog.get_logger("LearningAPI")
 
 from rest_framework import serializers, status
 from rest_framework.decorators import action
@@ -40,11 +46,19 @@ class CourseViewSet(ViewSet):
             Response -- JSON serialized instance
         """
         try:
+            log.info("Retrieving course", course_id=pk, user=request.user.id) # INFO level: Indicates a normal, expected operation.
+            # Temporary log for debug toolbar diagnosis
+            log.debug("Debug Toolbar IP Check", remote_addr=request.META.get('REMOTE_ADDR'), internal_ips=settings.INTERNAL_IPS)
             course = Course.objects.get(pk=pk)
+            log.debug("Course found", course_name=course.name) # DEBUG level: Provides detailed information, useful for development/debugging.
 
             serializer = CourseSerializer(course, context={'request': request})
             return Response(serializer.data)
+        except Course.DoesNotExist:
+            log.warning("Course not found", course_id=pk, user=request.user.id) # WARNING level: Unexpected but handled client-side error.
+            return Response({"message": "Course not found"}, status=status.HTTP_404_NOT_FOUND)
         except Exception as ex:
+            log.error("Error retrieving course", course_id=pk, error=str(ex), exc_info=True) # ERROR level: Serious server-side issue, includes stack trace.
             return HttpResponseServerError(ex)
 
     @method_decorator(is_instructor())

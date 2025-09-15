@@ -33,7 +33,31 @@ ALLOWED_HOSTS = os.getenv(
     "LEARN_OPS_ALLOWED_HOSTS",
     "learning.nss.team,learningapi.nss.team,127.0.0.1,localhost") \
         .split(",")
+
 APPEND_SLASH = False
+
+INTERNAL_IPS = [
+    "127.0.0.1",          # Localhost
+    "172.18.0.1",         # Docker bridge gateway (likely what Django sees)
+    "host.docker.internal",  # For Docker Desktop on Mac/Windows
+    "192.168.65.1",          # Docker Desktop for Mac/Windows default gateway
+]
+
+DEBUG_TOOLBAR_PANELS = [
+    'debug_toolbar.panels.versions.VersionsPanel',          # Python/Django version info
+    'debug_toolbar.panels.timer.TimerPanel',                # Request timing
+    'debug_toolbar.panels.settings.SettingsPanel',          # Settings for this request
+    'debug_toolbar.panels.headers.HeadersPanel',            # Request/response headers
+    'debug_toolbar.panels.request.RequestPanel',            # GET/POST data
+    'debug_toolbar.panels.sql.SQLPanel',                    # SQL queries
+    'debug_toolbar.panels.templates.TemplatesPanel',        # Template rendering info
+    'debug_toolbar.panels.cache.CachePanel',                # Cache info
+    'debug_toolbar.panels.signals.SignalsPanel',            # Django signals fired
+    'debug_toolbar.panels.logging.LoggingPanel',            # Captures logs from your loggers
+    'debug_toolbar.panels.profiling.ProfilingPanel',        # Optional profiling
+]
+
+
 
 # Application definition
 
@@ -55,6 +79,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount.providers.github',
     'corsheaders',
     'LearningAPI',
+    'debug_toolbar' # Added for django-debug-toolbar
 ]
 
 SOCIALACCOUNT_LOGIN_ON_GET = True
@@ -78,6 +103,7 @@ CORS_EXPOSE_HEADERS = (
 )
 
 MIDDLEWARE = [
+    'debug_toolbar.middleware.DebugToolbarMiddleware', # Added for django-debug-toolbar
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'corsheaders.middleware.CorsMiddleware',
@@ -177,69 +203,78 @@ LOGGING = {
     "version": 1,
     "disable_existing_loggers": False,
     "formatters": {
-        "json_formatter": {
-            "()": structlog.stdlib.ProcessorFormatter,
-            "processor": structlog.processors.JSONRenderer(),
-        },
-        "plain_console": {
+        # Formatter that allows structlog and stdlib to play nice
+        "structlog": {
             "()": structlog.stdlib.ProcessorFormatter,
             "processor": structlog.dev.ConsoleRenderer(),
+            "foreign_pre_chain": [
+                structlog.processors.TimeStamper(fmt="iso"),
+                structlog.stdlib.add_log_level,
+            ],
         },
     },
     "handlers": {
         "console": {
-            "class": "logging.StreamHandler",
-            "formatter": "plain_console",
             "level": "DEBUG",
+            "class": "logging.StreamHandler",
+            "formatter": "structlog",
         },
         "json_file": {
             "class": "logging.handlers.RotatingFileHandler",
             "filename": "logs/learning_platform.json",
-            "formatter": "json_formatter",
-            "maxBytes": 10485760,  # 10MB
+            "formatter": "structlog",
+            "maxBytes": 10485760,
             "backupCount": 10,
         },
         "logstash": {
             "class": "logstash.TCPLogstashHandler",
-            "host": "logstash",  # Docker service name or actual host
+            "host": "logstash",
             "port": 5000,
             "version": 1,
             "message_type": "learning_platform",
             "fqdn": False,
             "tags": ["django", "learning_platform"],
         },
+        # Added for Debug Toolbar Logging panel
+        "debug_toolbar": {
+            "level": "DEBUG",
+            "class": "logging.StreamHandler",
+            "formatter": "structlog",
+        },
     },
     "loggers": {
         "django": {
-            "handlers": ["console", "json_file", "logstash"],
+            "handlers": ["console", "json_file", "logstash", "debug_toolbar"],
             "level": "INFO",
+            "propagate": True,
         },
         "LearningAPI": {
-            "handlers": ["console", "json_file", "logstash"],
+            "handlers": ["console", "json_file", "logstash", "debug_toolbar"],
             "level": "DEBUG",
-            "propagate": False,
+            "propagate": True,
         },
         "LearningAPI.cohort": {
-            "handlers": ["console", "json_file", "logstash"],
+            "handlers": ["console", "json_file", "logstash", "debug_toolbar"],
             "level": "DEBUG",
-            "propagate": False,
+            "propagate": True,
         },
         "LearningAPI.student": {
-            "handlers": ["console", "json_file", "logstash"],
+            "handlers": ["console", "json_file", "logstash", "debug_toolbar"],
             "level": "DEBUG",
-            "propagate": False,
+            "propagate": True,
         },
         "LearningAPI.cohortevent": {
-            "handlers": ["console", "json_file", "logstash"],
+            "handlers": ["console", "json_file", "logstash", "debug_toolbar"],
             "level": "DEBUG",
-            "propagate": False,
+            "propagate": True,
         },
     },
     "root": {
-        "handlers": ["console"],
+        "handlers": ["console", "debug_toolbar"],
         "level": "DEBUG",
     },
 }
+
 
 # Configure structlog
 structlog.configure(
@@ -259,6 +294,7 @@ structlog.configure(
     wrapper_class=structlog.stdlib.BoundLogger,
     cache_logger_on_first_use=True,
 )
+
 
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
@@ -282,3 +318,4 @@ STATICFILES_DIRS = [
 ]
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 SITE_ID = 1
+
