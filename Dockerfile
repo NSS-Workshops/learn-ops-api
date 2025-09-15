@@ -33,3 +33,6 @@ EXPOSE 8000
 
 # Use the entrypoint script
 ENTRYPOINT ["/entrypoint.sh"]
+
+# Start the Django development server
+CMD [ "python3", "manage.py", "runserver", "0.0.0.0:8000" ]
