@@ -5,7 +5,7 @@ from django.conf import settings # Added for debug toolbar diagnosis
 import structlog
 import logging
 
-log = structlog.get_logger("LearningAPI")
+log = structlog.get_logger(__name__)
 
 from rest_framework import serializers, status
 from rest_framework.decorators import action
@@ -47,8 +47,6 @@ class CourseViewSet(ViewSet):
         """
         try:
             log.info("Retrieving course", course_id=pk, user=request.user.id) # INFO level: Indicates a normal, expected operation.
-            # Temporary log for debug toolbar diagnosis
-            log.debug("Debug Toolbar IP Check", remote_addr=request.META.get('REMOTE_ADDR'), internal_ips=settings.INTERNAL_IPS)
             course = Course.objects.get(pk=pk)
             log.debug("Course found", course_name=course.name) # DEBUG level: Provides detailed information, useful for development/debugging.
 

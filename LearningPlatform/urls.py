@@ -69,6 +69,7 @@ urlpatterns = [
     path('auth/github/url', github_views.oauth2_login),
 
     path('api-auth', include('rest_framework.urls', namespace='rest_framework')),
+    path('logs/', include('LogViewer.urls')), # Added for in-app log inspection
     path('admin', admin.site.urls),
 ]
 

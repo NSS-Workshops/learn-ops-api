@@ -79,7 +79,9 @@ INSTALLED_APPS = [
     'allauth.socialaccount.providers.github',
     'corsheaders',
     'LearningAPI',
-    'debug_toolbar' # Added for django-debug-toolbar
+    'LogViewer',        # added for in-app log inspection
+    'django_db_logger', # Added for in-app log storage
+    'debug_toolbar'     # Added for django-debug-toolbar
 ]
 
 SOCIALACCOUNT_LOGIN_ON_GET = True
@@ -203,78 +205,77 @@ LOGGING = {
     "version": 1,
     "disable_existing_loggers": False,
     "formatters": {
-        # Formatter that allows structlog and stdlib to play nice
-        "structlog": {
+        "json_formatter": {
+            "()": structlog.stdlib.ProcessorFormatter,
+            "processor": structlog.processors.JSONRenderer(),
+        },
+        "plain_console": {
             "()": structlog.stdlib.ProcessorFormatter,
             "processor": structlog.dev.ConsoleRenderer(),
-            "foreign_pre_chain": [
-                structlog.processors.TimeStamper(fmt="iso"),
-                structlog.stdlib.add_log_level,
-            ],
         },
     },
     "handlers": {
         "console": {
-            "level": "DEBUG",
             "class": "logging.StreamHandler",
-            "formatter": "structlog",
+            "formatter": "plain_console",
+            "level": "DEBUG",
         },
         "json_file": {
             "class": "logging.handlers.RotatingFileHandler",
             "filename": "logs/learning_platform.json",
-            "formatter": "structlog",
-            "maxBytes": 10485760,
+            "formatter": "json_formatter",
+            "maxBytes": 10485760,  # 10MB
             "backupCount": 10,
         },
         "logstash": {
             "class": "logstash.TCPLogstashHandler",
-            "host": "logstash",
+            "host": "logstash",  # Docker service name or actual host
             "port": 5000,
             "version": 1,
             "message_type": "learning_platform",
             "fqdn": False,
             "tags": ["django", "learning_platform"],
         },
-        # Added for Debug Toolbar Logging panel
-        "debug_toolbar": {
-            "level": "DEBUG",
-            "class": "logging.StreamHandler",
-            "formatter": "structlog",
+        "db_handler": {
+            "class": "django_db_logger.db_log_handler.DatabaseLogHandler",
         },
     },
     "loggers": {
         "django": {
-            "handlers": ["console", "json_file", "logstash", "debug_toolbar"],
+            "handlers": ["console", "json_file", "logstash", "db_handler"], 
             "level": "INFO",
-            "propagate": True,
+        },
+        "django_db_logger": { 
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
+            "level": "INFO",
+            "propagate": False,
         },
         "LearningAPI": {
-            "handlers": ["console", "json_file", "logstash", "debug_toolbar"],
+            "handlers": ["console", "json_file", "logstash", "db_handler"], 
             "level": "DEBUG",
-            "propagate": True,
+            "propagate": True, 
         },
         "LearningAPI.cohort": {
-            "handlers": ["console", "json_file", "logstash", "debug_toolbar"],
+            "handlers": ["console", "json_file", "logstash", "db_handler"], 
             "level": "DEBUG",
-            "propagate": True,
+            "propagate": True, 
         },
         "LearningAPI.student": {
-            "handlers": ["console", "json_file", "logstash", "debug_toolbar"],
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": True,
+            "propagate": True, 
         },
         "LearningAPI.cohortevent": {
-            "handlers": ["console", "json_file", "logstash", "debug_toolbar"],
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": True,
+            "propagate": True, 
         },
     },
     "root": {
-        "handlers": ["console", "debug_toolbar"],
-        "level": "DEBUG",
+        "handlers": ["console", "json_file", "logstash", "db_handler"],
+        "level": os.getenv('DJANGO_LOG_LEVEL', 'INFO'), # Use environment variable for root level
     },
 }
-
 
 # Configure structlog
 structlog.configure(

@@ -32,6 +32,7 @@ python-logstash = "==0.4.8"
 uuid = "==1.30"
 python-dateutil = "==2.8.2"
 django-debug-toolbar = "*"
+django-db-logger = "*" # Added for in-app log storage
 
 [requires]
 python_version = "3.11.11"
