@@ -242,33 +242,33 @@ LOGGING = {
     },
     "loggers": {
         "django": {
-            "handlers": ["console", "json_file", "logstash", "db_handler"], 
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "INFO",
         },
-        "django_db_logger": { 
+        "django_db_logger": {
             "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "INFO",
             "propagate": False,
         },
         "LearningAPI": {
-            "handlers": ["console", "json_file", "logstash", "db_handler"], 
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": True, 
+            "propagate": True,
         },
         "LearningAPI.cohort": {
-            "handlers": ["console", "json_file", "logstash", "db_handler"], 
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": True, 
+            "propagate": True,
         },
         "LearningAPI.student": {
             "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": True, 
+            "propagate": True,
         },
         "LearningAPI.cohortevent": {
             "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": True, 
+            "propagate": True,
         },
     },
     "root": {
@@ -296,7 +296,6 @@ structlog.configure(
     cache_logger_on_first_use=True,
 )
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
 
@@ -319,4 +318,3 @@ STATICFILES_DIRS = [
 ]
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 SITE_ID = 1
-

@@ -29,14 +29,7 @@ logs/
 .env*
 *.env
 !.env.template
-.roo/
 .clinerules-default
-.roomodes
-memory-bank/
-.roo/
-.roomodes
-memory-bank/
-
 .roo/
 .roomodes
 memory-bank/

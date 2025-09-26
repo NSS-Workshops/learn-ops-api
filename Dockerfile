@@ -1,5 +1,5 @@
 # Use Python 3.11.11 as specified in Pipfile
-FROM --platform=linux/amd64 python:3.11-slim
+FROM python:3.11.11
 
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
@@ -19,7 +19,7 @@ RUN pip install --upgrade pip && \
 COPY Pipfile Pipfile.lock ./
 
 # Install dependencies using pipenv (creates virtual environment)
-RUN pipenv install --system --deploy 
+RUN pipenv install --system --deploy
 
 # Copy the entire application first
 COPY . .
