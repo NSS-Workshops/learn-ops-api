@@ -33,7 +33,31 @@ ALLOWED_HOSTS = os.getenv(
     "LEARN_OPS_ALLOWED_HOSTS",
     "learning.nss.team,learningapi.nss.team,127.0.0.1,localhost") \
         .split(",")
+
 APPEND_SLASH = False
+
+INTERNAL_IPS = [
+    "127.0.0.1",          # Localhost
+    "172.18.0.1",         # Docker bridge gateway (likely what Django sees)
+    "host.docker.internal",  # For Docker Desktop on Mac/Windows
+    "192.168.65.1",          # Docker Desktop for Mac/Windows default gateway
+]
+
+DEBUG_TOOLBAR_PANELS = [
+    'debug_toolbar.panels.versions.VersionsPanel',          # Python/Django version info
+    'debug_toolbar.panels.timer.TimerPanel',                # Request timing
+    'debug_toolbar.panels.settings.SettingsPanel',          # Settings for this request
+    'debug_toolbar.panels.headers.HeadersPanel',            # Request/response headers
+    'debug_toolbar.panels.request.RequestPanel',            # GET/POST data
+    'debug_toolbar.panels.sql.SQLPanel',                    # SQL queries
+    'debug_toolbar.panels.templates.TemplatesPanel',        # Template rendering info
+    'debug_toolbar.panels.cache.CachePanel',                # Cache info
+    'debug_toolbar.panels.signals.SignalsPanel',            # Django signals fired
+    'debug_toolbar.panels.logging.LoggingPanel',            # Captures logs from your loggers
+    'debug_toolbar.panels.profiling.ProfilingPanel',        # Optional profiling
+]
+
+
 
 # Application definition
 
@@ -55,6 +79,9 @@ INSTALLED_APPS = [
     'allauth.socialaccount.providers.github',
     'corsheaders',
     'LearningAPI',
+    'LogViewer',        # added for in-app log inspection
+    'django_db_logger', # Added for in-app log storage
+    'debug_toolbar'     # Added for django-debug-toolbar
 ]
 
 SOCIALACCOUNT_LOGIN_ON_GET = True
@@ -78,6 +105,7 @@ CORS_EXPOSE_HEADERS = (
 )
 
 MIDDLEWARE = [
+    'debug_toolbar.middleware.DebugToolbarMiddleware', # Added for django-debug-toolbar
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'corsheaders.middleware.CorsMiddleware',
@@ -208,36 +236,44 @@ LOGGING = {
             "fqdn": False,
             "tags": ["django", "learning_platform"],
         },
+        "db_handler": {
+            "class": "django_db_logger.db_log_handler.DatabaseLogHandler",
+        },
     },
     "loggers": {
         "django": {
-            "handlers": ["console", "json_file", "logstash"],
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "INFO",
         },
-        "LearningAPI": {
-            "handlers": ["console", "json_file", "logstash"],
-            "level": "DEBUG",
+        "django_db_logger": {
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
+            "level": "INFO",
             "propagate": False,
+        },
+        "LearningAPI": {
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
+            "level": "DEBUG",
+            "propagate": True,
         },
         "LearningAPI.cohort": {
-            "handlers": ["console", "json_file", "logstash"],
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": False,
+            "propagate": True,
         },
         "LearningAPI.student": {
-            "handlers": ["console", "json_file", "logstash"],
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": False,
+            "propagate": True,
         },
         "LearningAPI.cohortevent": {
-            "handlers": ["console", "json_file", "logstash"],
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": False,
+            "propagate": True,
         },
     },
     "root": {
-        "handlers": ["console"],
-        "level": "DEBUG",
+        "handlers": ["console", "json_file", "logstash", "db_handler"],
+        "level": os.getenv('DJANGO_LOG_LEVEL', 'INFO'), # Use environment variable for root level
     },
 }
 
