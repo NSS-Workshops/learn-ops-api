@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log Viewer</title>
+    <style>
+        body { font-family: sans-serif; margin: 20px; }
+        h1 { color: #333; }
+        form { margin-bottom: 20px; }
+        .log-entry { background-color: #f9f9f9; border: 1px solid #eee; padding: 10px; margin-bottom: 8px; border-radius: 4px; }
+        .log-level-debug { color: green; }
+        .log-level-info { color: blue; }
+        .log-level-warning { color: orange; }
+        .log-level-error { color: red; }
+        .log-level-critical, .log-level-fatal { color: purple; font-weight: bold; }
+        pre { background: #f4f4f4; padding: 8px; border-radius: 3px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>Log Viewer</h1>
+    <p>{{ message }}</p>
+
+    <!-- Filter form -->
+    <form method="get">
+        <label for="level">Min Level:</label>
+        <select name="level" id="level">
+            <option value="">-- All --</option>
+            {% for lvl in available_levels %}
+                <option value="{{ lvl }}" {% if current_level_filter == lvl %}selected{% endif %}>{{ lvl }}</option>
+            {% endfor %}
+        </select>
+
+        <label for="logger">Logger:</label>
+        <select name="logger" id="logger">
+            <option value="">-- All --</option>
+            {% for lg in available_loggers %}
+                <option value="{{ lg }}" {% if current_logger_filter == lg %}selected{% endif %}>{{ lg }}</option>
+            {% endfor %}
+        </select>
+
+        <button type="submit">Filter</button>
+    </form>
+
+    {% if logs %}
+        <h2>Recent Logs</h2>
+        {% for log in logs %}
+            <div class="log-entry log-level-{{ log.level|lower }}">
+                <strong>{{ log.create_datetime }}</strong>
+                [{{ log.level }}] ({{ log.logger_name }})
+                <div>{{ log.msg }}</div>
+                {% if log.trace %}
+                    <pre>{{ log.trace }}</pre>
+                {% elif log.msg|first == '{' and log.msg|last == '}' %}
+                    <pre>{{ log.msg }}</pre>
+                {% endif %}
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>No logs to display yet.</p>
+    {% endif %}
+</body>
+</html>
