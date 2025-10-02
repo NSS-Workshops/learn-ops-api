@@ -11,6 +11,8 @@ from LearningAPI.models.people import StudentTeam, GroupProjectRepository, NSSUs
 from LearningAPI.models.coursework import Project
 from LearningAPI.utils import GithubRequest, SlackAPI
 
+from LearningAPI.models.people import NssUser
+
 
 valkey_client = valkey.Valkey(
     host=settings.VALKEY_CONFIG['HOST'],
@@ -72,16 +74,16 @@ class TeamMakerView(ViewSet):
 
         # Create the Slack channel and add students to it and store the channel ID in the team
         # The cohort name will always end in a number. Split on the space and get the last item
-        slack = SlackAPI()
+        # slack = SlackAPI()
         random_team_suffix = ''.join(random.choice(string.ascii_lowercase) for i in range(6))
         channel_name = f"{team_prefix}-{cohort.name.split(' ')[-1]}-{random_team_suffix}"
         # Lowercase the channel name
         channel_name = channel_name.lower()
-        try:
-            team.slack_channel = slack.create_channel(channel_name, student_list)
-        except Exception as ex:
-            return Response({'message': str(ex)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
-        team.save()
+        # try:
+        #     team.slack_channel = slack.create_channel(channel_name, student_list)
+        # except Exception as ex:
+        #     return Response({'message': str(ex)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+        # team.save()
 
         # Assign the students to the team. Use a for loop with enumerate to get the index of the student
         for student in student_list:
@@ -133,10 +135,11 @@ class TeamMakerView(ViewSet):
 
             # Send message to project team's Slack channel with the repository URL
             created_repo_url = f'https://github.com/{student_org_name}/{repo_name}'
-            slack.send_message(
-                text=f"🐙 Your client repository has been created. Visit the URL below and clone the project to your machine.\n\n{created_repo_url}",
-                channel=team.slack_channel
-            )
+            # slack.send_message(
+            #     text=f"🐙 Your client repository has been created. Visit the URL below and clone the project to your machine.\n\n{created_repo_url}",
+            #     channel=team.slack_channel
+            # )
+            slack_welcome_message = f"🐙 Your client repository has been created. Visit the URL below and clone the project to your machine.\n\n{created_repo_url}\n\n"
 
             # Create the API repository for the group project if it exists
             if project.api_template_url:
@@ -166,10 +169,11 @@ class TeamMakerView(ViewSet):
 
                 # Send message to project team's Slack channel with the repository URL
                 created_repo_url = f'https://github.com/{student_org_name}/{api_repo_name}'
-                slack.send_message(
-                    text=f"🐙 Your API repository has been created. Visit the URL below and clone the project to your machine.\n\n{created_repo_url}",
-                    channel=team.slack_channel
-                )
+                # slack.send_message(
+                #     text=f"🐙 Your API repository has been created. Visit the URL below and clone the project to your machine.\n\n{created_repo_url}",
+                #     channel=team.slack_channel
+                # )
+                slack_welcome_message += f"🐙 Your API repository has been created. Visit the URL below and clone the project to your machine.\n\n{created_repo_url}"
 
             message = json.dumps({
                 'notification_channel': cohort.slack_channel,
@@ -177,6 +181,19 @@ class TeamMakerView(ViewSet):
                 'all_target_repositories': issue_target_repos
             })
             valkey_client.publish('channel_migrate_issue_tickets', message)
+
+            member_slack_ids = set()
+            for member_id in student_list:
+                member = NssUser.objects.get(pk=member_id)
+                if member.slack_handle is not None:
+                    member_slack_ids.add(member.slack_handle)
+
+            message = json.dumps({
+                'channel_name': channel_name,
+                'student_slack_handles': member_slack_ids,
+                'repository_messages': slack_welcome_message
+            })
+            valkey_client.publish('channel_create_slack_channel', message)
 
         serialized_team = StudentTeamSerializer(team, many=False).data
 
