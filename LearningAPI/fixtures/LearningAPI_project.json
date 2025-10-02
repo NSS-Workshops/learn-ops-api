@@ -1,0 +1,2900 @@
+[
+{
+  "model": "LearningAPI.project",
+  "pk": 5,
+  "fields": {
+    "name": "Foundations Review",
+    "implementation_url": "n/a",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 2,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 6,
+  "fields": {
+    "name": "Leonid's Toys",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 2,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 7,
+  "fields": {
+    "name": "Daily Notes",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 2,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 8,
+  "fields": {
+    "name": "Functionland",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 3,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 9,
+  "fields": {
+    "name": "Function Flow",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 3,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 10,
+  "fields": {
+    "name": "Fish Fusion",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 3,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 11,
+  "fields": {
+    "name": "Martin's Aquarium",
+    "implementation_url": "ff",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 12,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 12,
+  "fields": {
+    "name": "DeShawn's Dog Walking",
+    "implementation_url": "ff",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 13,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 13,
+  "fields": {
+    "name": "Brewed Awakenings",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 13,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 14,
+  "fields": {
+    "name": "Tour Some Sugar",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 13,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 15,
+  "fields": {
+    "name": "Kneel Diamonds",
+    "implementation_url": "ff",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 14,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 16,
+  "fields": {
+    "name": "Car Builder",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 14,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 17,
+  "fields": {
+    "name": "Sink Repair",
+    "implementation_url": "ff",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 15,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 18,
+  "fields": {
+    "name": "Buttons the Clown",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 15,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 19,
+  "fields": {
+    "name": "1. Candy Corner ",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 16,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 20,
+  "fields": {
+    "name": "2. Honey Rae's",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 16,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 25,
+  "fields": {
+    "name": "Group: Exomine",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 14,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 26,
+  "fields": {
+    "name": "Python Kennels API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 17,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 27,
+  "fields": {
+    "name": "Kneel Diamonds API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 17,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 28,
+  "fields": {
+    "name": "Python Kennels API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 4,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 29,
+  "fields": {
+    "name": "Kneel Diamonds API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 4,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 30,
+  "fields": {
+    "name": "Daily Journal API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 4,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 31,
+  "fields": {
+    "name": "DeShawn's Dog Walking API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 5,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 32,
+  "fields": {
+    "name": "Honey Rae's API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 5,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 33,
+  "fields": {
+    "name": "Level Up",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 5,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 34,
+  "fields": {
+    "name": "Level Up Tests and Reports",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 6,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 35,
+  "fields": {
+    "name": "Bangazon API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 6,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 36,
+  "fields": {
+    "name": "Enthusiastic Moose",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 7,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 37,
+  "fields": {
+    "name": "Guessing Game",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 7,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 38,
+  "fields": {
+    "name": "Plan Your Heist",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 7,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 39,
+  "fields": {
+    "name": "Poems by Kids",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 7,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 40,
+  "fields": {
+    "name": "Dog Walker",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 8,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 41,
+  "fields": {
+    "name": "Tabloid MVC",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 8,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 42,
+  "fields": {
+    "name": "Coffee Shop",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 9,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 43,
+  "fields": {
+    "name": "Gifter",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 9,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 44,
+  "fields": {
+    "name": "Tabloid API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 9,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 45,
+  "fields": {
+    "name": "Group: Cider Falls",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 13,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 46,
+  "fields": {
+    "name": "Group: Holiday Road",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 15,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 47,
+  "fields": {
+    "name": "Group: Giffygram",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 15,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 48,
+  "fields": {
+    "name": "Group: Truncheons",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 15,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 49,
+  "fields": {
+    "name": "Honest Abe",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 15,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 50,
+  "fields": {
+    "name": "Group: Rare",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 4,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 52,
+  "fields": {
+    "name": "Group: CYOA",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 4,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 53,
+  "fields": {
+    "name": "Group: Django API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 5,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 54,
+  "fields": {
+    "name": "Elated Mane",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 5,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 55,
+  "fields": {
+    "name": "The Queen",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 18,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 56,
+  "fields": {
+    "name": "Surf Shop",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 18,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 57,
+  "fields": {
+    "name": "Björn",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 18,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 58,
+  "fields": {
+    "name": "1. Honey Rae's",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 16,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 59,
+  "fields": {
+    "name": "2. Candy Corner",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 16,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 60,
+  "fields": {
+    "name": "3. Honey Rae's",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 16,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 61,
+  "fields": {
+    "name": "3. Candy Corner",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 16,
+    "index": 5,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 62,
+  "fields": {
+    "name": "Explorer Chapters",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 16,
+    "index": 6,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 63,
+  "fields": {
+    "name": "Thorns and Roses",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 16,
+    "index": 7,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 64,
+  "fields": {
+    "name": "Movie Majesty",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 19,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 65,
+  "fields": {
+    "name": "Dynamite Duo",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 19,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 66,
+  "fields": {
+    "name": "Martin's Aquarium",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 19,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 67,
+  "fields": {
+    "name": "Dog Walking",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 20,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 68,
+  "fields": {
+    "name": "Shipping Ships",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 20,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 69,
+  "fields": {
+    "name": "Brewed Awakenings",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 20,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 70,
+  "fields": {
+    "name": "Tour Some Sugar",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 20,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 71,
+  "fields": {
+    "name": "(g) Fish Fusion",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 18,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 72,
+  "fields": {
+    "name": "(g) Exomine",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 21,
+    "index": 5,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 73,
+  "fields": {
+    "name": "Fox y Cat",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 21,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 74,
+  "fields": {
+    "name": "Indiana Jeans",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 21,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 75,
+  "fields": {
+    "name": "Kneel Diamonds",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 21,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 76,
+  "fields": {
+    "name": "Car Builder",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 21,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 77,
+  "fields": {
+    "name": "(g) Cider Falls",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 20,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 78,
+  "fields": {
+    "name": "Part 1",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 23,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 79,
+  "fields": {
+    "name": "Part 2",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 23,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 80,
+  "fields": {
+    "name": "Part 3",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 23,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 81,
+  "fields": {
+    "name": "(g) Holiday Road",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 21,
+    "index": 5,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 82,
+  "fields": {
+    "name": "(g) Truncheons",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 21,
+    "index": 5,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 84,
+  "fields": {
+    "name": "Thrown For A Loop",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 24,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 85,
+  "fields": {
+    "name": "ExtraVert",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 24,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 86,
+  "fields": {
+    "name": "Reductio & Absurdum",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 24,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 87,
+  "fields": {
+    "name": "Guessing Game",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 24,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 88,
+  "fields": {
+    "name": "Plan Your Heist",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 24,
+    "index": 5,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 89,
+  "fields": {
+    "name": "Honey Rae's Repairs",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 25,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 90,
+  "fields": {
+    "name": "Car Builder",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 25,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 91,
+  "fields": {
+    "name": "DeShawn's Dog Walking",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 25,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 92,
+  "fields": {
+    "name": "SQL Bolt",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 26,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 93,
+  "fields": {
+    "name": "Music History",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 26,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 94,
+  "fields": {
+    "name": "Poems By Kids",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 26,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 95,
+  "fields": {
+    "name": "Honey Rae's with Npgsql",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 26,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 96,
+  "fields": {
+    "name": "Creek River Campground",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 26,
+    "index": 5,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 97,
+  "fields": {
+    "name": "Loncotes County Library",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 26,
+    "index": 7,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 98,
+  "fields": {
+    "name": "Hillary's Hair Care",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 26,
+    "index": 9,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 99,
+  "fields": {
+    "name": "Inheritance - Gary's Garage",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 26,
+    "index": 6,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 100,
+  "fields": {
+    "name": "Nineties TV",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 26,
+    "index": 8,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 101,
+  "fields": {
+    "name": "Adventurer's Quest",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 26,
+    "index": 10,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 102,
+  "fields": {
+    "name": "Bianca's Bikes",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 27,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 103,
+  "fields": {
+    "name": "House Rules",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 27,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 104,
+  "fields": {
+    "name": "Shepherd's Pies",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 27,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 105,
+  "fields": {
+    "name": "Dog Walker MVC",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 28,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 106,
+  "fields": {
+    "name": "Interfaces - Gary's Garage",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 27,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 107,
+  "fields": {
+    "name": "Heist Part II - Classy Heist",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 27,
+    "index": 5,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 108,
+  "fields": {
+    "name": "Trestlebridge Farms",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 27,
+    "index": 6,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 109,
+  "fields": {
+    "name": "Tabloid",
+    "implementation_url": "",
+    "client_template_url": "https://github.com/nss-group-projects/Tabloid-Client",
+    "api_template_url": "https://github.com/nss-group-projects/Tabloid",
+    "book": 27,
+    "index": 7,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 110,
+  "fields": {
+    "name": "Critters & Croquettes",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 29,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 111,
+  "fields": {
+    "name": "Critters and Croquettes",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 30,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 112,
+  "fields": {
+    "name": "Ships Imperative API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 31,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 113,
+  "fields": {
+    "name": "Ships Declarative API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 31,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 114,
+  "fields": {
+    "name": "Kneel Diamonds",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 31,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 115,
+  "fields": {
+    "name": "Rare",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 31,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 116,
+  "fields": {
+    "name": "DeShawn",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 32,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 117,
+  "fields": {
+    "name": "Rock of Ages",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 32,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 118,
+  "fields": {
+    "name": "Readers Digest",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 32,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 120,
+  "fields": {
+    "name": "LevelUp Tests and Reports",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 33,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 121,
+  "fields": {
+    "name": "Bangazon",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 33,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 122,
+  "fields": {
+    "name": "Part 4",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 23,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 123,
+  "fields": {
+    "name": "Seasonal Styles",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 30,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 124,
+  "fields": {
+    "name": "Group: Rare",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 32,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 125,
+  "fields": {
+    "name": "Level Up",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 32,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 126,
+  "fields": {
+    "name": "Foundations Review",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 34,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 127,
+  "fields": {
+    "name": "Leonid's Toys",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 34,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 128,
+  "fields": {
+    "name": "Daily Notes",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 34,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 129,
+  "fields": {
+    "name": "Python Intro",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 35,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 130,
+  "fields": {
+    "name": "Critters",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 35,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 131,
+  "fields": {
+    "name": "SQL Intro",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 35,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 132,
+  "fields": {
+    "name": "Shipping Ships",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 35,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 133,
+  "fields": {
+    "name": "Kneel Diamonds",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 35,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 134,
+  "fields": {
+    "name": "SQL Refresh",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 36,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 135,
+  "fields": {
+    "name": "DeShawn",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 36,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 136,
+  "fields": {
+    "name": "Rock of Ages",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 36,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 137,
+  "fields": {
+    "name": "Readers Digest",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 36,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 139,
+  "fields": {
+    "name": "Honest Abe",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 21,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 140,
+  "fields": {
+    "name": "Gamer Rater",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 36,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 141,
+  "fields": {
+    "name": "Modern Farm",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 19,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 142,
+  "fields": {
+    "name": "Her Majesty",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 37,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 143,
+  "fields": {
+    "name": "Sequina",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 37,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 144,
+  "fields": {
+    "name": "Bjorn",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 37,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 145,
+  "fields": {
+    "name": "Dynamite",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 38,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 146,
+  "fields": {
+    "name": "Movie Majesty",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 38,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 147,
+  "fields": {
+    "name": "Aquarium",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 38,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 148,
+  "fields": {
+    "name": "Dog Walking",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 39,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 149,
+  "fields": {
+    "name": "Shipping Ships",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 39,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 150,
+  "fields": {
+    "name": "Brewed Awakening",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 39,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 151,
+  "fields": {
+    "name": "Fox y Dog",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 40,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 152,
+  "fields": {
+    "name": "Indiana jeans",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 40,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 153,
+  "fields": {
+    "name": "Kneel Diamonds",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 40,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 154,
+  "fields": {
+    "name": "Car Builder",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 40,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 155,
+  "fields": {
+    "name": "Section 1",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 41,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 156,
+  "fields": {
+    "name": "Section 2",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 41,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 157,
+  "fields": {
+    "name": "Section 3",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 41,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 158,
+  "fields": {
+    "name": "Fish Fusion",
+    "implementation_url": "",
+    "client_template_url": "https://github.com/nss-group-projects/fish-fusion",
+    "api_template_url": "",
+    "book": 37,
+    "index": 3,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 159,
+  "fields": {
+    "name": "Modern Farm",
+    "implementation_url": "",
+    "client_template_url": "https://github.com/nss-group-projects/modern-farm",
+    "api_template_url": "",
+    "book": 38,
+    "index": 3,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 160,
+  "fields": {
+    "name": "Cider Falls",
+    "implementation_url": "",
+    "client_template_url": "https://github.com/nss-group-projects/cider-falls",
+    "api_template_url": "",
+    "book": 39,
+    "index": 3,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 161,
+  "fields": {
+    "name": "Exomine",
+    "implementation_url": "",
+    "client_template_url": "https://github.com/nss-group-projects/exomine",
+    "api_template_url": "",
+    "book": 40,
+    "index": 4,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 162,
+  "fields": {
+    "name": "Shepherds Pie",
+    "implementation_url": "",
+    "client_template_url": "https://github.com/nss-group-projects/shepherds-pies-frontend",
+    "api_template_url": "",
+    "book": 41,
+    "index": 4,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 163,
+  "fields": {
+    "name": "Rare for Python",
+    "implementation_url": "https://github.com/nss-group-projects/rare-client",
+    "client_template_url": "https://github.com/nss-group-projects/rare-client",
+    "api_template_url": "https://github.com/nss-group-projects/python-rare-server-template",
+    "book": 35,
+    "index": 5,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 164,
+  "fields": {
+    "name": "Bangazon",
+    "implementation_url": "",
+    "client_template_url": "https://github.com/nss-group-projects/bangazon-client",
+    "api_template_url": "https://github.com/nss-group-projects/bangazon-api",
+    "book": 36,
+    "index": 4,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 166,
+  "fields": {
+    "name": "Section 4",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 41,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 167,
+  "fields": {
+    "name": "Adventurer's Quest",
+    "implementation_url": "",
+    "client_template_url": "https://github.com/nss-group-projects/adventurer-quest",
+    "api_template_url": "",
+    "book": 26,
+    "index": 13,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 168,
+  "fields": {
+    "name": "Her Majesty",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 42,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 169,
+  "fields": {
+    "name": "Sequina",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 42,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 170,
+  "fields": {
+    "name": "Bjorn",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 42,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 172,
+  "fields": {
+    "name": " Dynamite",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 43,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 173,
+  "fields": {
+    "name": "Movie Majesty",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 43,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 174,
+  "fields": {
+    "name": "Aquarium",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 43,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 176,
+  "fields": {
+    "name": "Fox y Dog",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 45,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 177,
+  "fields": {
+    "name": "Indiana jeans",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 45,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 178,
+  "fields": {
+    "name": "Kneel Diamonds",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 45,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 179,
+  "fields": {
+    "name": "Car Builder",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 45,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 181,
+  "fields": {
+    "name": "Section 1",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 46,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 182,
+  "fields": {
+    "name": "Section 2",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 46,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 183,
+  "fields": {
+    "name": "Section 3",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 46,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 184,
+  "fields": {
+    "name": "Section 4",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 46,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 186,
+  "fields": {
+    "name": "no-op",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 47,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 188,
+  "fields": {
+    "name": "no-op",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 49,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 189,
+  "fields": {
+    "name": "Section",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 44,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 190,
+  "fields": {
+    "name": "no-op",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 50,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 191,
+  "fields": {
+    "name": "Exomine API",
+    "implementation_url": "",
+    "client_template_url": "https://github.com/nss-group-projects/Exomine-Dummy",
+    "api_template_url": "https://github.com/nss-group-projects/exomine-API",
+    "book": 25,
+    "index": 3,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 192,
+  "fields": {
+    "name": "Thrown for a Loop",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 51,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 193,
+  "fields": {
+    "name": "Pair: Reducto & Absurdum",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 51,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 194,
+  "fields": {
+    "name": "AI: Generate Thrown",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 51,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 196,
+  "fields": {
+    "name": "Guessing Game",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 51,
+    "index": 4,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 197,
+  "fields": {
+    "name": "Plan your Heist",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 51,
+    "index": 5,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 198,
+  "fields": {
+    "name": "Honey Raes",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 52,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 199,
+  "fields": {
+    "name": "Car Builder",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 52,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 200,
+  "fields": {
+    "name": "Pair: Deshawns",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 52,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 201,
+  "fields": {
+    "name": "AI: Generate Honey Rae",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 52,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 203,
+  "fields": {
+    "name": "Exomine API",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 52,
+    "index": 5,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 204,
+  "fields": {
+    "name": "Learning SQL",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 53,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 205,
+  "fields": {
+    "name": "Honey Raes DB",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 53,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 206,
+  "fields": {
+    "name": "Creek River",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 53,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 207,
+  "fields": {
+    "name": "Pair: Hillarys",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 53,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 208,
+  "fields": {
+    "name": "AI: Generate Creek River",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 53,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 210,
+  "fields": {
+    "name": "Travel Logger",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 53,
+    "index": 6,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 211,
+  "fields": {
+    "name": "Explorer Chapters",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 53,
+    "index": 7,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 212,
+  "fields": {
+    "name": "Biancas Bike Shop",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 54,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 213,
+  "fields": {
+    "name": "Pair: Shepherd Pies",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 54,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 214,
+  "fields": {
+    "name": "AI: Generate Bianca",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 54,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 215,
+  "fields": {
+    "name": "Tabloid",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 54,
+    "index": 3,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 216,
+  "fields": {
+    "name": "Explorer Chapters",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 54,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 217,
+  "fields": {
+    "name": "Quick Intro",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 55,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 218,
+  "fields": {
+    "name": "ExtraVert",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 55,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 219,
+  "fields": {
+    "name": "SQL Intro",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 55,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 220,
+  "fields": {
+    "name": "Harbor Master",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 55,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 221,
+  "fields": {
+    "name": "Jewelry Junction",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 55,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 222,
+  "fields": {
+    "name": "Creek River",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 56,
+    "index": 0,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 223,
+  "fields": {
+    "name": "Loncotes Library",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 56,
+    "index": 1,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 224,
+  "fields": {
+    "name": "Tiny Treats",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 56,
+    "index": 2,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 225,
+  "fields": {
+    "name": "Test Tubes",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 56,
+    "index": 3,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 226,
+  "fields": {
+    "name": "Event Horizon",
+    "implementation_url": "",
+    "client_template_url": "",
+    "api_template_url": "",
+    "book": 56,
+    "index": 4,
+    "active": true,
+    "is_group_project": false
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 227,
+  "fields": {
+    "name": "Rare for C#",
+    "implementation_url": "",
+    "client_template_url": "http://github.com/nss-group-projects/rare-client",
+    "api_template_url": "https://github.com/nss-group-projects/RareAPI",
+    "book": 55,
+    "index": 5,
+    "active": true,
+    "is_group_project": true
+  }
+},
+{
+  "model": "LearningAPI.project",
+  "pk": 228,
+  "fields": {
+    "name": "PetPal",
+    "implementation_url": "",
+    "client_template_url": "https://github.com/nss-group-projects/pet-pal-client",
+    "api_template_url": "https://github.com/nss-group-projects/pet-pal-server",
+    "book": 56,
+    "index": 5,
+    "active": true,
+    "is_group_project": true
+  }
+}
+]

@@ -1,0 +1,4673 @@
+[
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 3,
+  "fields": {
+    "nss_user": 14,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 4,
+  "fields": {
+    "nss_user": 15,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 5,
+  "fields": {
+    "nss_user": 16,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 6,
+  "fields": {
+    "nss_user": 17,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 7,
+  "fields": {
+    "nss_user": 18,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 8,
+  "fields": {
+    "nss_user": 20,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 9,
+  "fields": {
+    "nss_user": 19,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 10,
+  "fields": {
+    "nss_user": 22,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 11,
+  "fields": {
+    "nss_user": 23,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 12,
+  "fields": {
+    "nss_user": 21,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 13,
+  "fields": {
+    "nss_user": 24,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 14,
+  "fields": {
+    "nss_user": 25,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 15,
+  "fields": {
+    "nss_user": 27,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 16,
+  "fields": {
+    "nss_user": 26,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 17,
+  "fields": {
+    "nss_user": 28,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 18,
+  "fields": {
+    "nss_user": 30,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 19,
+  "fields": {
+    "nss_user": 29,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 20,
+  "fields": {
+    "nss_user": 31,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 21,
+  "fields": {
+    "nss_user": 32,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 22,
+  "fields": {
+    "nss_user": 34,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 23,
+  "fields": {
+    "nss_user": 33,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 24,
+  "fields": {
+    "nss_user": 35,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 25,
+  "fields": {
+    "nss_user": 37,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 26,
+  "fields": {
+    "nss_user": 36,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 27,
+  "fields": {
+    "nss_user": 38,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 28,
+  "fields": {
+    "nss_user": 39,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 29,
+  "fields": {
+    "nss_user": 40,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 30,
+  "fields": {
+    "nss_user": 42,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 31,
+  "fields": {
+    "nss_user": 41,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 32,
+  "fields": {
+    "nss_user": 43,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 33,
+  "fields": {
+    "nss_user": 44,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 34,
+  "fields": {
+    "nss_user": 45,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 36,
+  "fields": {
+    "nss_user": 54,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 37,
+  "fields": {
+    "nss_user": 74,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 38,
+  "fields": {
+    "nss_user": 71,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 39,
+  "fields": {
+    "nss_user": 68,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 40,
+  "fields": {
+    "nss_user": 67,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 41,
+  "fields": {
+    "nss_user": 70,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 43,
+  "fields": {
+    "nss_user": 63,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 45,
+  "fields": {
+    "nss_user": 59,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 46,
+  "fields": {
+    "nss_user": 62,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 47,
+  "fields": {
+    "nss_user": 66,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 48,
+  "fields": {
+    "nss_user": 65,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 50,
+  "fields": {
+    "nss_user": 53,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 51,
+  "fields": {
+    "nss_user": 73,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 53,
+  "fields": {
+    "nss_user": 57,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 54,
+  "fields": {
+    "nss_user": 61,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 56,
+  "fields": {
+    "nss_user": 55,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 57,
+  "fields": {
+    "nss_user": 56,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 58,
+  "fields": {
+    "nss_user": 58,
+    "cohort": 5,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 59,
+  "fields": {
+    "nss_user": 76,
+    "cohort": 3,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 60,
+  "fields": {
+    "nss_user": 80,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 61,
+  "fields": {
+    "nss_user": 87,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 62,
+  "fields": {
+    "nss_user": 83,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 63,
+  "fields": {
+    "nss_user": 86,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 64,
+  "fields": {
+    "nss_user": 90,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 65,
+  "fields": {
+    "nss_user": 84,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 66,
+  "fields": {
+    "nss_user": 92,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 67,
+  "fields": {
+    "nss_user": 89,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 68,
+  "fields": {
+    "nss_user": 88,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 69,
+  "fields": {
+    "nss_user": 85,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 70,
+  "fields": {
+    "nss_user": 81,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 71,
+  "fields": {
+    "nss_user": 82,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 72,
+  "fields": {
+    "nss_user": 91,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 73,
+  "fields": {
+    "nss_user": 93,
+    "cohort": 6,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 74,
+  "fields": {
+    "nss_user": 116,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 75,
+  "fields": {
+    "nss_user": 105,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 76,
+  "fields": {
+    "nss_user": 107,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 77,
+  "fields": {
+    "nss_user": 101,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 78,
+  "fields": {
+    "nss_user": 115,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 79,
+  "fields": {
+    "nss_user": 114,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 80,
+  "fields": {
+    "nss_user": 97,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 81,
+  "fields": {
+    "nss_user": 109,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 82,
+  "fields": {
+    "nss_user": 102,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 83,
+  "fields": {
+    "nss_user": 112,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 84,
+  "fields": {
+    "nss_user": 108,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 85,
+  "fields": {
+    "nss_user": 118,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 87,
+  "fields": {
+    "nss_user": 103,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 88,
+  "fields": {
+    "nss_user": 98,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 90,
+  "fields": {
+    "nss_user": 117,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 91,
+  "fields": {
+    "nss_user": 119,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 92,
+  "fields": {
+    "nss_user": 113,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 93,
+  "fields": {
+    "nss_user": 100,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 94,
+  "fields": {
+    "nss_user": 106,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 95,
+  "fields": {
+    "nss_user": 104,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 96,
+  "fields": {
+    "nss_user": 110,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 97,
+  "fields": {
+    "nss_user": 75,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 98,
+  "fields": {
+    "nss_user": 64,
+    "cohort": 7,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 99,
+  "fields": {
+    "nss_user": 72,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 100,
+  "fields": {
+    "nss_user": 146,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 101,
+  "fields": {
+    "nss_user": 132,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 102,
+  "fields": {
+    "nss_user": 135,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 103,
+  "fields": {
+    "nss_user": 124,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 104,
+  "fields": {
+    "nss_user": 125,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 105,
+  "fields": {
+    "nss_user": 127,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 107,
+  "fields": {
+    "nss_user": 131,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 108,
+  "fields": {
+    "nss_user": 134,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 109,
+  "fields": {
+    "nss_user": 138,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 110,
+  "fields": {
+    "nss_user": 144,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 111,
+  "fields": {
+    "nss_user": 133,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 112,
+  "fields": {
+    "nss_user": 123,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 113,
+  "fields": {
+    "nss_user": 128,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 114,
+  "fields": {
+    "nss_user": 126,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 115,
+  "fields": {
+    "nss_user": 142,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 116,
+  "fields": {
+    "nss_user": 136,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 117,
+  "fields": {
+    "nss_user": 139,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 119,
+  "fields": {
+    "nss_user": 137,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 121,
+  "fields": {
+    "nss_user": 145,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 122,
+  "fields": {
+    "nss_user": 122,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 124,
+  "fields": {
+    "nss_user": 148,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 125,
+  "fields": {
+    "nss_user": 129,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 129,
+  "fields": {
+    "nss_user": 162,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 131,
+  "fields": {
+    "nss_user": 169,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 132,
+  "fields": {
+    "nss_user": 170,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 133,
+  "fields": {
+    "nss_user": 156,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 134,
+  "fields": {
+    "nss_user": 161,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 135,
+  "fields": {
+    "nss_user": 160,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 136,
+  "fields": {
+    "nss_user": 173,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 137,
+  "fields": {
+    "nss_user": 171,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 139,
+  "fields": {
+    "nss_user": 174,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 140,
+  "fields": {
+    "nss_user": 165,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 141,
+  "fields": {
+    "nss_user": 163,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 142,
+  "fields": {
+    "nss_user": 167,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 143,
+  "fields": {
+    "nss_user": 168,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 145,
+  "fields": {
+    "nss_user": 158,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 146,
+  "fields": {
+    "nss_user": 175,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 147,
+  "fields": {
+    "nss_user": 159,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 148,
+  "fields": {
+    "nss_user": 157,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 149,
+  "fields": {
+    "nss_user": 164,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 150,
+  "fields": {
+    "nss_user": 155,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 151,
+  "fields": {
+    "nss_user": 154,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 153,
+  "fields": {
+    "nss_user": 178,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 154,
+  "fields": {
+    "nss_user": 179,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 155,
+  "fields": {
+    "nss_user": 99,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 156,
+  "fields": {
+    "nss_user": 111,
+    "cohort": 10,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 157,
+  "fields": {
+    "nss_user": 143,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 158,
+  "fields": {
+    "nss_user": 184,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 159,
+  "fields": {
+    "nss_user": 182,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 160,
+  "fields": {
+    "nss_user": 185,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 161,
+  "fields": {
+    "nss_user": 187,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 164,
+  "fields": {
+    "nss_user": 190,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 166,
+  "fields": {
+    "nss_user": 181,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 167,
+  "fields": {
+    "nss_user": 189,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 169,
+  "fields": {
+    "nss_user": 195,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 170,
+  "fields": {
+    "nss_user": 193,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 171,
+  "fields": {
+    "nss_user": 191,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 172,
+  "fields": {
+    "nss_user": 200,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 174,
+  "fields": {
+    "nss_user": 199,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 175,
+  "fields": {
+    "nss_user": 194,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 176,
+  "fields": {
+    "nss_user": 201,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 177,
+  "fields": {
+    "nss_user": 202,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 179,
+  "fields": {
+    "nss_user": 205,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 180,
+  "fields": {
+    "nss_user": 204,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 181,
+  "fields": {
+    "nss_user": 197,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 182,
+  "fields": {
+    "nss_user": 188,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 185,
+  "fields": {
+    "nss_user": 207,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 186,
+  "fields": {
+    "nss_user": 206,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 188,
+  "fields": {
+    "nss_user": 198,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 189,
+  "fields": {
+    "nss_user": 209,
+    "cohort": 9,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 190,
+  "fields": {
+    "nss_user": 150,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 191,
+  "fields": {
+    "nss_user": 222,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 192,
+  "fields": {
+    "nss_user": 217,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 193,
+  "fields": {
+    "nss_user": 218,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 194,
+  "fields": {
+    "nss_user": 234,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 195,
+  "fields": {
+    "nss_user": 211,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 196,
+  "fields": {
+    "nss_user": 227,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 197,
+  "fields": {
+    "nss_user": 215,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 198,
+  "fields": {
+    "nss_user": 147,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 199,
+  "fields": {
+    "nss_user": 229,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 200,
+  "fields": {
+    "nss_user": 232,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 201,
+  "fields": {
+    "nss_user": 214,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 202,
+  "fields": {
+    "nss_user": 212,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 203,
+  "fields": {
+    "nss_user": 225,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 204,
+  "fields": {
+    "nss_user": 226,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 206,
+  "fields": {
+    "nss_user": 213,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 207,
+  "fields": {
+    "nss_user": 219,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 208,
+  "fields": {
+    "nss_user": 233,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 209,
+  "fields": {
+    "nss_user": 220,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 210,
+  "fields": {
+    "nss_user": 223,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 211,
+  "fields": {
+    "nss_user": 221,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 212,
+  "fields": {
+    "nss_user": 224,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 213,
+  "fields": {
+    "nss_user": 231,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 214,
+  "fields": {
+    "nss_user": 230,
+    "cohort": 12,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 224,
+  "fields": {
+    "nss_user": 49,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 227,
+  "fields": {
+    "nss_user": 236,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 230,
+  "fields": {
+    "nss_user": 239,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 231,
+  "fields": {
+    "nss_user": 242,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 232,
+  "fields": {
+    "nss_user": 240,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 233,
+  "fields": {
+    "nss_user": 241,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 234,
+  "fields": {
+    "nss_user": 243,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 235,
+  "fields": {
+    "nss_user": 244,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 236,
+  "fields": {
+    "nss_user": 245,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 237,
+  "fields": {
+    "nss_user": 247,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 238,
+  "fields": {
+    "nss_user": 246,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 239,
+  "fields": {
+    "nss_user": 248,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 241,
+  "fields": {
+    "nss_user": 251,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 242,
+  "fields": {
+    "nss_user": 250,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 243,
+  "fields": {
+    "nss_user": 252,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 244,
+  "fields": {
+    "nss_user": 254,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 245,
+  "fields": {
+    "nss_user": 253,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 246,
+  "fields": {
+    "nss_user": 255,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 248,
+  "fields": {
+    "nss_user": 256,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 249,
+  "fields": {
+    "nss_user": 257,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 250,
+  "fields": {
+    "nss_user": 258,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 253,
+  "fields": {
+    "nss_user": 180,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 258,
+  "fields": {
+    "nss_user": 262,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 265,
+  "fields": {
+    "nss_user": 172,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 272,
+  "fields": {
+    "nss_user": 176,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 273,
+  "fields": {
+    "nss_user": 263,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 276,
+  "fields": {
+    "nss_user": 154,
+    "cohort": 11,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 301,
+  "fields": {
+    "nss_user": 275,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 302,
+  "fields": {
+    "nss_user": 282,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 303,
+  "fields": {
+    "nss_user": 273,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 306,
+  "fields": {
+    "nss_user": 278,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 307,
+  "fields": {
+    "nss_user": 277,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 308,
+  "fields": {
+    "nss_user": 281,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 309,
+  "fields": {
+    "nss_user": 279,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 310,
+  "fields": {
+    "nss_user": 268,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 311,
+  "fields": {
+    "nss_user": 276,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 312,
+  "fields": {
+    "nss_user": 267,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 313,
+  "fields": {
+    "nss_user": 271,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 314,
+  "fields": {
+    "nss_user": 272,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 315,
+  "fields": {
+    "nss_user": 270,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 316,
+  "fields": {
+    "nss_user": 274,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 317,
+  "fields": {
+    "nss_user": 284,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 318,
+  "fields": {
+    "nss_user": 283,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 320,
+  "fields": {
+    "nss_user": 166,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 326,
+  "fields": {
+    "nss_user": 285,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 327,
+  "fields": {
+    "nss_user": 286,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 333,
+  "fields": {
+    "nss_user": 289,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 334,
+  "fields": {
+    "nss_user": 288,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 341,
+  "fields": {
+    "nss_user": 291,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 351,
+  "fields": {
+    "nss_user": 266,
+    "cohort": 15,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 355,
+  "fields": {
+    "nss_user": 94,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 358,
+  "fields": {
+    "nss_user": 183,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 361,
+  "fields": {
+    "nss_user": 60,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 362,
+  "fields": {
+    "nss_user": 294,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 363,
+  "fields": {
+    "nss_user": 295,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 364,
+  "fields": {
+    "nss_user": 296,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 365,
+  "fields": {
+    "nss_user": 297,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 366,
+  "fields": {
+    "nss_user": 298,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 367,
+  "fields": {
+    "nss_user": 299,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 368,
+  "fields": {
+    "nss_user": 300,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 369,
+  "fields": {
+    "nss_user": 301,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 370,
+  "fields": {
+    "nss_user": 302,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 371,
+  "fields": {
+    "nss_user": 303,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 372,
+  "fields": {
+    "nss_user": 304,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 373,
+  "fields": {
+    "nss_user": 305,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 377,
+  "fields": {
+    "nss_user": 309,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 378,
+  "fields": {
+    "nss_user": 310,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 379,
+  "fields": {
+    "nss_user": 311,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 380,
+  "fields": {
+    "nss_user": 312,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 382,
+  "fields": {
+    "nss_user": 314,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 383,
+  "fields": {
+    "nss_user": 315,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 384,
+  "fields": {
+    "nss_user": 316,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 385,
+  "fields": {
+    "nss_user": 317,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 386,
+  "fields": {
+    "nss_user": 318,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 387,
+  "fields": {
+    "nss_user": 319,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 388,
+  "fields": {
+    "nss_user": 235,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 389,
+  "fields": {
+    "nss_user": 293,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 390,
+  "fields": {
+    "nss_user": 320,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 392,
+  "fields": {
+    "nss_user": 321,
+    "cohort": 13,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 396,
+  "fields": {
+    "nss_user": 324,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 397,
+  "fields": {
+    "nss_user": 325,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 398,
+  "fields": {
+    "nss_user": 326,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 399,
+  "fields": {
+    "nss_user": 327,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 400,
+  "fields": {
+    "nss_user": 328,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 401,
+  "fields": {
+    "nss_user": 329,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 402,
+  "fields": {
+    "nss_user": 323,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 403,
+  "fields": {
+    "nss_user": 330,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 404,
+  "fields": {
+    "nss_user": 331,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 405,
+  "fields": {
+    "nss_user": 332,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 406,
+  "fields": {
+    "nss_user": 333,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 408,
+  "fields": {
+    "nss_user": 335,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 410,
+  "fields": {
+    "nss_user": 337,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 412,
+  "fields": {
+    "nss_user": 339,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 413,
+  "fields": {
+    "nss_user": 340,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 414,
+  "fields": {
+    "nss_user": 341,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 416,
+  "fields": {
+    "nss_user": 343,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 417,
+  "fields": {
+    "nss_user": 344,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 418,
+  "fields": {
+    "nss_user": 345,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 419,
+  "fields": {
+    "nss_user": 346,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 421,
+  "fields": {
+    "nss_user": 348,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 422,
+  "fields": {
+    "nss_user": 349,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 423,
+  "fields": {
+    "nss_user": 140,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 424,
+  "fields": {
+    "nss_user": 350,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 426,
+  "fields": {
+    "nss_user": 141,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 427,
+  "fields": {
+    "nss_user": 351,
+    "cohort": 14,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 431,
+  "fields": {
+    "nss_user": 362,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 432,
+  "fields": {
+    "nss_user": 363,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 433,
+  "fields": {
+    "nss_user": 364,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 434,
+  "fields": {
+    "nss_user": 365,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 436,
+  "fields": {
+    "nss_user": 367,
+    "cohort": 24,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 438,
+  "fields": {
+    "nss_user": 369,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 439,
+  "fields": {
+    "nss_user": 370,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 440,
+  "fields": {
+    "nss_user": 371,
+    "cohort": 24,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 441,
+  "fields": {
+    "nss_user": 372,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 443,
+  "fields": {
+    "nss_user": 374,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 444,
+  "fields": {
+    "nss_user": 375,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 446,
+  "fields": {
+    "nss_user": 377,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 447,
+  "fields": {
+    "nss_user": 96,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 448,
+  "fields": {
+    "nss_user": 355,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 449,
+  "fields": {
+    "nss_user": 354,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 450,
+  "fields": {
+    "nss_user": 358,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 451,
+  "fields": {
+    "nss_user": 356,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 452,
+  "fields": {
+    "nss_user": 359,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 453,
+  "fields": {
+    "nss_user": 280,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 454,
+  "fields": {
+    "nss_user": 353,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 455,
+  "fields": {
+    "nss_user": 352,
+    "cohort": 24,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 457,
+  "fields": {
+    "nss_user": 360,
+    "cohort": 24,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 458,
+  "fields": {
+    "nss_user": 361,
+    "cohort": 24,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 473,
+  "fields": {
+    "nss_user": 378,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 474,
+  "fields": {
+    "nss_user": 380,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 475,
+  "fields": {
+    "nss_user": 381,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 476,
+  "fields": {
+    "nss_user": 382,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 477,
+  "fields": {
+    "nss_user": 383,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 479,
+  "fields": {
+    "nss_user": 385,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 480,
+  "fields": {
+    "nss_user": 386,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 481,
+  "fields": {
+    "nss_user": 387,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 482,
+  "fields": {
+    "nss_user": 388,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 491,
+  "fields": {
+    "nss_user": 347,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 492,
+  "fields": {
+    "nss_user": 379,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 507,
+  "fields": {
+    "nss_user": 264,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 514,
+  "fields": {
+    "nss_user": 237,
+    "cohort": 23,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 519,
+  "fields": {
+    "nss_user": 307,
+    "cohort": 25,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 535,
+  "fields": {
+    "nss_user": 391,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 537,
+  "fields": {
+    "nss_user": 393,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 538,
+  "fields": {
+    "nss_user": 394,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 540,
+  "fields": {
+    "nss_user": 396,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 541,
+  "fields": {
+    "nss_user": 397,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 542,
+  "fields": {
+    "nss_user": 398,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 543,
+  "fields": {
+    "nss_user": 399,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 544,
+  "fields": {
+    "nss_user": 400,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 546,
+  "fields": {
+    "nss_user": 402,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 547,
+  "fields": {
+    "nss_user": 403,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 550,
+  "fields": {
+    "nss_user": 406,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 552,
+  "fields": {
+    "nss_user": 408,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 554,
+  "fields": {
+    "nss_user": 410,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 555,
+  "fields": {
+    "nss_user": 411,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 556,
+  "fields": {
+    "nss_user": 412,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 557,
+  "fields": {
+    "nss_user": 413,
+    "cohort": 27,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 559,
+  "fields": {
+    "nss_user": 415,
+    "cohort": 27,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 560,
+  "fields": {
+    "nss_user": 416,
+    "cohort": 27,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 573,
+  "fields": {
+    "nss_user": 419,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 574,
+  "fields": {
+    "nss_user": 420,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 575,
+  "fields": {
+    "nss_user": 421,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 576,
+  "fields": {
+    "nss_user": 422,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 577,
+  "fields": {
+    "nss_user": 423,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 578,
+  "fields": {
+    "nss_user": 424,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 579,
+  "fields": {
+    "nss_user": 425,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 581,
+  "fields": {
+    "nss_user": 427,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 582,
+  "fields": {
+    "nss_user": 428,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 583,
+  "fields": {
+    "nss_user": 429,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 585,
+  "fields": {
+    "nss_user": 431,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 587,
+  "fields": {
+    "nss_user": 433,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 589,
+  "fields": {
+    "nss_user": 435,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 591,
+  "fields": {
+    "nss_user": 436,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 592,
+  "fields": {
+    "nss_user": 437,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 593,
+  "fields": {
+    "nss_user": 438,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 594,
+  "fields": {
+    "nss_user": 439,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 599,
+  "fields": {
+    "nss_user": 418,
+    "cohort": 28,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 632,
+  "fields": {
+    "nss_user": 440,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 633,
+  "fields": {
+    "nss_user": 441,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 634,
+  "fields": {
+    "nss_user": 442,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 636,
+  "fields": {
+    "nss_user": 444,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 637,
+  "fields": {
+    "nss_user": 445,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 638,
+  "fields": {
+    "nss_user": 446,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 639,
+  "fields": {
+    "nss_user": 447,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 640,
+  "fields": {
+    "nss_user": 448,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 641,
+  "fields": {
+    "nss_user": 449,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 642,
+  "fields": {
+    "nss_user": 450,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 643,
+  "fields": {
+    "nss_user": 451,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 645,
+  "fields": {
+    "nss_user": 453,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 646,
+  "fields": {
+    "nss_user": 454,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 647,
+  "fields": {
+    "nss_user": 455,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 648,
+  "fields": {
+    "nss_user": 456,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 650,
+  "fields": {
+    "nss_user": 458,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 651,
+  "fields": {
+    "nss_user": 459,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 652,
+  "fields": {
+    "nss_user": 460,
+    "cohort": 29,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 891,
+  "fields": {
+    "nss_user": 467,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 892,
+  "fields": {
+    "nss_user": 468,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 893,
+  "fields": {
+    "nss_user": 469,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 894,
+  "fields": {
+    "nss_user": 470,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 895,
+  "fields": {
+    "nss_user": 471,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 896,
+  "fields": {
+    "nss_user": 472,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 897,
+  "fields": {
+    "nss_user": 473,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 898,
+  "fields": {
+    "nss_user": 474,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 899,
+  "fields": {
+    "nss_user": 475,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 900,
+  "fields": {
+    "nss_user": 476,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 901,
+  "fields": {
+    "nss_user": 477,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 902,
+  "fields": {
+    "nss_user": 478,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 903,
+  "fields": {
+    "nss_user": 479,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 905,
+  "fields": {
+    "nss_user": 481,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 906,
+  "fields": {
+    "nss_user": 405,
+    "cohort": 30,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 916,
+  "fields": {
+    "nss_user": 69,
+    "cohort": 29,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 917,
+  "fields": {
+    "nss_user": 426,
+    "cohort": 35,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 924,
+  "fields": {
+    "nss_user": 483,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 925,
+  "fields": {
+    "nss_user": 484,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 926,
+  "fields": {
+    "nss_user": 485,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 927,
+  "fields": {
+    "nss_user": 486,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 928,
+  "fields": {
+    "nss_user": 487,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 930,
+  "fields": {
+    "nss_user": 489,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 932,
+  "fields": {
+    "nss_user": 491,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 933,
+  "fields": {
+    "nss_user": 492,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 934,
+  "fields": {
+    "nss_user": 493,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 936,
+  "fields": {
+    "nss_user": 494,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 937,
+  "fields": {
+    "nss_user": 495,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 938,
+  "fields": {
+    "nss_user": 496,
+    "cohort": 31,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 950,
+  "fields": {
+    "nss_user": 502,
+    "cohort": 32,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 951,
+  "fields": {
+    "nss_user": 503,
+    "cohort": 32,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 953,
+  "fields": {
+    "nss_user": 505,
+    "cohort": 32,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 955,
+  "fields": {
+    "nss_user": 507,
+    "cohort": 32,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 956,
+  "fields": {
+    "nss_user": 508,
+    "cohort": 32,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 958,
+  "fields": {
+    "nss_user": 510,
+    "cohort": 32,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 959,
+  "fields": {
+    "nss_user": 512,
+    "cohort": 32,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 961,
+  "fields": {
+    "nss_user": 514,
+    "cohort": 32,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 962,
+  "fields": {
+    "nss_user": 515,
+    "cohort": 32,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 965,
+  "fields": {
+    "nss_user": 518,
+    "cohort": 32,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1000,
+  "fields": {
+    "nss_user": 537,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1001,
+  "fields": {
+    "nss_user": 538,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1002,
+  "fields": {
+    "nss_user": 539,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1003,
+  "fields": {
+    "nss_user": 540,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1004,
+  "fields": {
+    "nss_user": 541,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1005,
+  "fields": {
+    "nss_user": 542,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1006,
+  "fields": {
+    "nss_user": 543,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1007,
+  "fields": {
+    "nss_user": 544,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1008,
+  "fields": {
+    "nss_user": 545,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1009,
+  "fields": {
+    "nss_user": 546,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1010,
+  "fields": {
+    "nss_user": 547,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1011,
+  "fields": {
+    "nss_user": 548,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1012,
+  "fields": {
+    "nss_user": 549,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1013,
+  "fields": {
+    "nss_user": 550,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1014,
+  "fields": {
+    "nss_user": 551,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1015,
+  "fields": {
+    "nss_user": 552,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1018,
+  "fields": {
+    "nss_user": 553,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1019,
+  "fields": {
+    "nss_user": 554,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1021,
+  "fields": {
+    "nss_user": 556,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1023,
+  "fields": {
+    "nss_user": 559,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1024,
+  "fields": {
+    "nss_user": 562,
+    "cohort": 33,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1025,
+  "fields": {
+    "nss_user": 563,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1026,
+  "fields": {
+    "nss_user": 564,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1027,
+  "fields": {
+    "nss_user": 565,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1028,
+  "fields": {
+    "nss_user": 566,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1029,
+  "fields": {
+    "nss_user": 567,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1030,
+  "fields": {
+    "nss_user": 568,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1033,
+  "fields": {
+    "nss_user": 572,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1034,
+  "fields": {
+    "nss_user": 517,
+    "cohort": 34,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1035,
+  "fields": {
+    "nss_user": 573,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1037,
+  "fields": {
+    "nss_user": 574,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1041,
+  "fields": {
+    "nss_user": 584,
+    "cohort": 35,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1042,
+  "fields": {
+    "nss_user": 585,
+    "cohort": 35,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1043,
+  "fields": {
+    "nss_user": 586,
+    "cohort": 35,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1045,
+  "fields": {
+    "nss_user": 588,
+    "cohort": 35,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1046,
+  "fields": {
+    "nss_user": 589,
+    "cohort": 35,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1047,
+  "fields": {
+    "nss_user": 590,
+    "cohort": 35,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1049,
+  "fields": {
+    "nss_user": 592,
+    "cohort": 35,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1050,
+  "fields": {
+    "nss_user": 457,
+    "cohort": 35,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1060,
+  "fields": {
+    "nss_user": 594,
+    "cohort": 33,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1079,
+  "fields": {
+    "nss_user": 610,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1080,
+  "fields": {
+    "nss_user": 612,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1081,
+  "fields": {
+    "nss_user": 613,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1082,
+  "fields": {
+    "nss_user": 614,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1083,
+  "fields": {
+    "nss_user": 615,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1084,
+  "fields": {
+    "nss_user": 616,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1085,
+  "fields": {
+    "nss_user": 617,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1086,
+  "fields": {
+    "nss_user": 618,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1087,
+  "fields": {
+    "nss_user": 619,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1088,
+  "fields": {
+    "nss_user": 611,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1089,
+  "fields": {
+    "nss_user": 593,
+    "cohort": 36,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1092,
+  "fields": {
+    "nss_user": 622,
+    "cohort": 37,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1093,
+  "fields": {
+    "nss_user": 623,
+    "cohort": 37,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1094,
+  "fields": {
+    "nss_user": 624,
+    "cohort": 37,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1095,
+  "fields": {
+    "nss_user": 625,
+    "cohort": 37,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1096,
+  "fields": {
+    "nss_user": 626,
+    "cohort": 37,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1097,
+  "fields": {
+    "nss_user": 627,
+    "cohort": 37,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1098,
+  "fields": {
+    "nss_user": 628,
+    "cohort": 37,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1100,
+  "fields": {
+    "nss_user": 635,
+    "cohort": 41,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1101,
+  "fields": {
+    "nss_user": 636,
+    "cohort": 41,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1103,
+  "fields": {
+    "nss_user": 638,
+    "cohort": 38,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1104,
+  "fields": {
+    "nss_user": 571,
+    "cohort": 41,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1106,
+  "fields": {
+    "nss_user": 642,
+    "cohort": 41,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1108,
+  "fields": {
+    "nss_user": 643,
+    "cohort": 41,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1109,
+  "fields": {
+    "nss_user": 633,
+    "cohort": 41,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1110,
+  "fields": {
+    "nss_user": 644,
+    "cohort": 38,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1111,
+  "fields": {
+    "nss_user": 645,
+    "cohort": 38,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1113,
+  "fields": {
+    "nss_user": 640,
+    "cohort": 41,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1114,
+  "fields": {
+    "nss_user": 647,
+    "cohort": 38,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1115,
+  "fields": {
+    "nss_user": 648,
+    "cohort": 41,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1116,
+  "fields": {
+    "nss_user": 649,
+    "cohort": 41,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1117,
+  "fields": {
+    "nss_user": 650,
+    "cohort": 38,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1118,
+  "fields": {
+    "nss_user": 646,
+    "cohort": 37,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1119,
+  "fields": {
+    "nss_user": 652,
+    "cohort": 38,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1120,
+  "fields": {
+    "nss_user": 653,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1121,
+  "fields": {
+    "nss_user": 654,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1122,
+  "fields": {
+    "nss_user": 655,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1125,
+  "fields": {
+    "nss_user": 656,
+    "cohort": 38,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1127,
+  "fields": {
+    "nss_user": 657,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1128,
+  "fields": {
+    "nss_user": 658,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1129,
+  "fields": {
+    "nss_user": 659,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1130,
+  "fields": {
+    "nss_user": 660,
+    "cohort": 41,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1131,
+  "fields": {
+    "nss_user": 661,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1132,
+  "fields": {
+    "nss_user": 662,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1136,
+  "fields": {
+    "nss_user": 663,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1137,
+  "fields": {
+    "nss_user": 516,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1138,
+  "fields": {
+    "nss_user": 651,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1139,
+  "fields": {
+    "nss_user": 667,
+    "cohort": 43,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1140,
+  "fields": {
+    "nss_user": 669,
+    "cohort": 43,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1145,
+  "fields": {
+    "nss_user": 670,
+    "cohort": 43,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1146,
+  "fields": {
+    "nss_user": 671,
+    "cohort": 43,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1148,
+  "fields": {
+    "nss_user": 672,
+    "cohort": 43,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1149,
+  "fields": {
+    "nss_user": 673,
+    "cohort": 43,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1150,
+  "fields": {
+    "nss_user": 675,
+    "cohort": 43,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1151,
+  "fields": {
+    "nss_user": 676,
+    "cohort": 43,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1153,
+  "fields": {
+    "nss_user": 678,
+    "cohort": 43,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1154,
+  "fields": {
+    "nss_user": 357,
+    "cohort": 43,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1155,
+  "fields": {
+    "nss_user": 679,
+    "cohort": 42,
+    "is_github_org_member": true
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1162,
+  "fields": {
+    "nss_user": 2,
+    "cohort": 37,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1163,
+  "fields": {
+    "nss_user": 681,
+    "cohort": 37,
+    "is_github_org_member": false
+  }
+},
+{
+  "model": "LearningAPI.nssusercohort",
+  "pk": 1165,
+  "fields": {
+    "nss_user": 95,
+    "cohort": 42,
+    "is_github_org_member": false
+  }
+}
+]
