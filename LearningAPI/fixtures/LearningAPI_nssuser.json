@@ -1,0 +1,5402 @@
+[
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 1,
+  "fields": {
+    "user": 1,
+    "slack_handle": "coach",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 2,
+  "fields": {
+    "user": 2,
+    "slack_handle": "U03F2SDTS",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 14,
+  "fields": {
+    "user": 14,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 15,
+  "fields": {
+    "user": 15,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 16,
+  "fields": {
+    "user": 16,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 17,
+  "fields": {
+    "user": 17,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 18,
+  "fields": {
+    "user": 18,
+    "slack_handle": "U02QU7U78S2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 19,
+  "fields": {
+    "user": 19,
+    "slack_handle": "U02QK503GBA",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 20,
+  "fields": {
+    "user": 20,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 21,
+  "fields": {
+    "user": 21,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 22,
+  "fields": {
+    "user": 22,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 23,
+  "fields": {
+    "user": 23,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 24,
+  "fields": {
+    "user": 24,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 25,
+  "fields": {
+    "user": 25,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 26,
+  "fields": {
+    "user": 26,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 27,
+  "fields": {
+    "user": 28,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 28,
+  "fields": {
+    "user": 29,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 29,
+  "fields": {
+    "user": 30,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 30,
+  "fields": {
+    "user": 31,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 31,
+  "fields": {
+    "user": 32,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 32,
+  "fields": {
+    "user": 33,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 33,
+  "fields": {
+    "user": 34,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 34,
+  "fields": {
+    "user": 35,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 35,
+  "fields": {
+    "user": 36,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 36,
+  "fields": {
+    "user": 37,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 37,
+  "fields": {
+    "user": 38,
+    "slack_handle": "U02PLTUPKQQ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 38,
+  "fields": {
+    "user": 27,
+    "slack_handle": "U02Q1CC1BA7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 39,
+  "fields": {
+    "user": 39,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 40,
+  "fields": {
+    "user": 40,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 41,
+  "fields": {
+    "user": 41,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 42,
+  "fields": {
+    "user": 42,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 43,
+  "fields": {
+    "user": 43,
+    "slack_handle": "U02PQKYF62Y",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 44,
+  "fields": {
+    "user": 44,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 45,
+  "fields": {
+    "user": 45,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 46,
+  "fields": {
+    "user": 46,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 47,
+  "fields": {
+    "user": 47,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 48,
+  "fields": {
+    "user": 48,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 49,
+  "fields": {
+    "user": 49,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 51,
+  "fields": {
+    "user": 51,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 52,
+  "fields": {
+    "user": 52,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 53,
+  "fields": {
+    "user": 53,
+    "slack_handle": "U034T7VJ1K6",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 54,
+  "fields": {
+    "user": 54,
+    "slack_handle": "U035HJ7BJSW",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 55,
+  "fields": {
+    "user": 55,
+    "slack_handle": "U0360BFENJF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 56,
+  "fields": {
+    "user": 56,
+    "slack_handle": "U034N1601CM",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 57,
+  "fields": {
+    "user": 57,
+    "slack_handle": "U036V8WGU13",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 58,
+  "fields": {
+    "user": 58,
+    "slack_handle": "U036N90GVPA",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 59,
+  "fields": {
+    "user": 59,
+    "slack_handle": "U034N17KSMT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 60,
+  "fields": {
+    "user": 60,
+    "slack_handle": "U034T7VC2LC",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 61,
+  "fields": {
+    "user": 61,
+    "slack_handle": "U034AA7K163",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 62,
+  "fields": {
+    "user": 62,
+    "slack_handle": "U0367B2964Q",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 63,
+  "fields": {
+    "user": 63,
+    "slack_handle": "U038B4MSSJV",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 64,
+  "fields": {
+    "user": 64,
+    "slack_handle": "U0353G4KKG9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 65,
+  "fields": {
+    "user": 65,
+    "slack_handle": "U034N16BUQ5",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 66,
+  "fields": {
+    "user": 66,
+    "slack_handle": "U0377ENG3BN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 67,
+  "fields": {
+    "user": 67,
+    "slack_handle": "U02U58P32C8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 68,
+  "fields": {
+    "user": 68,
+    "slack_handle": "U0360RY66R2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 69,
+  "fields": {
+    "user": 69,
+    "slack_handle": "U0367B2JMDW",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 70,
+  "fields": {
+    "user": 70,
+    "slack_handle": "U034QTVDC1H",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 71,
+  "fields": {
+    "user": 71,
+    "slack_handle": "U03ARBBRN49",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 72,
+  "fields": {
+    "user": 72,
+    "slack_handle": "U035ELEBCG0",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 73,
+  "fields": {
+    "user": 73,
+    "slack_handle": "U034J8GPU06",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 74,
+  "fields": {
+    "user": 74,
+    "slack_handle": "U01UV62C5EU",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 75,
+  "fields": {
+    "user": 75,
+    "slack_handle": "U0380S5F29J",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 76,
+  "fields": {
+    "user": 76,
+    "slack_handle": "U01TVMRS1P1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 77,
+  "fields": {
+    "user": 77,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 78,
+  "fields": {
+    "user": 78,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 79,
+  "fields": {
+    "user": 79,
+    "slack_handle": "UHGKEQG11",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 80,
+  "fields": {
+    "user": 80,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 81,
+  "fields": {
+    "user": 81,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 82,
+  "fields": {
+    "user": 82,
+    "slack_handle": "U0238DWAUPR",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 83,
+  "fields": {
+    "user": 83,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 84,
+  "fields": {
+    "user": 85,
+    "slack_handle": "U02CK7FPSSH",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 85,
+  "fields": {
+    "user": 86,
+    "slack_handle": "U01FBB3TW1X",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 86,
+  "fields": {
+    "user": 87,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 87,
+  "fields": {
+    "user": 88,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 88,
+  "fields": {
+    "user": 89,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 89,
+  "fields": {
+    "user": 90,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 90,
+  "fields": {
+    "user": 91,
+    "slack_handle": "U01QZLNV2AY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 91,
+  "fields": {
+    "user": 84,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 92,
+  "fields": {
+    "user": 92,
+    "slack_handle": "U02E9CZ2QGJ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 93,
+  "fields": {
+    "user": 93,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 94,
+  "fields": {
+    "user": 94,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 95,
+  "fields": {
+    "user": 95,
+    "slack_handle": "U7ERE777F",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 96,
+  "fields": {
+    "user": 96,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 97,
+  "fields": {
+    "user": 97,
+    "slack_handle": "U03E2B34J1Z",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 98,
+  "fields": {
+    "user": 98,
+    "slack_handle": "U03CLMHKBAA",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 99,
+  "fields": {
+    "user": 99,
+    "slack_handle": "U03D6039XR7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 100,
+  "fields": {
+    "user": 100,
+    "slack_handle": "U03DJV4UPT8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 101,
+  "fields": {
+    "user": 101,
+    "slack_handle": "U02U9D8B6K0",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 102,
+  "fields": {
+    "user": 102,
+    "slack_handle": "U03CLMHBT8W",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 103,
+  "fields": {
+    "user": 103,
+    "slack_handle": "U03D603DJLR",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 104,
+  "fields": {
+    "user": 104,
+    "slack_handle": "U03CQECTJ2Z",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 105,
+  "fields": {
+    "user": 105,
+    "slack_handle": "U03CQED0J69",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 106,
+  "fields": {
+    "user": 106,
+    "slack_handle": "U03CLMGJ1GE",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 107,
+  "fields": {
+    "user": 107,
+    "slack_handle": "U03CCQ0BC15",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 108,
+  "fields": {
+    "user": 108,
+    "slack_handle": "U03ETCSQX9N",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 109,
+  "fields": {
+    "user": 109,
+    "slack_handle": "U03CQECKF53",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 110,
+  "fields": {
+    "user": 110,
+    "slack_handle": "U03DEMD9WAD",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 111,
+  "fields": {
+    "user": 111,
+    "slack_handle": "U030E6UA1QV",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 112,
+  "fields": {
+    "user": 112,
+    "slack_handle": "U03DH3VU6KS",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 113,
+  "fields": {
+    "user": 113,
+    "slack_handle": "U02TFHHTA91",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 114,
+  "fields": {
+    "user": 114,
+    "slack_handle": "U02UQBRRQE7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 115,
+  "fields": {
+    "user": 115,
+    "slack_handle": "U03CTLX8MM1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 116,
+  "fields": {
+    "user": 116,
+    "slack_handle": "U03CVN4NJCS",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 117,
+  "fields": {
+    "user": 117,
+    "slack_handle": "U03CLMH0ZE2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 118,
+  "fields": {
+    "user": 118,
+    "slack_handle": "U03CQED869K",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 119,
+  "fields": {
+    "user": 119,
+    "slack_handle": "U02VDCNM9D0",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 120,
+  "fields": {
+    "user": 120,
+    "slack_handle": "UUNJ2TBR9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 121,
+  "fields": {
+    "user": 121,
+    "slack_handle": "U02EVS92736",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 122,
+  "fields": {
+    "user": 122,
+    "slack_handle": "U03J91FDVT9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 123,
+  "fields": {
+    "user": 123,
+    "slack_handle": "U03K7FPMR25",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 124,
+  "fields": {
+    "user": 124,
+    "slack_handle": "U03J91EN03Z",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 125,
+  "fields": {
+    "user": 125,
+    "slack_handle": "U03J91EKW7R",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 126,
+  "fields": {
+    "user": 126,
+    "slack_handle": "U03KAT69UR3",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 127,
+  "fields": {
+    "user": 127,
+    "slack_handle": "U03JS1J3AQL",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 128,
+  "fields": {
+    "user": 128,
+    "slack_handle": "U03JH1HFHSA",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 129,
+  "fields": {
+    "user": 129,
+    "slack_handle": "U03JLN2MBE1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 130,
+  "fields": {
+    "user": 130,
+    "slack_handle": "U03KDC5CNNL",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 131,
+  "fields": {
+    "user": 131,
+    "slack_handle": "U03K292RSF3",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 132,
+  "fields": {
+    "user": 132,
+    "slack_handle": "U03JS1J1KLL",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 133,
+  "fields": {
+    "user": 133,
+    "slack_handle": "U03LAJ4TPGF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 134,
+  "fields": {
+    "user": 134,
+    "slack_handle": "U03KDC64LF2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 135,
+  "fields": {
+    "user": 135,
+    "slack_handle": "U03MDGVND3P",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 136,
+  "fields": {
+    "user": 136,
+    "slack_handle": "U03J91DTD9D",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 137,
+  "fields": {
+    "user": 137,
+    "slack_handle": "U03K5PWRY3D",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 138,
+  "fields": {
+    "user": 138,
+    "slack_handle": "U03JPKD0N5Q",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 139,
+  "fields": {
+    "user": 139,
+    "slack_handle": "U03JPH992CB",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 140,
+  "fields": {
+    "user": 140,
+    "slack_handle": "U03K293MH7B",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 141,
+  "fields": {
+    "user": 141,
+    "slack_handle": "U0BS818SY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 142,
+  "fields": {
+    "user": 142,
+    "slack_handle": "U03JPKDRKV0",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 143,
+  "fields": {
+    "user": 143,
+    "slack_handle": "U03JLN1UHN1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 144,
+  "fields": {
+    "user": 144,
+    "slack_handle": "U03J91EHP0F",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 145,
+  "fields": {
+    "user": 145,
+    "slack_handle": "U03JPH9730T",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 146,
+  "fields": {
+    "user": 146,
+    "slack_handle": "U03JPH9UEM9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 147,
+  "fields": {
+    "user": 147,
+    "slack_handle": "U03JS1H9JRJ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 148,
+  "fields": {
+    "user": 148,
+    "slack_handle": "U03K88BQVBN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 149,
+  "fields": {
+    "user": 149,
+    "slack_handle": "U02NQFKG2SJ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 150,
+  "fields": {
+    "user": 150,
+    "slack_handle": "U03LEB91CUS",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 151,
+  "fields": {
+    "user": 151,
+    "slack_handle": "U078ELNLX",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 152,
+  "fields": {
+    "user": 152,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 153,
+  "fields": {
+    "user": 153,
+    "slack_handle": "UJYMW0JE5",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 154,
+  "fields": {
+    "user": 154,
+    "slack_handle": "U03QGJ3GHK4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 155,
+  "fields": {
+    "user": 155,
+    "slack_handle": "U03T6V6FLAD",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 156,
+  "fields": {
+    "user": 156,
+    "slack_handle": "U03SWLQHB7A",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 157,
+  "fields": {
+    "user": 158,
+    "slack_handle": "U03Q20WANUX",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 158,
+  "fields": {
+    "user": 159,
+    "slack_handle": "U03QDKHCQS1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 159,
+  "fields": {
+    "user": 160,
+    "slack_handle": "U03QGJ3DT2N",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 160,
+  "fields": {
+    "user": 161,
+    "slack_handle": "U03RX62NV6G",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 161,
+  "fields": {
+    "user": 162,
+    "slack_handle": "U03RESCP9T4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 162,
+  "fields": {
+    "user": 163,
+    "slack_handle": "U03QGJ3RE58",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 163,
+  "fields": {
+    "user": 157,
+    "slack_handle": "U03QGJ3MZQA",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 164,
+  "fields": {
+    "user": 165,
+    "slack_handle": "U03Q20VKYKH",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 165,
+  "fields": {
+    "user": 166,
+    "slack_handle": "U03QGJ479S6",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 166,
+  "fields": {
+    "user": 167,
+    "slack_handle": "U03RESCA2RY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 167,
+  "fields": {
+    "user": 164,
+    "slack_handle": "U03JH1J55LN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 168,
+  "fields": {
+    "user": 168,
+    "slack_handle": "U03QV7Q45RP",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 169,
+  "fields": {
+    "user": 169,
+    "slack_handle": "U03QGJ4A5RQ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 170,
+  "fields": {
+    "user": 170,
+    "slack_handle": "U03Q20WDV2T",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 171,
+  "fields": {
+    "user": 171,
+    "slack_handle": "U03R6ATA8UQ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 172,
+  "fields": {
+    "user": 172,
+    "slack_handle": "U03RKFZKQP2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 173,
+  "fields": {
+    "user": 173,
+    "slack_handle": "U03SLTDEX28",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 174,
+  "fields": {
+    "user": 174,
+    "slack_handle": "U03Q20W7W8P",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 175,
+  "fields": {
+    "user": 175,
+    "slack_handle": "U03QH0U24F8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 176,
+  "fields": {
+    "user": 176,
+    "slack_handle": "U03QGJ3KEN6",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 177,
+  "fields": {
+    "user": 177,
+    "slack_handle": "U03QGG7S9CK",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 178,
+  "fields": {
+    "user": 178,
+    "slack_handle": "U03SKKZFCAJ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 179,
+  "fields": {
+    "user": 179,
+    "slack_handle": "U03QGGA3999",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 180,
+  "fields": {
+    "user": 180,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 181,
+  "fields": {
+    "user": 181,
+    "slack_handle": "U037VKBJB4M",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 182,
+  "fields": {
+    "user": 182,
+    "slack_handle": "U03UPM9PHEZ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 183,
+  "fields": {
+    "user": 183,
+    "slack_handle": "U0402BKQP88",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 184,
+  "fields": {
+    "user": 184,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 185,
+  "fields": {
+    "user": 185,
+    "slack_handle": "U03UL2LP23G",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 186,
+  "fields": {
+    "user": 186,
+    "slack_handle": "Zack McGee",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 187,
+  "fields": {
+    "user": 187,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 188,
+  "fields": {
+    "user": 188,
+    "slack_handle": "U03UC3U466T",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 189,
+  "fields": {
+    "user": 189,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 190,
+  "fields": {
+    "user": 190,
+    "slack_handle": "U03USHAEMM1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 191,
+  "fields": {
+    "user": 191,
+    "slack_handle": "U043T3KNW2G",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 192,
+  "fields": {
+    "user": 192,
+    "slack_handle": "UT5P74V5Z",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 193,
+  "fields": {
+    "user": 193,
+    "slack_handle": "U043CU3TMA7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 194,
+  "fields": {
+    "user": 194,
+    "slack_handle": "U0418CQMXRQ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 195,
+  "fields": {
+    "user": 195,
+    "slack_handle": "U03P3J7U2NM",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 196,
+  "fields": {
+    "user": 196,
+    "slack_handle": "U0406QW8RSN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 197,
+  "fields": {
+    "user": 197,
+    "slack_handle": "U03USHA2YV9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 198,
+  "fields": {
+    "user": 198,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 199,
+  "fields": {
+    "user": 199,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 200,
+  "fields": {
+    "user": 200,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 201,
+  "fields": {
+    "user": 201,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 202,
+  "fields": {
+    "user": 202,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 203,
+  "fields": {
+    "user": 203,
+    "slack_handle": "U040070DKPY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 204,
+  "fields": {
+    "user": 204,
+    "slack_handle": "U03UL2LSGT0",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 205,
+  "fields": {
+    "user": 205,
+    "slack_handle": "U03UL2KQKNJ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 206,
+  "fields": {
+    "user": 206,
+    "slack_handle": "U03V59KEXAM",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 207,
+  "fields": {
+    "user": 207,
+    "slack_handle": "U043QGM0NLT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 208,
+  "fields": {
+    "user": 208,
+    "slack_handle": "U03USLJBHMY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 209,
+  "fields": {
+    "user": 209,
+    "slack_handle": "U02E92SFW6T",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 210,
+  "fields": {
+    "user": 211,
+    "slack_handle": "U1F7DJC07",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 211,
+  "fields": {
+    "user": 212,
+    "slack_handle": "U045M67GAAF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 212,
+  "fields": {
+    "user": 213,
+    "slack_handle": "U045EL0EBRU",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 213,
+  "fields": {
+    "user": 214,
+    "slack_handle": "U045M8PSLPL",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 214,
+  "fields": {
+    "user": 215,
+    "slack_handle": "U045EL1MUBG",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 215,
+  "fields": {
+    "user": 216,
+    "slack_handle": "U045M67KEH1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 216,
+  "fields": {
+    "user": 217,
+    "slack_handle": "U045M8RCY7L",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 217,
+  "fields": {
+    "user": 218,
+    "slack_handle": "U046AV6T5TJ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 218,
+  "fields": {
+    "user": 219,
+    "slack_handle": "U0456MNHH9D",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 219,
+  "fields": {
+    "user": 221,
+    "slack_handle": "U0456MNDV9V",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 220,
+  "fields": {
+    "user": 222,
+    "slack_handle": "U045ZTH1GMP",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 221,
+  "fields": {
+    "user": 223,
+    "slack_handle": "U045PN0CQCC",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 222,
+  "fields": {
+    "user": 224,
+    "slack_handle": "U046AV5B5SL",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 223,
+  "fields": {
+    "user": 225,
+    "slack_handle": "U0466NSJXN2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 224,
+  "fields": {
+    "user": 226,
+    "slack_handle": "U045Q1FU7NG",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 225,
+  "fields": {
+    "user": 227,
+    "slack_handle": "U045PN1KRJ8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 226,
+  "fields": {
+    "user": 228,
+    "slack_handle": "U045EL1HTQE",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 227,
+  "fields": {
+    "user": 229,
+    "slack_handle": "U045ZTEALC9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 228,
+  "fields": {
+    "user": 230,
+    "slack_handle": "U03K293KG1X",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 229,
+  "fields": {
+    "user": 231,
+    "slack_handle": "U045JA1NJN9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 230,
+  "fields": {
+    "user": 232,
+    "slack_handle": "U046AV78JSU",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 231,
+  "fields": {
+    "user": 220,
+    "slack_handle": "U045ZTFKLBB",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 232,
+  "fields": {
+    "user": 233,
+    "slack_handle": "U045M669Q2F",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 233,
+  "fields": {
+    "user": 234,
+    "slack_handle": "U045ZTH6SP3",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 234,
+  "fields": {
+    "user": 235,
+    "slack_handle": "U045M8RGAEN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 235,
+  "fields": {
+    "user": 236,
+    "slack_handle": "U0499B5MVRB",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 236,
+  "fields": {
+    "user": 237,
+    "slack_handle": "U04CB1BKC5V",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 237,
+  "fields": {
+    "user": 238,
+    "slack_handle": "U04FGFMC5C4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 238,
+  "fields": {
+    "user": 239,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 239,
+  "fields": {
+    "user": 240,
+    "slack_handle": "U04CB1ANH0X",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 240,
+  "fields": {
+    "user": 241,
+    "slack_handle": "U04CNJX8C8M",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 241,
+  "fields": {
+    "user": 242,
+    "slack_handle": "U04D46LEMLZ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 242,
+  "fields": {
+    "user": 243,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 243,
+  "fields": {
+    "user": 244,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 244,
+  "fields": {
+    "user": 245,
+    "slack_handle": "U04CB1BRXU7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 245,
+  "fields": {
+    "user": 246,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 246,
+  "fields": {
+    "user": 247,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 247,
+  "fields": {
+    "user": 248,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 248,
+  "fields": {
+    "user": 249,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 249,
+  "fields": {
+    "user": 250,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 250,
+  "fields": {
+    "user": 251,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 251,
+  "fields": {
+    "user": 252,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 252,
+  "fields": {
+    "user": 253,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 253,
+  "fields": {
+    "user": 254,
+    "slack_handle": "U04EZFL2ML7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 254,
+  "fields": {
+    "user": 255,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 255,
+  "fields": {
+    "user": 256,
+    "slack_handle": "U04D1R6C4EQ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 256,
+  "fields": {
+    "user": 257,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 257,
+  "fields": {
+    "user": 258,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 258,
+  "fields": {
+    "user": 260,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 259,
+  "fields": {
+    "user": 261,
+    "slack_handle": "U04CNJVM6QM",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 260,
+  "fields": {
+    "user": 262,
+    "slack_handle": "U04CNJUQYS1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 261,
+  "fields": {
+    "user": 259,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 262,
+  "fields": {
+    "user": 263,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 263,
+  "fields": {
+    "user": 264,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 264,
+  "fields": {
+    "user": 265,
+    "slack_handle": "U04CRJAUPS6",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 265,
+  "fields": {
+    "user": 266,
+    "slack_handle": "U9KK4E4GK",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 266,
+  "fields": {
+    "user": 267,
+    "slack_handle": "U04KATN750S",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 267,
+  "fields": {
+    "user": 268,
+    "slack_handle": "U04JWBT854P",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 268,
+  "fields": {
+    "user": 269,
+    "slack_handle": "U04KAQ5UTDZ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 269,
+  "fields": {
+    "user": 270,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 270,
+  "fields": {
+    "user": 271,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 271,
+  "fields": {
+    "user": 272,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 272,
+  "fields": {
+    "user": 273,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 273,
+  "fields": {
+    "user": 274,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 274,
+  "fields": {
+    "user": 275,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 275,
+  "fields": {
+    "user": 276,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 276,
+  "fields": {
+    "user": 277,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 277,
+  "fields": {
+    "user": 278,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 278,
+  "fields": {
+    "user": 279,
+    "slack_handle": "U04L0JQNCPJ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 279,
+  "fields": {
+    "user": 280,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 280,
+  "fields": {
+    "user": 281,
+    "slack_handle": "U04MC7M1RL2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 281,
+  "fields": {
+    "user": 282,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 282,
+  "fields": {
+    "user": 283,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 283,
+  "fields": {
+    "user": 284,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 284,
+  "fields": {
+    "user": 285,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 285,
+  "fields": {
+    "user": 286,
+    "slack_handle": "U04LEGAT1EG",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 286,
+  "fields": {
+    "user": 287,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 287,
+  "fields": {
+    "user": 288,
+    "slack_handle": "U04KATR6AP4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 288,
+  "fields": {
+    "user": 289,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 289,
+  "fields": {
+    "user": 290,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 290,
+  "fields": {
+    "user": 291,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 291,
+  "fields": {
+    "user": 292,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 293,
+  "fields": {
+    "user": 294,
+    "slack_handle": "U03USN5ACG2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 294,
+  "fields": {
+    "user": 295,
+    "slack_handle": "U04R49V3GUC",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 295,
+  "fields": {
+    "user": 296,
+    "slack_handle": "U04U46Q3CQZ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 296,
+  "fields": {
+    "user": 297,
+    "slack_handle": "U04TG81JEMN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 297,
+  "fields": {
+    "user": 298,
+    "slack_handle": "U04QYTUSV5Y",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 298,
+  "fields": {
+    "user": 299,
+    "slack_handle": "U04SUD8FQ4Q",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 299,
+  "fields": {
+    "user": 300,
+    "slack_handle": "U04RA3YKLCW",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 300,
+  "fields": {
+    "user": 301,
+    "slack_handle": "U04SZMYB7GT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 301,
+  "fields": {
+    "user": 302,
+    "slack_handle": "U04TAPH9H9B",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 302,
+  "fields": {
+    "user": 303,
+    "slack_handle": "U04QYCJ1B2P",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 303,
+  "fields": {
+    "user": 304,
+    "slack_handle": "U04TZSP0GPN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 304,
+  "fields": {
+    "user": 305,
+    "slack_handle": "U04SMLS7PJM",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 305,
+  "fields": {
+    "user": 306,
+    "slack_handle": "U04U1V5A6D7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 306,
+  "fields": {
+    "user": 307,
+    "slack_handle": "U04TGNF6FK8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 307,
+  "fields": {
+    "user": 308,
+    "slack_handle": "U04CRF8D2BD",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 308,
+  "fields": {
+    "user": 309,
+    "slack_handle": "U04R6LWU0SF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 309,
+  "fields": {
+    "user": 310,
+    "slack_handle": "U04U1V5E1H7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 310,
+  "fields": {
+    "user": 311,
+    "slack_handle": "U04QFGP92A3",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 311,
+  "fields": {
+    "user": 312,
+    "slack_handle": "U04KAQ5RU1H",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 312,
+  "fields": {
+    "user": 313,
+    "slack_handle": "U04QU1F7F3R",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 313,
+  "fields": {
+    "user": 314,
+    "slack_handle": "U04QVPN8C91",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 314,
+  "fields": {
+    "user": 315,
+    "slack_handle": "U04QWMDLMQW",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 315,
+  "fields": {
+    "user": 316,
+    "slack_handle": "U04R8QUT6V9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 316,
+  "fields": {
+    "user": 317,
+    "slack_handle": "U04R6MNTKQT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 317,
+  "fields": {
+    "user": 318,
+    "slack_handle": "U04QYRT0JR0",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 318,
+  "fields": {
+    "user": 319,
+    "slack_handle": "U04S6PEQ6SF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 319,
+  "fields": {
+    "user": 320,
+    "slack_handle": "U04SSVAC5J4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 320,
+  "fields": {
+    "user": 321,
+    "slack_handle": "U04CU2FMGAY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 321,
+  "fields": {
+    "user": 322,
+    "slack_handle": "U03UL47DB0E",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 322,
+  "fields": {
+    "user": 323,
+    "slack_handle": "U04L0JM5Z2L",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 323,
+  "fields": {
+    "user": 324,
+    "slack_handle": "U053QCKCR33",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 324,
+  "fields": {
+    "user": 325,
+    "slack_handle": "U05355W7VT8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 325,
+  "fields": {
+    "user": 326,
+    "slack_handle": "U05630DSJGN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 326,
+  "fields": {
+    "user": 327,
+    "slack_handle": "U05355WR9QE",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 327,
+  "fields": {
+    "user": 328,
+    "slack_handle": "U0552UHDE7K",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 328,
+  "fields": {
+    "user": 329,
+    "slack_handle": "U05355WARV4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 329,
+  "fields": {
+    "user": 330,
+    "slack_handle": "U0538R9UWKF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 330,
+  "fields": {
+    "user": 331,
+    "slack_handle": "U0538RAA65B",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 331,
+  "fields": {
+    "user": 332,
+    "slack_handle": "U053BPPH8KU",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 332,
+  "fields": {
+    "user": 333,
+    "slack_handle": "U053BKWQJ6P",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 333,
+  "fields": {
+    "user": 334,
+    "slack_handle": "U056D0V3P4L",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 334,
+  "fields": {
+    "user": 335,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 335,
+  "fields": {
+    "user": 336,
+    "slack_handle": "U053BPPEASW",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 336,
+  "fields": {
+    "user": 337,
+    "slack_handle": "U053BKX3J75",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 337,
+  "fields": {
+    "user": 338,
+    "slack_handle": "U053E87G2AG",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 338,
+  "fields": {
+    "user": 339,
+    "slack_handle": "U057BC9ACSX",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 339,
+  "fields": {
+    "user": 340,
+    "slack_handle": "U0545FWEVUM",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 340,
+  "fields": {
+    "user": 341,
+    "slack_handle": "U0541EEDUJU",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 341,
+  "fields": {
+    "user": 342,
+    "slack_handle": "U055JE144N4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 342,
+  "fields": {
+    "user": 343,
+    "slack_handle": "U053BKWD78T",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 343,
+  "fields": {
+    "user": 344,
+    "slack_handle": "U0541EG21UG",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 344,
+  "fields": {
+    "user": 345,
+    "slack_handle": "U053E86FYCC",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 345,
+  "fields": {
+    "user": 346,
+    "slack_handle": "U053QCKA673",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 346,
+  "fields": {
+    "user": 347,
+    "slack_handle": "U053BPPBAAW",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 347,
+  "fields": {
+    "user": 348,
+    "slack_handle": "U0538RAQUBF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 348,
+  "fields": {
+    "user": 349,
+    "slack_handle": "U04TKPWCN6R",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 349,
+  "fields": {
+    "user": 350,
+    "slack_handle": "U053BPP6AM8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 350,
+  "fields": {
+    "user": 351,
+    "slack_handle": "U052X7MB32B",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 351,
+  "fields": {
+    "user": 352,
+    "slack_handle": "U04CRJB2FJ6",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 352,
+  "fields": {
+    "user": 353,
+    "slack_handle": "U05DWCWCSQ0",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 353,
+  "fields": {
+    "user": 354,
+    "slack_handle": "U05AD2CQVLP",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 354,
+  "fields": {
+    "user": 355,
+    "slack_handle": "U05AC3UAJJ3",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 355,
+  "fields": {
+    "user": 356,
+    "slack_handle": "U05BZK0M345",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 356,
+  "fields": {
+    "user": 357,
+    "slack_handle": "U05B706REGZ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 357,
+  "fields": {
+    "user": 358,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 358,
+  "fields": {
+    "user": 359,
+    "slack_handle": "U05AZTZJ1GV",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 359,
+  "fields": {
+    "user": 360,
+    "slack_handle": "U05ASJCN2TV",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 360,
+  "fields": {
+    "user": 361,
+    "slack_handle": "U05AW7Z77M1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 361,
+  "fields": {
+    "user": 362,
+    "slack_handle": "U05CS8PRXLY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 362,
+  "fields": {
+    "user": 363,
+    "slack_handle": "U05AURTFMJP",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 363,
+  "fields": {
+    "user": 364,
+    "slack_handle": "U05BZK198G5",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 364,
+  "fields": {
+    "user": 365,
+    "slack_handle": "U05BH8FB0HE",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 365,
+  "fields": {
+    "user": 366,
+    "slack_handle": "U05CS8JNB8Q",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 366,
+  "fields": {
+    "user": 367,
+    "slack_handle": "U05CA0HN0DR",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 367,
+  "fields": {
+    "user": 368,
+    "slack_handle": "U05BSCATHFA",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 368,
+  "fields": {
+    "user": 369,
+    "slack_handle": "U05BNRVDU4F",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 369,
+  "fields": {
+    "user": 370,
+    "slack_handle": "U05E6BZKPNV",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 370,
+  "fields": {
+    "user": 371,
+    "slack_handle": "U05AZKPT5DY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 371,
+  "fields": {
+    "user": 372,
+    "slack_handle": "U05B1SLLABU",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 372,
+  "fields": {
+    "user": 373,
+    "slack_handle": "U05BKBC1D9B",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 373,
+  "fields": {
+    "user": 374,
+    "slack_handle": "U05BZK1CXT7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 374,
+  "fields": {
+    "user": 375,
+    "slack_handle": "U0594LZS4Q1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 375,
+  "fields": {
+    "user": 376,
+    "slack_handle": "U05C50P8R28",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 376,
+  "fields": {
+    "user": 377,
+    "slack_handle": "U05BF1TG2BT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 377,
+  "fields": {
+    "user": 378,
+    "slack_handle": "U05B6Q52W78",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 378,
+  "fields": {
+    "user": 379,
+    "slack_handle": "U05HEQCG63D",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 379,
+  "fields": {
+    "user": 380,
+    "slack_handle": "U05HEQCLDV1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 380,
+  "fields": {
+    "user": 381,
+    "slack_handle": "U05H0BWPTV5",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 381,
+  "fields": {
+    "user": 382,
+    "slack_handle": "U04CRE8LXKM",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 382,
+  "fields": {
+    "user": 383,
+    "slack_handle": "U05HEQCQLM9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 383,
+  "fields": {
+    "user": 384,
+    "slack_handle": "U05H889LLCW",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 384,
+  "fields": {
+    "user": 385,
+    "slack_handle": "U05HTH1EUTT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 385,
+  "fields": {
+    "user": 386,
+    "slack_handle": "U05H88AE04W",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 386,
+  "fields": {
+    "user": 387,
+    "slack_handle": "U05HHBB39BN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 387,
+  "fields": {
+    "user": 388,
+    "slack_handle": "U05HEQD08N7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 388,
+  "fields": {
+    "user": 389,
+    "slack_handle": "U05JDFKCH09",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 389,
+  "fields": {
+    "user": 390,
+    "slack_handle": "U05JDFJ4Z8R",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 390,
+  "fields": {
+    "user": 391,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 391,
+  "fields": {
+    "user": 392,
+    "slack_handle": "U05TTTR671C",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 392,
+  "fields": {
+    "user": 393,
+    "slack_handle": "U062Y6JV14M",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 393,
+  "fields": {
+    "user": 394,
+    "slack_handle": "U063Q15JR8Q",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 394,
+  "fields": {
+    "user": 395,
+    "slack_handle": "U060QM51F97",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 395,
+  "fields": {
+    "user": 396,
+    "slack_handle": "U060DRF1P6G",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 396,
+  "fields": {
+    "user": 397,
+    "slack_handle": "U06115ZEP16",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 397,
+  "fields": {
+    "user": 398,
+    "slack_handle": "U0610SF3MC0",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 398,
+  "fields": {
+    "user": 399,
+    "slack_handle": "U0611SH0BSL",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 399,
+  "fields": {
+    "user": 400,
+    "slack_handle": "U060WKZBCR0",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 400,
+  "fields": {
+    "user": 401,
+    "slack_handle": "U0609M61VJR",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 401,
+  "fields": {
+    "user": 402,
+    "slack_handle": "U061ZLUBVPD",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 402,
+  "fields": {
+    "user": 403,
+    "slack_handle": "U062Z793CBY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 403,
+  "fields": {
+    "user": 405,
+    "slack_handle": "U061SB2RAVD",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 404,
+  "fields": {
+    "user": 404,
+    "slack_handle": "U0612L60LMN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 405,
+  "fields": {
+    "user": 407,
+    "slack_handle": "U061QNMQ9KQ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 406,
+  "fields": {
+    "user": 408,
+    "slack_handle": "U060QKY616D",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 407,
+  "fields": {
+    "user": 406,
+    "slack_handle": "U0632MC639T",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 408,
+  "fields": {
+    "user": 409,
+    "slack_handle": "U06048J6L6B",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 409,
+  "fields": {
+    "user": 410,
+    "slack_handle": "U061PPGMW74",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 410,
+  "fields": {
+    "user": 412,
+    "slack_handle": "U061A1040G1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 411,
+  "fields": {
+    "user": 413,
+    "slack_handle": "U062WU27HNU",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 412,
+  "fields": {
+    "user": 411,
+    "slack_handle": "U060H5BJLR1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 413,
+  "fields": {
+    "user": 414,
+    "slack_handle": "U060RP0SV4H",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 414,
+  "fields": {
+    "user": 415,
+    "slack_handle": "U06227EGCP6",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 415,
+  "fields": {
+    "user": 416,
+    "slack_handle": "U060EF68H7C",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 416,
+  "fields": {
+    "user": 417,
+    "slack_handle": "U060EGKCVEY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 417,
+  "fields": {
+    "user": 418,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 418,
+  "fields": {
+    "user": 419,
+    "slack_handle": "U068ZTMQZCL",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 419,
+  "fields": {
+    "user": 420,
+    "slack_handle": "U068QQZDS2J",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 420,
+  "fields": {
+    "user": 421,
+    "slack_handle": "U068UGE317X",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 421,
+  "fields": {
+    "user": 422,
+    "slack_handle": "U068ZTM83S8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 422,
+  "fields": {
+    "user": 423,
+    "slack_handle": "U068GTZAAKH",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 423,
+  "fields": {
+    "user": 424,
+    "slack_handle": "U068QQY5EF8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 424,
+  "fields": {
+    "user": 425,
+    "slack_handle": "U068XB48CE7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 425,
+  "fields": {
+    "user": 426,
+    "slack_handle": "U068ZTML6BE",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 426,
+  "fields": {
+    "user": 427,
+    "slack_handle": "U069LT92SP8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 427,
+  "fields": {
+    "user": 428,
+    "slack_handle": "U068UGEF04D",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 428,
+  "fields": {
+    "user": 429,
+    "slack_handle": "U069A3H6MAM",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 429,
+  "fields": {
+    "user": 430,
+    "slack_handle": "U068QR017AA",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 430,
+  "fields": {
+    "user": 431,
+    "slack_handle": "U068XB10MLK",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 431,
+  "fields": {
+    "user": 432,
+    "slack_handle": "U068YSEM5TM",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 433,
+  "fields": {
+    "user": 434,
+    "slack_handle": "U068UGDT1A9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 434,
+  "fields": {
+    "user": 435,
+    "slack_handle": "U06BMHDLDGR",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 435,
+  "fields": {
+    "user": 436,
+    "slack_handle": "U06B8QRV8JF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 436,
+  "fields": {
+    "user": 437,
+    "slack_handle": "U068UGE86SZ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 437,
+  "fields": {
+    "user": 438,
+    "slack_handle": "U06AUBXH9JT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 438,
+  "fields": {
+    "user": 439,
+    "slack_handle": "U068Y8P1RMH",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 439,
+  "fields": {
+    "user": 440,
+    "slack_handle": "U06BMHF7XTK",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 440,
+  "fields": {
+    "user": 441,
+    "slack_handle": "U06ECAP3YRY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 441,
+  "fields": {
+    "user": 442,
+    "slack_handle": "U06F14R5X0Q",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 442,
+  "fields": {
+    "user": 443,
+    "slack_handle": "U06GHD1TD1B",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 443,
+  "fields": {
+    "user": 444,
+    "slack_handle": "U06DXQH8WK1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 444,
+  "fields": {
+    "user": 445,
+    "slack_handle": "U06EEQK8P5J",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 445,
+  "fields": {
+    "user": 446,
+    "slack_handle": "U06H1DJBGJ2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 446,
+  "fields": {
+    "user": 447,
+    "slack_handle": "U06FPEZA1NU",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 447,
+  "fields": {
+    "user": 448,
+    "slack_handle": "U06EU1VNYH4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 448,
+  "fields": {
+    "user": 449,
+    "slack_handle": "U06FPE7FV96",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 449,
+  "fields": {
+    "user": 450,
+    "slack_handle": "U06FE5UQ6FR",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 450,
+  "fields": {
+    "user": 451,
+    "slack_handle": "U06G23LQJJD",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 451,
+  "fields": {
+    "user": 452,
+    "slack_handle": "U06ECB92AG2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 452,
+  "fields": {
+    "user": 453,
+    "slack_handle": "U06EL4HSQ8P",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 453,
+  "fields": {
+    "user": 454,
+    "slack_handle": "U06FN5ZSMGE",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 454,
+  "fields": {
+    "user": 455,
+    "slack_handle": "U06GJ8ATR54",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 455,
+  "fields": {
+    "user": 456,
+    "slack_handle": "U06DXQH5T55",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 456,
+  "fields": {
+    "user": 457,
+    "slack_handle": "U06F14WU8G0",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 457,
+  "fields": {
+    "user": 458,
+    "slack_handle": "U06E5MYD6PQ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 458,
+  "fields": {
+    "user": 459,
+    "slack_handle": "U06FDAQRSQH",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 459,
+  "fields": {
+    "user": 460,
+    "slack_handle": "U06EEQKF81J",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 460,
+  "fields": {
+    "user": 461,
+    "slack_handle": "U06EEQQK9PE",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 461,
+  "fields": {
+    "user": 462,
+    "slack_handle": "U06DP0H63LP",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 462,
+  "fields": {
+    "user": 463,
+    "slack_handle": "U06EEQKF81J",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 463,
+  "fields": {
+    "user": 464,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 464,
+  "fields": {
+    "user": 465,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 465,
+  "fields": {
+    "user": 466,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 467,
+  "fields": {
+    "user": 468,
+    "slack_handle": "U070XT19196",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 468,
+  "fields": {
+    "user": 469,
+    "slack_handle": "U0706NW4HQU",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 469,
+  "fields": {
+    "user": 470,
+    "slack_handle": "U0717SY078C",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 470,
+  "fields": {
+    "user": 471,
+    "slack_handle": "U0706DK5336",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 471,
+  "fields": {
+    "user": 472,
+    "slack_handle": "U070WMK7GE4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 472,
+  "fields": {
+    "user": 473,
+    "slack_handle": "U0704QVP12N",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 473,
+  "fields": {
+    "user": 474,
+    "slack_handle": "U06V3D0KGRM",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 474,
+  "fields": {
+    "user": 475,
+    "slack_handle": "U072R35FFE3",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 475,
+  "fields": {
+    "user": 476,
+    "slack_handle": "U070BB0BWF5",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 476,
+  "fields": {
+    "user": 477,
+    "slack_handle": "U0709SRMZ6E",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 477,
+  "fields": {
+    "user": 478,
+    "slack_handle": "U070BJWH8JY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 478,
+  "fields": {
+    "user": 479,
+    "slack_handle": "U05UJEH8CSW",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 479,
+  "fields": {
+    "user": 480,
+    "slack_handle": "U0706ECGQR2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 480,
+  "fields": {
+    "user": 481,
+    "slack_handle": "U0704MAUDSP",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 481,
+  "fields": {
+    "user": 482,
+    "slack_handle": "U05UX3UMM4Z",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 482,
+  "fields": {
+    "user": 483,
+    "slack_handle": "D0255TXMX3P",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 483,
+  "fields": {
+    "user": 484,
+    "slack_handle": "U05ULTSLBUL",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 484,
+  "fields": {
+    "user": 485,
+    "slack_handle": "U07AG9DR7HP",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 485,
+  "fields": {
+    "user": 486,
+    "slack_handle": "U07A63XH684",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 486,
+  "fields": {
+    "user": 487,
+    "slack_handle": "U07ASD06SPJ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 487,
+  "fields": {
+    "user": 488,
+    "slack_handle": "U07A3K8JFEW",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 488,
+  "fields": {
+    "user": 489,
+    "slack_handle": "U07A63X2D52",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 489,
+  "fields": {
+    "user": 490,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 491,
+  "fields": {
+    "user": 492,
+    "slack_handle": "U079XSMQW9Y",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 492,
+  "fields": {
+    "user": 493,
+    "slack_handle": "U07A3K8RFK4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 493,
+  "fields": {
+    "user": 494,
+    "slack_handle": "U07CPT17ED6",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 494,
+  "fields": {
+    "user": 495,
+    "slack_handle": "U07A63XTMDJ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 495,
+  "fields": {
+    "user": 496,
+    "slack_handle": "U07A63XLXT6",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 496,
+  "fields": {
+    "user": 497,
+    "slack_handle": "U07ASD0DWL8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 502,
+  "fields": {
+    "user": 503,
+    "slack_handle": "U07H73R5DL4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 503,
+  "fields": {
+    "user": 504,
+    "slack_handle": "U07GV4DKZGU",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 505,
+  "fields": {
+    "user": 506,
+    "slack_handle": "U07HYM4KDPG",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 507,
+  "fields": {
+    "user": 508,
+    "slack_handle": "U07H1C7D6CV",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 508,
+  "fields": {
+    "user": 509,
+    "slack_handle": "U07JU41GYLQ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 509,
+  "fields": {
+    "user": 510,
+    "slack_handle": "U07GLKA8C1H",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 510,
+  "fields": {
+    "user": 511,
+    "slack_handle": "U07HYM4MQP8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 512,
+  "fields": {
+    "user": 513,
+    "slack_handle": "U07HM76TQKS",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 514,
+  "fields": {
+    "user": 515,
+    "slack_handle": "U07J2DRNKB7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 515,
+  "fields": {
+    "user": 516,
+    "slack_handle": "U07H9B8QJJC",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 516,
+  "fields": {
+    "user": 517,
+    "slack_handle": "U07D3J9SPEY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 517,
+  "fields": {
+    "user": 518,
+    "slack_handle": "U07H5GEDJ1F",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 518,
+  "fields": {
+    "user": 519,
+    "slack_handle": "U07GLP4DT43",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 519,
+  "fields": {
+    "user": 520,
+    "slack_handle": "D041KNK6S23",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 537,
+  "fields": {
+    "user": 537,
+    "slack_handle": "U041WP0S80M",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 538,
+  "fields": {
+    "user": 538,
+    "slack_handle": "U07T080RE06",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 539,
+  "fields": {
+    "user": 539,
+    "slack_handle": "U07SZ0AS8Q7",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 540,
+  "fields": {
+    "user": 540,
+    "slack_handle": "U07T65KRSUB",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 541,
+  "fields": {
+    "user": 541,
+    "slack_handle": "U07SZV617M4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 542,
+  "fields": {
+    "user": 542,
+    "slack_handle": "U04UJ5VS55X",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 543,
+  "fields": {
+    "user": 543,
+    "slack_handle": "U07SZT88CUE",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 544,
+  "fields": {
+    "user": 529,
+    "slack_handle": "U042YANQKRN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 545,
+  "fields": {
+    "user": 544,
+    "slack_handle": "U07TY2HNRD2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 546,
+  "fields": {
+    "user": 545,
+    "slack_handle": "U05V7EDTRRN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 547,
+  "fields": {
+    "user": 546,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 548,
+  "fields": {
+    "user": 547,
+    "slack_handle": "U04323QF0G5",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 549,
+  "fields": {
+    "user": 548,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 550,
+  "fields": {
+    "user": 549,
+    "slack_handle": "U07UGAV5J0N",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 551,
+  "fields": {
+    "user": 550,
+    "slack_handle": "U04TR1697AT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 552,
+  "fields": {
+    "user": 551,
+    "slack_handle": "U050241RYLE",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 553,
+  "fields": {
+    "user": 552,
+    "slack_handle": "U07SZ9785JA",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 554,
+  "fields": {
+    "user": 553,
+    "slack_handle": "U07TZH7TM5Y",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 556,
+  "fields": {
+    "user": 555,
+    "slack_handle": "U07UE1CH681",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 557,
+  "fields": {
+    "user": 556,
+    "slack_handle": "U07UDF5EAQK",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 559,
+  "fields": {
+    "user": 558,
+    "slack_handle": "U05UX3UJE8H",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 562,
+  "fields": {
+    "user": 561,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 563,
+  "fields": {
+    "user": 562,
+    "slack_handle": "U04U5D6763V",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 564,
+  "fields": {
+    "user": 563,
+    "slack_handle": "U04TYUG06TY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 565,
+  "fields": {
+    "user": 564,
+    "slack_handle": "U05ULTT3Q3E",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 566,
+  "fields": {
+    "user": 565,
+    "slack_handle": "U05ULTSDQLC",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 567,
+  "fields": {
+    "user": 566,
+    "slack_handle": "U04UW4B9FFF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 568,
+  "fields": {
+    "user": 567,
+    "slack_handle": "U02CDMELT28",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 571,
+  "fields": {
+    "user": 570,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 572,
+  "fields": {
+    "user": 571,
+    "slack_handle": "U05V7ED7S56",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 573,
+  "fields": {
+    "user": 572,
+    "slack_handle": "U04TR165N07",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 574,
+  "fields": {
+    "user": 573,
+    "slack_handle": "U05UX3WAH1P",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 584,
+  "fields": {
+    "user": 576,
+    "slack_handle": "U084Q1KMN1Y",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 585,
+  "fields": {
+    "user": 582,
+    "slack_handle": "U08772F5R8S",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 586,
+  "fields": {
+    "user": 574,
+    "slack_handle": "U084SGQCLE8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 588,
+  "fields": {
+    "user": 581,
+    "slack_handle": "U084SGPRJN8",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 589,
+  "fields": {
+    "user": 575,
+    "slack_handle": "U084SGQ9F2Q",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 590,
+  "fields": {
+    "user": 579,
+    "slack_handle": "U014FSU81D1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 592,
+  "fields": {
+    "user": 577,
+    "slack_handle": "U084HCVV83Y",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 593,
+  "fields": {
+    "user": 583,
+    "slack_handle": "U08CWU7GUH3",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 594,
+  "fields": {
+    "user": 584,
+    "slack_handle": "U05U3U7HGK1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 610,
+  "fields": {
+    "user": 594,
+    "slack_handle": "U08CZLTSNUT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 611,
+  "fields": {
+    "user": 591,
+    "slack_handle": "U08CZP9K2BC",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 612,
+  "fields": {
+    "user": 590,
+    "slack_handle": "U08E387E7C1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 613,
+  "fields": {
+    "user": 595,
+    "slack_handle": "U08DSM31UG4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 614,
+  "fields": {
+    "user": 596,
+    "slack_handle": "U08DNHU7RS4",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 615,
+  "fields": {
+    "user": 597,
+    "slack_handle": "U08CT50AA4E",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 616,
+  "fields": {
+    "user": 598,
+    "slack_handle": "U08CK7N23PZ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 617,
+  "fields": {
+    "user": 599,
+    "slack_handle": "U08E24TTA81",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 618,
+  "fields": {
+    "user": 600,
+    "slack_handle": "U08FT1YECDT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 619,
+  "fields": {
+    "user": 601,
+    "slack_handle": "U08CK7NDVTR",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 621,
+  "fields": {
+    "user": 603,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 622,
+  "fields": {
+    "user": 604,
+    "slack_handle": "U08PYG5G46B",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 623,
+  "fields": {
+    "user": 605,
+    "slack_handle": "U08PYG8EKLP",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 624,
+  "fields": {
+    "user": 606,
+    "slack_handle": "U08PYG60H3R",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 625,
+  "fields": {
+    "user": 607,
+    "slack_handle": "U08PYGA0YCF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 626,
+  "fields": {
+    "user": 608,
+    "slack_handle": "U08PYGD0GF9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 627,
+  "fields": {
+    "user": 609,
+    "slack_handle": "U08PYGFG3B9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 628,
+  "fields": {
+    "user": 610,
+    "slack_handle": "U08PYGH6VLP",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 629,
+  "fields": {
+    "user": 611,
+    "slack_handle": "U01U5BWF56E",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 630,
+  "fields": {
+    "user": 612,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 632,
+  "fields": {
+    "user": 613,
+    "slack_handle": "U01F4SSN8JY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 633,
+  "fields": {
+    "user": 614,
+    "slack_handle": "U06JN482DHQ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 635,
+  "fields": {
+    "user": 615,
+    "slack_handle": "U07ML611R7X",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 636,
+  "fields": {
+    "user": 616,
+    "slack_handle": "U05CTHRASP2",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 637,
+  "fields": {
+    "user": 602,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 638,
+  "fields": {
+    "user": 617,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 640,
+  "fields": {
+    "user": 210,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 641,
+  "fields": {
+    "user": 619,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 642,
+  "fields": {
+    "user": 620,
+    "slack_handle": "U07GK070ANB",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 643,
+  "fields": {
+    "user": 621,
+    "slack_handle": "U07GZGAUGCA",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 644,
+  "fields": {
+    "user": 622,
+    "slack_handle": "U079P2TN6A3",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 645,
+  "fields": {
+    "user": 623,
+    "slack_handle": "U09B4GF4VDY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 646,
+  "fields": {
+    "user": 624,
+    "slack_handle": "U086X3YGJMA",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 647,
+  "fields": {
+    "user": 625,
+    "slack_handle": "U05SK4PDA90",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 648,
+  "fields": {
+    "user": 626,
+    "slack_handle": "U068SAY3GTY",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 649,
+  "fields": {
+    "user": 627,
+    "slack_handle": "U07L4AP3MAN",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 650,
+  "fields": {
+    "user": 628,
+    "slack_handle": "U086UKR68LT",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 651,
+  "fields": {
+    "user": 629,
+    "slack_handle": "U091KTFJ3RD",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 652,
+  "fields": {
+    "user": 630,
+    "slack_handle": "U086UKR0JRZ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 653,
+  "fields": {
+    "user": 631,
+    "slack_handle": "U091KTM1S3H",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 654,
+  "fields": {
+    "user": 632,
+    "slack_handle": "U092A53BL75",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 655,
+  "fields": {
+    "user": 633,
+    "slack_handle": "U091KTCP0KZ",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 656,
+  "fields": {
+    "user": 634,
+    "slack_handle": "U068SAXH886",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 657,
+  "fields": {
+    "user": 635,
+    "slack_handle": "U091KTTHJ7R",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 658,
+  "fields": {
+    "user": 636,
+    "slack_handle": "U091KTNCUNB",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 659,
+  "fields": {
+    "user": 637,
+    "slack_handle": "U091KTUNX2B",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 660,
+  "fields": {
+    "user": 638,
+    "slack_handle": "U07N8E26JBE",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 661,
+  "fields": {
+    "user": 639,
+    "slack_handle": "U091KTQ3SF9",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 662,
+  "fields": {
+    "user": 640,
+    "slack_handle": "U091KTKKGGP",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 663,
+  "fields": {
+    "user": 641,
+    "slack_handle": "U08QXJXU3MF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 667,
+  "fields": {
+    "user": 646,
+    "slack_handle": "U09368Z150F",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 669,
+  "fields": {
+    "user": 648,
+    "slack_handle": "U092DG78Y5P",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 670,
+  "fields": {
+    "user": 649,
+    "slack_handle": "U092DGFUNHF",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 671,
+  "fields": {
+    "user": 650,
+    "slack_handle": "U092DGKGVEV",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 672,
+  "fields": {
+    "user": 651,
+    "slack_handle": "U09466AUKC6",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 673,
+  "fields": {
+    "user": 652,
+    "slack_handle": "U092DG3DV17",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 675,
+  "fields": {
+    "user": 654,
+    "slack_handle": "U092LM35ML1",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 676,
+  "fields": {
+    "user": 655,
+    "slack_handle": "U092DG9GBMX",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 677,
+  "fields": {
+    "user": 656,
+    "slack_handle": "U092DGHNUGH",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 678,
+  "fields": {
+    "user": 657,
+    "slack_handle": "U092DGCEEF3",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 679,
+  "fields": {
+    "user": 658,
+    "slack_handle": "U095EJNUX0A",
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 680,
+  "fields": {
+    "user": 659,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 681,
+  "fields": {
+    "user": 660,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 682,
+  "fields": {
+    "user": 661,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+},
+{
+  "model": "LearningAPI.nssuser",
+  "pk": 683,
+  "fields": {
+    "user": 662,
+    "slack_handle": null,
+    "github_handle": "hamishdonovon"
+  }
+}
+]

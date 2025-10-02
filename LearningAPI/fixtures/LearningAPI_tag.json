@@ -1,0 +1,23 @@
+[
+{
+  "model": "LearningAPI.tag",
+  "pk": 81,
+  "fields": {
+    "name": "Holiday Road"
+  }
+},
+{
+  "model": "LearningAPI.tag",
+  "pk": 90,
+  "fields": {
+    "name": "Truncheons and Flagons"
+  }
+},
+{
+  "model": "LearningAPI.tag",
+  "pk": 91,
+  "fields": {
+    "name": "Giffygram"
+  }
+}
+]

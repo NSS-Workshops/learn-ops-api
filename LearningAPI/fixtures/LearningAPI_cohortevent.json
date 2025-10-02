@@ -1,0 +1,3512 @@
+[
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 1,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Intersession break",
+    "event_type": 3,
+    "event_datetime": "2025-07-28T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-29T12:44:58.587Z",
+    "updated_at": "2025-06-29T12:44:58.587Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 2,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Intersession break",
+    "event_type": 3,
+    "event_datetime": "2025-07-30T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-29T12:44:58.595Z",
+    "updated_at": "2025-06-29T12:44:58.595Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 3,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Intersession break",
+    "event_type": 3,
+    "event_datetime": "2025-07-29T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-29T12:44:58.600Z",
+    "updated_at": "2025-06-29T12:44:58.600Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 4,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Intersession break",
+    "event_type": 3,
+    "event_datetime": "2025-08-01T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-29T12:44:58.640Z",
+    "updated_at": "2025-06-29T12:44:58.640Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 5,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Intersession break",
+    "event_type": 3,
+    "event_datetime": "2025-07-31T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-29T12:44:58.649Z",
+    "updated_at": "2025-06-29T12:44:58.649Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 6,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Labor Day",
+    "event_type": 4,
+    "event_datetime": "2025-09-01T09:00:00Z",
+    "description": "No class",
+    "created_at": "2025-06-29T12:46:00.652Z",
+    "updated_at": "2025-06-29T12:46:00.652Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 7,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Memorial Day",
+    "event_type": 4,
+    "event_datetime": "2025-05-26T09:00:00Z",
+    "description": "No class",
+    "created_at": "2025-06-29T12:46:40.245Z",
+    "updated_at": "2025-06-29T12:46:40.245Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 8,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Independence Day",
+    "event_type": 4,
+    "event_datetime": "2025-07-04T09:00:00Z",
+    "description": "No class",
+    "created_at": "2025-06-29T12:47:00.835Z",
+    "updated_at": "2025-06-29T12:47:00.835Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 9,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Thanksgiving Break",
+    "event_type": 4,
+    "event_datetime": "2024-11-30T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:19:24.910Z",
+    "updated_at": "2025-06-30T03:19:24.910Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 10,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Thanksgiving Break",
+    "event_type": 4,
+    "event_datetime": "2024-11-28T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:19:24.915Z",
+    "updated_at": "2025-06-30T03:19:24.915Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 11,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Thanksgiving Break",
+    "event_type": 4,
+    "event_datetime": "2024-11-27T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:19:24.925Z",
+    "updated_at": "2025-06-30T03:19:24.925Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 12,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Thanksgiving Break",
+    "event_type": 4,
+    "event_datetime": "2024-11-29T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:19:24.958Z",
+    "updated_at": "2025-06-30T03:19:24.958Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 13,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-24T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:07.789Z",
+    "updated_at": "2025-06-30T03:20:07.789Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 14,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-21T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:07.791Z",
+    "updated_at": "2025-06-30T03:20:07.791Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 15,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-23T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:07.799Z",
+    "updated_at": "2025-06-30T03:20:07.799Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 16,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-22T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:07.836Z",
+    "updated_at": "2025-06-30T03:20:07.836Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 17,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-26T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:07.911Z",
+    "updated_at": "2025-06-30T03:20:07.911Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 18,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-25T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:07.905Z",
+    "updated_at": "2025-06-30T03:20:07.905Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 19,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-27T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:07.921Z",
+    "updated_at": "2025-06-30T03:20:07.921Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 20,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-28T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:07.981Z",
+    "updated_at": "2025-06-30T03:20:07.981Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 21,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-29T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:07.994Z",
+    "updated_at": "2025-06-30T03:20:07.994Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 22,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-30T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:08.007Z",
+    "updated_at": "2025-06-30T03:20:08.007Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 23,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2024-12-31T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:08.042Z",
+    "updated_at": "2025-06-30T03:20:08.042Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 24,
+  "fields": {
+    "cohort": 41,
+    "event_name": "MLK Day",
+    "event_type": 4,
+    "event_datetime": "2025-01-20T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:28.763Z",
+    "updated_at": "2025-06-30T03:20:28.763Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 25,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Memorial Day",
+    "event_type": 4,
+    "event_datetime": "2025-05-26T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:20:50.760Z",
+    "updated_at": "2025-06-30T03:20:50.760Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 26,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Intersession Week",
+    "event_type": 3,
+    "event_datetime": "2025-03-24T09:00:00Z",
+    "description": "Between client and server side",
+    "created_at": "2025-06-30T03:21:48.926Z",
+    "updated_at": "2025-06-30T03:21:48.926Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 27,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Intersession Week",
+    "event_type": 3,
+    "event_datetime": "2025-03-25T09:00:00Z",
+    "description": "Between client and server side",
+    "created_at": "2025-06-30T03:21:49.008Z",
+    "updated_at": "2025-06-30T03:21:49.008Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 28,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Intersession Week",
+    "event_type": 3,
+    "event_datetime": "2025-03-27T09:00:00Z",
+    "description": "Between client and server side",
+    "created_at": "2025-06-30T03:21:49.078Z",
+    "updated_at": "2025-06-30T03:21:49.078Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 29,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Intersession Week",
+    "event_type": 3,
+    "event_datetime": "2025-03-26T09:00:00Z",
+    "description": "Between client and server side",
+    "created_at": "2025-06-30T03:21:49.085Z",
+    "updated_at": "2025-06-30T03:21:49.085Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 30,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Intersession Week",
+    "event_type": 3,
+    "event_datetime": "2025-03-28T09:00:00Z",
+    "description": "Between client and server side",
+    "created_at": "2025-06-30T03:21:49.105Z",
+    "updated_at": "2025-06-30T03:21:49.105Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 31,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Intersession Week",
+    "event_type": 3,
+    "event_datetime": "2025-03-29T09:00:00Z",
+    "description": "Between client and server side",
+    "created_at": "2025-06-30T03:21:49.128Z",
+    "updated_at": "2025-06-30T03:21:49.128Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 32,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Labor Day",
+    "event_type": 4,
+    "event_datetime": "2025-09-01T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:22:17.798Z",
+    "updated_at": "2025-06-30T03:22:17.798Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 33,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-24T09:00:00Z",
+    "description": "Mid server-side lab hours",
+    "created_at": "2025-06-30T03:23:19.544Z",
+    "updated_at": "2025-06-30T03:23:19.544Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 34,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-23T09:00:00Z",
+    "description": "Mid server-side lab hours",
+    "created_at": "2025-06-30T03:23:19.547Z",
+    "updated_at": "2025-06-30T03:23:19.547Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 35,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-25T09:00:00Z",
+    "description": "Mid server-side lab hours",
+    "created_at": "2025-06-30T03:23:19.555Z",
+    "updated_at": "2025-06-30T03:23:19.555Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 36,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-27T09:00:00Z",
+    "description": "Mid server-side lab hours",
+    "created_at": "2025-06-30T03:23:19.611Z",
+    "updated_at": "2025-06-30T03:23:19.611Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 37,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-26T09:00:00Z",
+    "description": "Mid server-side lab hours",
+    "created_at": "2025-06-30T03:23:19.612Z",
+    "updated_at": "2025-06-30T03:23:19.612Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 38,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-28T09:00:00Z",
+    "description": "Mid server-side lab hours",
+    "created_at": "2025-06-30T03:23:19.630Z",
+    "updated_at": "2025-06-30T03:23:19.630Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 39,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Graduation",
+    "event_type": 2,
+    "event_datetime": "2025-09-18T18:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:24:17.736Z",
+    "updated_at": "2025-06-30T03:24:17.736Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 40,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Demo Day",
+    "event_type": 2,
+    "event_datetime": "2025-09-19T18:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T03:24:42.806Z",
+    "updated_at": "2025-06-30T03:24:42.806Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 41,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Independence Day",
+    "event_type": 4,
+    "event_datetime": "2025-07-04T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:26:51.042Z",
+    "updated_at": "2025-06-30T11:26:51.042Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 42,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Labor Day",
+    "event_type": 4,
+    "event_datetime": "2025-09-01T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:27:10.809Z",
+    "updated_at": "2025-06-30T11:27:10.809Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 49,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Thanksgiving",
+    "event_type": 4,
+    "event_datetime": "2025-11-29T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:28:04.182Z",
+    "updated_at": "2025-06-30T11:28:04.182Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 52,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Holiday break",
+    "event_type": 4,
+    "event_datetime": "2025-12-25T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:29:17.852Z",
+    "updated_at": "2025-06-30T11:29:17.852Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 53,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Holiday break",
+    "event_type": 4,
+    "event_datetime": "2025-12-24T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:29:17.852Z",
+    "updated_at": "2025-06-30T11:29:17.852Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 58,
+  "fields": {
+    "cohort": 42,
+    "event_name": "New Years",
+    "event_type": 4,
+    "event_datetime": "2026-01-01T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:29:55.586Z",
+    "updated_at": "2025-06-30T11:29:55.586Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 59,
+  "fields": {
+    "cohort": 42,
+    "event_name": "MLK Day",
+    "event_type": 4,
+    "event_datetime": "2026-01-19T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:30:19.308Z",
+    "updated_at": "2025-06-30T11:30:19.308Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 66,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Memorial Day",
+    "event_type": 4,
+    "event_datetime": "2026-05-25T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:30:53.527Z",
+    "updated_at": "2025-06-30T11:30:53.527Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 67,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Graduation",
+    "event_type": 2,
+    "event_datetime": "2026-07-13T18:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:32:08.444Z",
+    "updated_at": "2025-06-30T11:32:08.444Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 68,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Labor Day",
+    "event_type": 4,
+    "event_datetime": "2025-09-01T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:33:27.512Z",
+    "updated_at": "2025-06-30T11:33:27.512Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 69,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Intersession",
+    "event_type": 3,
+    "event_datetime": "2025-09-29T09:00:00Z",
+    "description": "Break week between client and server-side",
+    "created_at": "2025-06-30T11:34:08.151Z",
+    "updated_at": "2025-06-30T11:34:08.151Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 70,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Intersession",
+    "event_type": 3,
+    "event_datetime": "2025-09-30T09:00:00Z",
+    "description": "Break week between client and server-side",
+    "created_at": "2025-06-30T11:34:08.153Z",
+    "updated_at": "2025-06-30T11:34:08.153Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 71,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Intersession",
+    "event_type": 3,
+    "event_datetime": "2025-10-01T09:00:00Z",
+    "description": "Break week between client and server-side",
+    "created_at": "2025-06-30T11:34:08.158Z",
+    "updated_at": "2025-06-30T11:34:08.158Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 72,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Intersession",
+    "event_type": 3,
+    "event_datetime": "2025-10-03T09:00:00Z",
+    "description": "Break week between client and server-side",
+    "created_at": "2025-06-30T11:34:08.250Z",
+    "updated_at": "2025-06-30T11:34:08.250Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 73,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Intersession",
+    "event_type": 3,
+    "event_datetime": "2025-10-02T09:00:00Z",
+    "description": "Break week between client and server-side",
+    "created_at": "2025-06-30T11:34:08.251Z",
+    "updated_at": "2025-06-30T11:34:08.251Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 74,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Thankgiving Break",
+    "event_type": 4,
+    "event_datetime": "2025-11-28T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:30.934Z",
+    "updated_at": "2025-06-30T11:34:30.934Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 75,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Thankgiving Break",
+    "event_type": 4,
+    "event_datetime": "2025-11-26T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:30.936Z",
+    "updated_at": "2025-06-30T11:34:30.936Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 76,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Thankgiving Break",
+    "event_type": 4,
+    "event_datetime": "2025-11-27T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:30.942Z",
+    "updated_at": "2025-06-30T11:34:30.942Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 77,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-24T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:53.574Z",
+    "updated_at": "2025-06-30T11:34:53.574Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 78,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-25T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:53.576Z",
+    "updated_at": "2025-06-30T11:34:53.576Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 79,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-26T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:53.592Z",
+    "updated_at": "2025-06-30T11:34:53.592Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 80,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-23T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:53.626Z",
+    "updated_at": "2025-06-30T11:34:53.626Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 81,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-22T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:53.628Z",
+    "updated_at": "2025-06-30T11:34:53.628Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 84,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-29T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:53.695Z",
+    "updated_at": "2025-06-30T11:34:53.695Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 85,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-30T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:53.725Z",
+    "updated_at": "2025-06-30T11:34:53.725Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 86,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2026-01-01T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:53.747Z",
+    "updated_at": "2025-06-30T11:34:53.747Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 87,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-31T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:53.749Z",
+    "updated_at": "2025-06-30T11:34:53.749Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 88,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2026-01-02T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:34:53.777Z",
+    "updated_at": "2025-06-30T11:34:53.777Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 90,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Graduation",
+    "event_type": 2,
+    "event_datetime": "2026-01-16T12:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:35:52.517Z",
+    "updated_at": "2025-06-30T11:35:52.517Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 91,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Independence Day",
+    "event_type": 4,
+    "event_datetime": "2025-07-04T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:50:49.844Z",
+    "updated_at": "2025-06-30T11:50:49.844Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 92,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Independence Day",
+    "event_type": 4,
+    "event_datetime": "2025-07-04T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:52:22.051Z",
+    "updated_at": "2025-06-30T11:52:22.051Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 93,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-24T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:52:58.923Z",
+    "updated_at": "2025-06-30T11:52:58.923Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 94,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-23T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:52:58.926Z",
+    "updated_at": "2025-06-30T11:52:58.926Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 95,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-25T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:52:58.929Z",
+    "updated_at": "2025-06-30T11:52:58.929Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 96,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-26T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:52:59.026Z",
+    "updated_at": "2025-06-30T11:52:59.026Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 97,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-27T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:52:59.029Z",
+    "updated_at": "2025-06-30T11:52:59.029Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 98,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-06-28T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:52:59.039Z",
+    "updated_at": "2025-06-30T11:52:59.039Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 99,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Thanksgiving Break",
+    "event_type": 4,
+    "event_datetime": "2025-11-29T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:25.511Z",
+    "updated_at": "2025-06-30T11:53:25.511Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 100,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Thanksgiving Break",
+    "event_type": 4,
+    "event_datetime": "2025-11-28T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:25.515Z",
+    "updated_at": "2025-06-30T11:53:25.515Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 101,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Thanksgiving Break",
+    "event_type": 4,
+    "event_datetime": "2025-11-27T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:25.524Z",
+    "updated_at": "2025-06-30T11:53:25.524Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 102,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Thanksgiving Break",
+    "event_type": 4,
+    "event_datetime": "2025-11-26T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:25.549Z",
+    "updated_at": "2025-06-30T11:53:25.549Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 103,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-22T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:47.776Z",
+    "updated_at": "2025-06-30T11:53:47.776Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 104,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-23T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:47.777Z",
+    "updated_at": "2025-06-30T11:53:47.777Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 105,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-24T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:47.796Z",
+    "updated_at": "2025-06-30T11:53:47.796Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 106,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-26T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:47.832Z",
+    "updated_at": "2025-06-30T11:53:47.832Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 107,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-27T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:47.851Z",
+    "updated_at": "2025-06-30T11:53:47.851Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 108,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-25T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:47.855Z",
+    "updated_at": "2025-06-30T11:53:47.855Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 109,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-29T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:47.884Z",
+    "updated_at": "2025-06-30T11:53:47.884Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 110,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-28T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:47.908Z",
+    "updated_at": "2025-06-30T11:53:47.908Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 111,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Holiday Break",
+    "event_type": 4,
+    "event_datetime": "2025-12-30T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:53:47.911Z",
+    "updated_at": "2025-06-30T11:53:47.911Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 112,
+  "fields": {
+    "cohort": 38,
+    "event_name": "New Year's Day",
+    "event_type": 4,
+    "event_datetime": "2026-01-01T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:54:07.274Z",
+    "updated_at": "2025-06-30T11:54:07.274Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 113,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-03-26T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:54:28.531Z",
+    "updated_at": "2025-06-30T11:54:28.531Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 114,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-03-24T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:54:28.535Z",
+    "updated_at": "2025-06-30T11:54:28.535Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 115,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-03-28T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:54:28.551Z",
+    "updated_at": "2025-06-30T11:54:28.551Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 116,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-03-27T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:54:28.592Z",
+    "updated_at": "2025-06-30T11:54:28.592Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 117,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-03-29T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:54:28.594Z",
+    "updated_at": "2025-06-30T11:54:28.594Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 118,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-03-25T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:54:28.613Z",
+    "updated_at": "2025-06-30T11:54:28.613Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 119,
+  "fields": {
+    "cohort": 38,
+    "event_name": "MLK Day",
+    "event_type": 4,
+    "event_datetime": "2025-01-20T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:54:43.776Z",
+    "updated_at": "2025-06-30T11:54:43.776Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 120,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Memorial Day",
+    "event_type": 4,
+    "event_datetime": "2025-05-26T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:55:06.390Z",
+    "updated_at": "2025-06-30T11:55:06.390Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 122,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Labor Day",
+    "event_type": 4,
+    "event_datetime": "2025-09-01T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:55:57.589Z",
+    "updated_at": "2025-06-30T11:55:57.589Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 123,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-09-22T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:56:24.945Z",
+    "updated_at": "2025-06-30T11:56:24.945Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 124,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-09-23T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:56:25.020Z",
+    "updated_at": "2025-06-30T11:56:25.020Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 125,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-09-24T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:56:25.115Z",
+    "updated_at": "2025-06-30T11:56:25.115Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 126,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-09-25T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:56:25.119Z",
+    "updated_at": "2025-06-30T11:56:25.119Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 127,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-09-26T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:56:25.137Z",
+    "updated_at": "2025-06-30T11:56:25.137Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 128,
+  "fields": {
+    "cohort": 38,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-09-27T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:56:25.156Z",
+    "updated_at": "2025-06-30T11:56:25.156Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 129,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Independence Day",
+    "event_type": 4,
+    "event_datetime": "2025-07-04T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:58:32.211Z",
+    "updated_at": "2025-06-30T11:58:32.211Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 130,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Memorial Day",
+    "event_type": 4,
+    "event_datetime": "2025-05-26T09:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:58:54.615Z",
+    "updated_at": "2025-06-30T11:58:54.615Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 131,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-05-29T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:59:18.273Z",
+    "updated_at": "2025-06-30T11:59:18.273Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 132,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-05-27T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:59:18.278Z",
+    "updated_at": "2025-06-30T11:59:18.278Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 133,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-05-28T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:59:18.284Z",
+    "updated_at": "2025-06-30T11:59:18.284Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 134,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Lab Hours",
+    "event_type": 3,
+    "event_datetime": "2025-05-30T09:00:00Z",
+    "description": "No classes",
+    "created_at": "2025-06-30T11:59:18.352Z",
+    "updated_at": "2025-06-30T11:59:18.352Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 135,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Graduation",
+    "event_type": 2,
+    "event_datetime": "2025-08-22T12:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T11:59:41.323Z",
+    "updated_at": "2025-06-30T11:59:41.323Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 139,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Shepherd's Pie",
+    "event_type": 1,
+    "event_datetime": "2025-07-09T09:00:00Z",
+    "description": "React group project",
+    "created_at": "2025-06-30T12:13:17.493Z",
+    "updated_at": "2025-06-30T12:13:17.493Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 140,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Shepherd's Pie",
+    "event_type": 1,
+    "event_datetime": "2025-07-11T09:00:00Z",
+    "description": "React group project",
+    "created_at": "2025-06-30T12:13:17.506Z",
+    "updated_at": "2025-06-30T12:13:17.506Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 141,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Shepherd's Pie",
+    "event_type": 1,
+    "event_datetime": "2025-07-10T09:00:00Z",
+    "description": "React group project",
+    "created_at": "2025-06-30T12:13:17.523Z",
+    "updated_at": "2025-06-30T12:13:17.523Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 142,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Rare Sprints",
+    "event_type": 1,
+    "event_datetime": "2025-08-18T09:00:00Z",
+    "description": "Two-sprint Python/SQL group project",
+    "created_at": "2025-06-30T12:40:03.109Z",
+    "updated_at": "2025-06-30T12:40:03.109Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 143,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Rare Sprints",
+    "event_type": 1,
+    "event_datetime": "2025-08-19T09:00:00Z",
+    "description": "Two-sprint Python/SQL group project",
+    "created_at": "2025-06-30T12:40:03.111Z",
+    "updated_at": "2025-06-30T12:40:03.111Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 144,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Rare Sprints",
+    "event_type": 1,
+    "event_datetime": "2025-08-21T09:00:00Z",
+    "description": "Two-sprint Python/SQL group project",
+    "created_at": "2025-06-30T12:40:03.119Z",
+    "updated_at": "2025-06-30T12:40:03.119Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 145,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Rare Sprints",
+    "event_type": 1,
+    "event_datetime": "2025-08-20T09:00:00Z",
+    "description": "Two-sprint Python/SQL group project",
+    "created_at": "2025-06-30T12:40:03.149Z",
+    "updated_at": "2025-06-30T12:40:03.149Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 147,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Rare Sprints",
+    "event_type": 1,
+    "event_datetime": "2025-08-22T09:00:00Z",
+    "description": "Two-sprint Python/SQL group project",
+    "created_at": "2025-06-30T12:40:03.217Z",
+    "updated_at": "2025-06-30T12:40:03.217Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 149,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Rare Sprints",
+    "event_type": 1,
+    "event_datetime": "2025-08-26T09:00:00Z",
+    "description": "Two-sprint Python/SQL group project",
+    "created_at": "2025-06-30T12:40:03.289Z",
+    "updated_at": "2025-06-30T12:40:03.289Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 150,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Rare Sprints",
+    "event_type": 1,
+    "event_datetime": "2025-08-25T09:00:00Z",
+    "description": "Two-sprint Python/SQL group project",
+    "created_at": "2025-06-30T12:40:03.313Z",
+    "updated_at": "2025-06-30T12:40:03.313Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 151,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Rare Sprints",
+    "event_type": 1,
+    "event_datetime": "2025-08-27T09:00:00Z",
+    "description": "Two-sprint Python/SQL group project",
+    "created_at": "2025-06-30T12:40:03.314Z",
+    "updated_at": "2025-06-30T12:40:03.314Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 152,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Rare Sprints",
+    "event_type": 1,
+    "event_datetime": "2025-08-29T09:00:00Z",
+    "description": "Two-sprint Python/SQL group project",
+    "created_at": "2025-06-30T12:40:03.344Z",
+    "updated_at": "2025-06-30T12:40:03.344Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 153,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Rare Sprints",
+    "event_type": 1,
+    "event_datetime": "2025-08-28T09:00:00Z",
+    "description": "Two-sprint Python/SQL group project",
+    "created_at": "2025-06-30T12:40:03.358Z",
+    "updated_at": "2025-06-30T12:40:03.358Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 173,
+  "fields": {
+    "cohort": 37,
+    "event_name": "Graduation",
+    "event_type": 2,
+    "event_datetime": "2025-10-24T12:00:00Z",
+    "description": "",
+    "created_at": "2025-06-30T12:43:40.406Z",
+    "updated_at": "2025-06-30T12:43:40.406Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 175,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 1",
+    "event_type": 3,
+    "event_datetime": "2025-09-23T00:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:37:00.185Z",
+    "updated_at": "2025-06-30T18:37:00.185Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 176,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 1",
+    "event_type": 3,
+    "event_datetime": "2025-09-25T00:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:37:00.203Z",
+    "updated_at": "2025-06-30T18:37:00.203Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 177,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 1",
+    "event_type": 3,
+    "event_datetime": "2025-09-26T00:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:37:00.243Z",
+    "updated_at": "2025-06-30T18:37:00.243Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 178,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 1",
+    "event_type": 3,
+    "event_datetime": "2025-09-24T00:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:37:00.251Z",
+    "updated_at": "2025-06-30T18:37:00.251Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 181,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 1",
+    "event_type": 3,
+    "event_datetime": "2025-09-27T00:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:38:06.769Z",
+    "updated_at": "2025-06-30T18:38:06.769Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 182,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 1",
+    "event_type": 3,
+    "event_datetime": "2025-09-27T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:38:56.107Z",
+    "updated_at": "2025-06-30T18:38:56.107Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 202,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 2",
+    "event_type": 3,
+    "event_datetime": "2025-12-22T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:39:39.658Z",
+    "updated_at": "2025-06-30T18:39:39.658Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 203,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 2",
+    "event_type": 3,
+    "event_datetime": "2025-12-23T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:39:39.659Z",
+    "updated_at": "2025-06-30T18:39:39.659Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 204,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 2",
+    "event_type": 3,
+    "event_datetime": "2025-12-26T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:40:16.086Z",
+    "updated_at": "2025-06-30T18:40:16.086Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 205,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 2",
+    "event_type": 3,
+    "event_datetime": "2025-12-30T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:40:16.089Z",
+    "updated_at": "2025-06-30T18:40:16.089Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 206,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 2",
+    "event_type": 3,
+    "event_datetime": "2025-12-31T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:40:16.109Z",
+    "updated_at": "2025-06-30T18:40:16.109Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 207,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 2",
+    "event_type": 3,
+    "event_datetime": "2025-12-28T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:40:16.142Z",
+    "updated_at": "2025-06-30T18:40:16.142Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 208,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 2",
+    "event_type": 3,
+    "event_datetime": "2025-12-29T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:40:16.144Z",
+    "updated_at": "2025-06-30T18:40:16.144Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 209,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 2",
+    "event_type": 3,
+    "event_datetime": "2025-12-27T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:40:16.159Z",
+    "updated_at": "2025-06-30T18:40:16.159Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 210,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 2",
+    "event_type": 3,
+    "event_datetime": "2026-01-03T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:40:40.830Z",
+    "updated_at": "2025-06-30T18:40:40.830Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 211,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 2",
+    "event_type": 3,
+    "event_datetime": "2026-01-02T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:40:40.833Z",
+    "updated_at": "2025-06-30T18:40:40.833Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 222,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 3",
+    "event_type": 3,
+    "event_datetime": "2026-03-31T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:42:27.545Z",
+    "updated_at": "2025-06-30T18:42:27.545Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 223,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 3",
+    "event_type": 3,
+    "event_datetime": "2026-03-30T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:42:27.558Z",
+    "updated_at": "2025-06-30T18:42:27.558Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 224,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 3",
+    "event_type": 3,
+    "event_datetime": "2026-04-01T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:42:27.568Z",
+    "updated_at": "2025-06-30T18:42:27.568Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 225,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 3",
+    "event_type": 3,
+    "event_datetime": "2026-04-03T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:42:27.615Z",
+    "updated_at": "2025-06-30T18:42:27.615Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 226,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 3",
+    "event_type": 3,
+    "event_datetime": "2026-04-02T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:42:27.617Z",
+    "updated_at": "2025-06-30T18:42:27.617Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 227,
+  "fields": {
+    "cohort": 42,
+    "event_name": "Intercession 3",
+    "event_type": 3,
+    "event_datetime": "2026-04-04T09:00:00Z",
+    "description": "No Class",
+    "created_at": "2025-06-30T18:42:27.631Z",
+    "updated_at": "2025-06-30T18:42:27.631Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 233,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Roundtable Event",
+    "event_type": 2,
+    "event_datetime": "2025-07-09T18:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:00:00.052Z",
+    "updated_at": "2025-07-01T15:00:00.052Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 235,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Class website due!",
+    "event_type": 2,
+    "event_datetime": "2025-07-22T12:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:01:46.970Z",
+    "updated_at": "2025-07-01T15:01:46.970Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 236,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Resume V3 due!",
+    "event_type": 2,
+    "event_datetime": "2025-07-28T12:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:02:24.895Z",
+    "updated_at": "2025-07-01T15:02:24.895Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 237,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Opportunity tuition talk",
+    "event_type": 2,
+    "event_datetime": "2025-07-28T12:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:03:00.903Z",
+    "updated_at": "2025-07-01T15:03:00.903Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 238,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Resume V2 due!",
+    "event_type": 2,
+    "event_datetime": "2025-07-14T12:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:04:01.978Z",
+    "updated_at": "2025-07-01T15:04:01.978Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 239,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Recruiter talk",
+    "event_type": 2,
+    "event_datetime": "2025-07-29T11:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:04:22.694Z",
+    "updated_at": "2025-07-01T15:04:22.694Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 240,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Company/types/search talk",
+    "event_type": 2,
+    "event_datetime": "2025-08-05T11:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:07:23.467Z",
+    "updated_at": "2025-07-01T15:07:23.467Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 241,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Capstone Proposal due!",
+    "event_type": 1,
+    "event_datetime": "2025-08-08T12:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:09:00.347Z",
+    "updated_at": "2025-07-01T15:09:00.347Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 242,
+  "fields": {
+    "cohort": 36,
+    "event_name": "What to expect on demo day!",
+    "event_type": 2,
+    "event_datetime": "2025-08-15T11:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:09:50.910Z",
+    "updated_at": "2025-07-01T15:09:50.910Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 243,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Final resume due!",
+    "event_type": 2,
+    "event_datetime": "2025-08-15T12:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:10:24.596Z",
+    "updated_at": "2025-07-01T15:10:24.596Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 244,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Greg away",
+    "event_type": 3,
+    "event_datetime": "2025-08-13T06:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:11:29.259Z",
+    "updated_at": "2025-07-01T15:11:29.259Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 245,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Greg away",
+    "event_type": 3,
+    "event_datetime": "2025-08-14T06:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:11:29.335Z",
+    "updated_at": "2025-07-01T15:11:29.335Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 246,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Greg away",
+    "event_type": 3,
+    "event_datetime": "2025-08-15T06:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:11:29.352Z",
+    "updated_at": "2025-07-01T15:11:29.352Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 247,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Greg away",
+    "event_type": 3,
+    "event_datetime": "2025-08-18T06:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:11:49.356Z",
+    "updated_at": "2025-07-01T15:11:49.356Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 248,
+  "fields": {
+    "cohort": 36,
+    "event_name": "MVP due!",
+    "event_type": 1,
+    "event_datetime": "2025-08-21T14:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:12:33.280Z",
+    "updated_at": "2025-07-01T15:12:33.280Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 249,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Bangazon sprint #1",
+    "event_type": 1,
+    "event_datetime": "2025-07-14T09:00:00Z",
+    "description": "This sprint ends on 7/18",
+    "created_at": "2025-07-01T15:37:58.754Z",
+    "updated_at": "2025-07-01T15:37:58.754Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 250,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Bangazon wk1 retro",
+    "event_type": 1,
+    "event_datetime": "2025-07-18T12:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:41:54.748Z",
+    "updated_at": "2025-07-01T15:41:54.748Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 251,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Bangazon wk2 retro",
+    "event_type": 1,
+    "event_datetime": "2025-07-25T12:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:42:18.567Z",
+    "updated_at": "2025-07-01T15:42:18.567Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 252,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Bangazon sprint #2",
+    "event_type": 1,
+    "event_datetime": "2025-07-21T09:00:00Z",
+    "description": "This sprint ends on 7/25",
+    "created_at": "2025-07-01T15:43:33.093Z",
+    "updated_at": "2025-07-01T15:43:33.093Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 253,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Bangazon wk3 retro",
+    "event_type": 1,
+    "event_datetime": "2025-08-01T12:00:00Z",
+    "description": "",
+    "created_at": "2025-07-01T15:45:04.787Z",
+    "updated_at": "2025-07-01T15:45:04.787Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 254,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Bangazon sprint #3",
+    "event_type": 1,
+    "event_datetime": "2025-07-28T09:00:00Z",
+    "description": "This sprint will end on 8/1",
+    "created_at": "2025-07-01T15:46:21.558Z",
+    "updated_at": "2025-07-01T15:46:21.558Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 256,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-14T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:05.928Z",
+    "updated_at": "2025-07-01T16:57:05.928Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 257,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-15T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:05.931Z",
+    "updated_at": "2025-07-01T16:57:05.931Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 258,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-17T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:05.980Z",
+    "updated_at": "2025-07-01T16:57:05.980Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 259,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-18T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:05.979Z",
+    "updated_at": "2025-07-01T16:57:05.979Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 260,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-16T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:05.989Z",
+    "updated_at": "2025-07-01T16:57:05.989Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 261,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-19T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.042Z",
+    "updated_at": "2025-07-01T16:57:06.042Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 262,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-01T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.044Z",
+    "updated_at": "2025-07-01T16:57:06.044Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 263,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-02T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.047Z",
+    "updated_at": "2025-07-01T16:57:06.047Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 264,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-03T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.095Z",
+    "updated_at": "2025-07-01T16:57:06.095Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 265,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-04T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.097Z",
+    "updated_at": "2025-07-01T16:57:06.097Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 266,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-05T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.101Z",
+    "updated_at": "2025-07-01T16:57:06.101Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 268,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-06-30T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.150Z",
+    "updated_at": "2025-07-01T16:57:06.150Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 269,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-07T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.153Z",
+    "updated_at": "2025-07-01T16:57:06.153Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 270,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-09T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.203Z",
+    "updated_at": "2025-07-01T16:57:06.203Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 271,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-08T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.205Z",
+    "updated_at": "2025-07-01T16:57:06.205Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 272,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-10T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.208Z",
+    "updated_at": "2025-07-01T16:57:06.208Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 273,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-11T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.249Z",
+    "updated_at": "2025-07-01T16:57:06.249Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 274,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-07-12T09:00:00Z",
+    "description": "First Sprint of Bangazon",
+    "created_at": "2025-07-01T16:57:06.253Z",
+    "updated_at": "2025-07-01T16:57:06.253Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 275,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-07-21T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.513Z",
+    "updated_at": "2025-07-01T16:57:39.513Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 276,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-07-22T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.518Z",
+    "updated_at": "2025-07-01T16:57:39.518Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 277,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-07-23T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.517Z",
+    "updated_at": "2025-07-01T16:57:39.517Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 278,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-07-25T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.568Z",
+    "updated_at": "2025-07-01T16:57:39.568Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 279,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-07-24T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.572Z",
+    "updated_at": "2025-07-01T16:57:39.572Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 280,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-07-26T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.576Z",
+    "updated_at": "2025-07-01T16:57:39.576Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 281,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-07-28T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.630Z",
+    "updated_at": "2025-07-01T16:57:39.630Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 283,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-07-29T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.635Z",
+    "updated_at": "2025-07-01T16:57:39.635Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 284,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-07-31T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.686Z",
+    "updated_at": "2025-07-01T16:57:39.686Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 285,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-07-30T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.689Z",
+    "updated_at": "2025-07-01T16:57:39.689Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 286,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-08-01T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.690Z",
+    "updated_at": "2025-07-01T16:57:39.690Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 287,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-08-02T09:00:00Z",
+    "description": "Bangazon Sprint 2",
+    "created_at": "2025-07-01T16:57:39.717Z",
+    "updated_at": "2025-07-01T16:57:39.717Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 288,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-04T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.486Z",
+    "updated_at": "2025-07-01T16:58:07.486Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 289,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-05T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.487Z",
+    "updated_at": "2025-07-01T16:58:07.487Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 290,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-06T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.494Z",
+    "updated_at": "2025-07-01T16:58:07.494Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 291,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-08T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.546Z",
+    "updated_at": "2025-07-01T16:58:07.546Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 292,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-07T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.558Z",
+    "updated_at": "2025-07-01T16:58:07.558Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 293,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-09T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.558Z",
+    "updated_at": "2025-07-01T16:58:07.558Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 294,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-11T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.615Z",
+    "updated_at": "2025-07-01T16:58:07.615Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 296,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-12T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.631Z",
+    "updated_at": "2025-07-01T16:58:07.631Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 297,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-13T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.689Z",
+    "updated_at": "2025-07-01T16:58:07.689Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 298,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-14T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.692Z",
+    "updated_at": "2025-07-01T16:58:07.692Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 299,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-15T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.709Z",
+    "updated_at": "2025-07-01T16:58:07.709Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 300,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Bangazon: Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-08-16T09:00:00Z",
+    "description": "Bangazon Sprint 3",
+    "created_at": "2025-07-01T16:58:07.739Z",
+    "updated_at": "2025-07-01T16:58:07.739Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 301,
+  "fields": {
+    "cohort": 41,
+    "event_name": "Final Capstone Due",
+    "event_type": 1,
+    "event_datetime": "2025-09-13T13:30:00Z",
+    "description": "Final Capstone MVP due",
+    "created_at": "2025-07-01T16:59:04.989Z",
+    "updated_at": "2025-07-01T16:59:04.989Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 302,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Fish Fusion",
+    "event_type": 1,
+    "event_datetime": "2025-07-15T09:00:00Z",
+    "description": "Book 1 group project",
+    "created_at": "2025-07-03T19:44:44.003Z",
+    "updated_at": "2025-07-03T19:44:44.003Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 303,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Fish Fusion",
+    "event_type": 1,
+    "event_datetime": "2025-07-16T09:00:00Z",
+    "description": "Book 1 group project",
+    "created_at": "2025-07-03T19:44:44.005Z",
+    "updated_at": "2025-07-03T19:44:44.005Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 304,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Modern Farm",
+    "event_type": 1,
+    "event_datetime": "2025-07-25T09:00:00Z",
+    "description": "Book 2 group project",
+    "created_at": "2025-07-03T19:45:38.608Z",
+    "updated_at": "2025-07-03T19:45:38.608Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 305,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Modern Farm",
+    "event_type": 1,
+    "event_datetime": "2025-07-24T09:00:00Z",
+    "description": "Book 2 group project",
+    "created_at": "2025-07-03T19:45:38.610Z",
+    "updated_at": "2025-07-03T19:45:38.610Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 306,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Modern Farm",
+    "event_type": 1,
+    "event_datetime": "2025-07-28T09:00:00Z",
+    "description": "Book 2 group project",
+    "created_at": "2025-07-03T19:46:15.169Z",
+    "updated_at": "2025-07-03T19:46:15.169Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 307,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Cider Falls",
+    "event_type": 1,
+    "event_datetime": "2025-08-04T09:00:00Z",
+    "description": "Book 3 group project",
+    "created_at": "2025-07-03T19:46:44.565Z",
+    "updated_at": "2025-07-03T19:46:44.565Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 308,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Cider Falls",
+    "event_type": 1,
+    "event_datetime": "2025-08-05T09:00:00Z",
+    "description": "Book 3 group project",
+    "created_at": "2025-07-03T19:46:44.651Z",
+    "updated_at": "2025-07-03T19:46:44.651Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 309,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Exomine",
+    "event_type": 1,
+    "event_datetime": "2025-08-14T09:00:00Z",
+    "description": "Book 4 group project",
+    "created_at": "2025-07-03T19:47:33.534Z",
+    "updated_at": "2025-07-03T19:47:33.534Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 310,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Exomine",
+    "event_type": 1,
+    "event_datetime": "2025-08-15T09:00:00Z",
+    "description": "Book 4 group project",
+    "created_at": "2025-07-03T19:47:33.536Z",
+    "updated_at": "2025-07-03T19:47:33.536Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 311,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Exomine",
+    "event_type": 1,
+    "event_datetime": "2025-08-18T09:00:00Z",
+    "description": "Book 4 group project",
+    "created_at": "2025-07-03T19:47:51.826Z",
+    "updated_at": "2025-07-03T19:47:51.826Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 312,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Exomine",
+    "event_type": 1,
+    "event_datetime": "2025-08-19T09:00:00Z",
+    "description": "Book 4 group project",
+    "created_at": "2025-07-03T19:47:51.827Z",
+    "updated_at": "2025-07-03T19:47:51.827Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 313,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Shepherd's Pie",
+    "event_type": 1,
+    "event_datetime": "2025-09-10T09:00:00Z",
+    "description": "Book 5 group project",
+    "created_at": "2025-07-03T19:48:57.547Z",
+    "updated_at": "2025-07-03T19:48:57.547Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 314,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Shepherd's Pie",
+    "event_type": 1,
+    "event_datetime": "2025-09-09T09:00:00Z",
+    "description": "Book 5 group project",
+    "created_at": "2025-07-03T19:48:57.549Z",
+    "updated_at": "2025-07-03T19:48:57.549Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 315,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Shepherd's Pie",
+    "event_type": 1,
+    "event_datetime": "2025-09-08T09:00:00Z",
+    "description": "Book 5 group project",
+    "created_at": "2025-07-03T19:48:57.549Z",
+    "updated_at": "2025-07-03T19:48:57.549Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 316,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Shepherd's Pie",
+    "event_type": 1,
+    "event_datetime": "2025-09-12T09:00:00Z",
+    "description": "Book 5 group project",
+    "created_at": "2025-07-03T19:48:57.590Z",
+    "updated_at": "2025-07-03T19:48:57.590Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 317,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Shepherd's Pie",
+    "event_type": 1,
+    "event_datetime": "2025-09-11T09:00:00Z",
+    "description": "Book 5 group project",
+    "created_at": "2025-07-03T19:48:57.592Z",
+    "updated_at": "2025-07-03T19:48:57.592Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 318,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Rare Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-10-23T09:00:00Z",
+    "description": "Python and SQL group project",
+    "created_at": "2025-07-10T20:25:57.827Z",
+    "updated_at": "2025-07-10T20:25:57.827Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 319,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Rare Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-10-21T09:00:00Z",
+    "description": "Python and SQL group project",
+    "created_at": "2025-07-10T20:25:57.828Z",
+    "updated_at": "2025-07-10T20:25:57.828Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 320,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Rare Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-10-20T09:00:00Z",
+    "description": "Python and SQL group project",
+    "created_at": "2025-07-10T20:25:57.830Z",
+    "updated_at": "2025-07-10T20:25:57.830Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 321,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Rare Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-10-22T09:00:00Z",
+    "description": "Python and SQL group project",
+    "created_at": "2025-07-10T20:25:57.869Z",
+    "updated_at": "2025-07-10T20:25:57.869Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 322,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Rare Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-10-24T09:00:00Z",
+    "description": "Python and SQL group project",
+    "created_at": "2025-07-10T20:25:57.869Z",
+    "updated_at": "2025-07-10T20:25:57.869Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 323,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Rare Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-10-27T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:26:13.090Z",
+    "updated_at": "2025-07-10T20:26:13.090Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 324,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Rare Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-10-29T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:26:13.111Z",
+    "updated_at": "2025-07-10T20:26:13.111Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 325,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Rare Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-10-30T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:26:13.112Z",
+    "updated_at": "2025-07-10T20:26:13.112Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 326,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Rare Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-10-31T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:26:13.159Z",
+    "updated_at": "2025-07-10T20:26:13.159Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 327,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Rare Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-10-28T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:26:13.161Z",
+    "updated_at": "2025-07-10T20:26:13.161Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 328,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-11-19T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:27:36.057Z",
+    "updated_at": "2025-07-10T20:27:36.057Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 329,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-11-17T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:27:36.060Z",
+    "updated_at": "2025-07-10T20:27:36.060Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 330,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-11-18T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:27:36.059Z",
+    "updated_at": "2025-07-10T20:27:36.059Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 331,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-11-20T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:27:36.111Z",
+    "updated_at": "2025-07-10T20:27:36.111Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 332,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 1",
+    "event_type": 1,
+    "event_datetime": "2025-11-21T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:27:36.114Z",
+    "updated_at": "2025-07-10T20:27:36.114Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 333,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-11-25T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:28:00.855Z",
+    "updated_at": "2025-07-10T20:28:00.855Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 334,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-11-24T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:28:00.856Z",
+    "updated_at": "2025-07-10T20:28:00.856Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 335,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-12-03T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:28:20.734Z",
+    "updated_at": "2025-07-10T20:28:20.734Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 336,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-12-01T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:28:20.735Z",
+    "updated_at": "2025-07-10T20:28:20.735Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 337,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 2",
+    "event_type": 1,
+    "event_datetime": "2025-12-02T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:28:20.754Z",
+    "updated_at": "2025-07-10T20:28:20.754Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 338,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-12-04T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:29:09.186Z",
+    "updated_at": "2025-07-10T20:29:09.186Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 339,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-12-05T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:29:09.188Z",
+    "updated_at": "2025-07-10T20:29:09.188Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 340,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-12-09T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:29:23.774Z",
+    "updated_at": "2025-07-10T20:29:23.774Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 341,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-12-08T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:29:23.777Z",
+    "updated_at": "2025-07-10T20:29:23.777Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 342,
+  "fields": {
+    "cohort": 43,
+    "event_name": "Bangazon Sprint 3",
+    "event_type": 1,
+    "event_datetime": "2025-12-10T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-10T20:29:23.793Z",
+    "updated_at": "2025-07-10T20:29:23.793Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 343,
+  "fields": {
+    "cohort": 36,
+    "event_name": "Greg away",
+    "event_type": 3,
+    "event_datetime": "2025-08-19T09:00:00Z",
+    "description": "",
+    "created_at": "2025-07-15T12:57:31.587Z",
+    "updated_at": "2025-07-15T12:57:31.587Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 344,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Sprint",
+    "event_type": 1,
+    "event_datetime": "2025-09-22T09:00:00Z",
+    "description": "First sprint of final group project",
+    "created_at": "2025-09-18T21:05:38.894Z",
+    "updated_at": "2025-09-18T21:05:38.894Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 345,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Sprint",
+    "event_type": 1,
+    "event_datetime": "2025-09-23T09:00:00Z",
+    "description": "First sprint of final group project",
+    "created_at": "2025-09-18T21:05:38.978Z",
+    "updated_at": "2025-09-18T21:05:38.978Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 346,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Sprint",
+    "event_type": 1,
+    "event_datetime": "2025-09-24T09:00:00Z",
+    "description": "First sprint of final group project",
+    "created_at": "2025-09-18T21:05:38.980Z",
+    "updated_at": "2025-09-18T21:05:38.980Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 347,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Sprint",
+    "event_type": 1,
+    "event_datetime": "2025-09-25T09:00:00Z",
+    "description": "First sprint of final group project",
+    "created_at": "2025-09-18T21:05:38.997Z",
+    "updated_at": "2025-09-18T21:05:38.997Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 348,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Sprint",
+    "event_type": 1,
+    "event_datetime": "2025-09-26T09:00:00Z",
+    "description": "First sprint of final group project",
+    "created_at": "2025-09-18T21:05:39.019Z",
+    "updated_at": "2025-09-18T21:05:39.019Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 349,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Sprint",
+    "event_type": 1,
+    "event_datetime": "2025-10-02T09:00:00Z",
+    "description": "Second sprint of final group project",
+    "created_at": "2025-09-18T21:06:21.039Z",
+    "updated_at": "2025-09-18T21:06:21.039Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 350,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Sprint",
+    "event_type": 1,
+    "event_datetime": "2025-10-01T09:00:00Z",
+    "description": "Second sprint of final group project",
+    "created_at": "2025-09-18T21:06:21.054Z",
+    "updated_at": "2025-09-18T21:06:21.054Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 351,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Sprint",
+    "event_type": 1,
+    "event_datetime": "2025-09-29T09:00:00Z",
+    "description": "Second sprint of final group project",
+    "created_at": "2025-09-18T21:06:21.077Z",
+    "updated_at": "2025-09-18T21:06:21.077Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 352,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Sprint",
+    "event_type": 1,
+    "event_datetime": "2025-09-30T09:00:00Z",
+    "description": "Second sprint of final group project",
+    "created_at": "2025-09-18T21:06:21.106Z",
+    "updated_at": "2025-09-18T21:06:21.106Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 353,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Sprint",
+    "event_type": 1,
+    "event_datetime": "2025-10-03T09:00:00Z",
+    "description": "Second sprint of final group project",
+    "created_at": "2025-09-18T21:06:21.114Z",
+    "updated_at": "2025-09-18T21:06:21.114Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 354,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Spring",
+    "event_type": 1,
+    "event_datetime": "2025-10-10T09:00:00Z",
+    "description": "Third sprint of final group project",
+    "created_at": "2025-09-18T21:06:51.115Z",
+    "updated_at": "2025-09-18T21:06:51.115Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 355,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Spring",
+    "event_type": 1,
+    "event_datetime": "2025-10-09T09:00:00Z",
+    "description": "Third sprint of final group project",
+    "created_at": "2025-09-18T21:06:51.117Z",
+    "updated_at": "2025-09-18T21:06:51.117Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 356,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Spring",
+    "event_type": 1,
+    "event_datetime": "2025-10-08T09:00:00Z",
+    "description": "Third sprint of final group project",
+    "created_at": "2025-09-18T21:06:51.122Z",
+    "updated_at": "2025-09-18T21:06:51.122Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 357,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Spring",
+    "event_type": 1,
+    "event_datetime": "2025-10-06T09:00:00Z",
+    "description": "Third sprint of final group project",
+    "created_at": "2025-09-18T21:06:51.167Z",
+    "updated_at": "2025-09-18T21:06:51.167Z"
+  }
+},
+{
+  "model": "LearningAPI.cohortevent",
+  "pk": 358,
+  "fields": {
+    "cohort": 37,
+    "event_name": "PetPal Spring",
+    "event_type": 1,
+    "event_datetime": "2025-10-07T09:00:00Z",
+    "description": "Third sprint of final group project",
+    "created_at": "2025-09-18T21:06:51.169Z",
+    "updated_at": "2025-09-18T21:06:51.169Z"
+  }
+}
+]

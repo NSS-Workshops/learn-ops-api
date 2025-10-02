@@ -1,0 +1,102 @@
+[
+{
+  "model": "LearningAPI.oneononenote",
+  "pk": 1,
+  "fields": {
+    "student": 21,
+    "coach": 2,
+    "notes": "Great job during client side!",
+    "session_date": "2022-03-29T22:37:08.265Z"
+  }
+},
+{
+  "model": "LearningAPI.oneononenote",
+  "pk": 3,
+  "fields": {
+    "student": 26,
+    "coach": 2,
+    "notes": "Great job on your capstone",
+    "session_date": "2022-03-30T14:16:25.261Z"
+  }
+},
+{
+  "model": "LearningAPI.oneononenote",
+  "pk": 4,
+  "fields": {
+    "student": 42,
+    "coach": 46,
+    "notes": "finishing up col 1",
+    "session_date": "2022-05-11T14:30:34.011Z"
+  }
+},
+{
+  "model": "LearningAPI.oneononenote",
+  "pk": 5,
+  "fields": {
+    "student": 42,
+    "coach": 46,
+    "notes": "finishing up chinook",
+    "session_date": "2022-05-27T14:21:57.597Z"
+  }
+},
+{
+  "model": "LearningAPI.oneononenote",
+  "pk": 6,
+  "fields": {
+    "student": 74,
+    "coach": 46,
+    "notes": "making all the setup",
+    "session_date": "2022-09-09T14:20:32.088Z"
+  }
+},
+{
+  "model": "LearningAPI.oneononenote",
+  "pk": 7,
+  "fields": {
+    "student": 194,
+    "coach": 47,
+    "notes": "Working on book 2 column 3",
+    "session_date": "2022-10-07T14:32:48.016Z"
+  }
+},
+{
+  "model": "LearningAPI.oneononenote",
+  "pk": 8,
+  "fields": {
+    "student": 124,
+    "coach": 2,
+    "notes": "Practice explaining the purpose of useEffect(). Be explicit when describing data structures and data types. Continue to interject the \"why\" while explaining the \"how\".",
+    "session_date": "2022-11-01T19:24:24.661Z"
+  }
+},
+{
+  "model": "LearningAPI.oneononenote",
+  "pk": 9,
+  "fields": {
+    "student": 132,
+    "coach": 2,
+    "notes": "You're doing such a wonderful job, Nora. Your teammates all have positive feedback, your vocabulary is exemplary, and your code quality is high",
+    "session_date": "2022-11-16T06:22:39.788Z"
+  }
+},
+{
+  "model": "LearningAPI.oneononenote",
+  "pk": 10,
+  "fields": {
+    "student": 138,
+    "coach": 2,
+    "notes": "Carly, you've been such a wonderful teammate to cohort 58. Feedback from your peers has been overwhelmingly position.",
+    "session_date": "2022-11-16T16:23:40.431Z"
+  }
+},
+{
+  "model": "LearningAPI.oneononenote",
+  "pk": 11,
+  "fields": {
+    "student": 141,
+    "coach": 2,
+    "notes": "After the Django vocabulary review, your understanding is clearly strong. Our feedback is that you should work on explaining the dual role of a model. It defines how the database should be created, and it also defines how the object instances will be created for use in the View.",
+    "session_date": "2022-11-17T17:32:07.164Z"
+  }
+}
+]
