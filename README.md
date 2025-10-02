@@ -44,22 +44,13 @@ Your instructor needs to create a Github Organization and add you as an owner. Y
 1. Visit [http://localhost:8000/admin](http://localhost:8000/admin)
 1. Authenticate with the superuser credentials you specified in your environment variables above.
 
-### 2. Github OAuth
-
-Your instructor will share the OAuth client ID and secret that you will be using for your local environment. If you haven't received those yet, ask your instructor for them.
-
-1. In the admin interface, click on the **Social applications** link in the left navigation _(it's at the bottom)_
-2. Click on **Github**
-3. Update the **Client id** value to what your instructor provided
-4. Update the **Secret key** value to what your instructor provided
-
-### 3. Access the Learning Platform UI
+### 2. Access the Learning Platform UI
 
 1. Open a new browser tab
 2. Visit http://localhost:8000/auth/github/url?cohort=13&v=1
 3. Authorize with Github
 
-### 4. Add yourself to Instructor role
+### 3. Add yourself to Instructor role
 
 1. Go back to the Django Admin browser tab
 2. Click on **Users** in the left navigation
@@ -68,7 +59,7 @@ Your instructor will share the OAuth client ID and secret that you will be using
 5. Toggle **Staff status** to be on
 6. In the **Group** sections, double click **Instructor** so that it moves to the _Chosen groups_ list
 
-### 5. Verify that you are an instructor
+### 4. Verify that you are an instructor
 
 1. Close the browser tab that is running the Learning Platform
 2. Open a new tab and visit http://localhost:3000 again
