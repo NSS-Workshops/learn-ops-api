@@ -8,7 +8,7 @@ This project is the API for the Learning Platform. It is a Django project using 
 
 Your instructor needs to create a Github Organization and add you as an owner. You will then need the URL to that organization. If that hasn't been done yet, ask your instructor for the URL.
 
-You must accept the invitation to this organization before continuing.
+🧨 You must accept the invitation to this organization before continuing.
 
 ## Getting Started
 
@@ -37,29 +37,42 @@ You must accept the invitation to this organization before continuing.
 
 🧨 Do not continue with these instructions until you have cloned and followed the instructions for the Learning Platform Client and Learning Platform Infrastructure projects. Once those are complete, and the monolith container is running, you can come back here and continue.
 
-## Configure the API
+## Setup Continued...
 
 ### 1. Access Django Admin
 
 1. Visit [http://localhost:8000/admin](http://localhost:8000/admin)
 1. Authenticate with the superuser credentials you specified in your environment variables above.
 
-### 2. Make Yourself an Instructor
+### 2. Github OAuth
 
-If you successfully authenticated, follow these steps to access the instructor interface of the Learning Platform.
+Your instructor will share the OAuth client ID and secret that you will be using for your local environment. If you haven't received those yet, ask your instructor for them.
+
+1. In the admin interface, click on the **Social applications** link in the left navigation _(it's at the bottom)_
+2. Click on **Github**
+3. Update the **Client id** value to what your instructor provided
+4. Update the **Secret key** value to what your instructor provided
+
+### 3. Access the Learning Platform UI
 
 1. Open a new browser tab
 2. Visit http://localhost:8000/auth/github/url?cohort=13&v=1
 3. Authorize with Github
-4. Go back to the Django Admin browser tab
-5. Click on **Users** in the left navigation
-6. Search for your Github handle
-7. Click on your user account
-8. Toggle **Staff status** to be on
-9. In the **Group** sections, double click **Instructor** so that it moves to the _Chosen groups_ list
-10. Close the browser tab that is running the Learning Platform
-11. Open a new tab and visit http://localhost:3000 again
-12. You should now see the instructor interface
+
+### 4. Add yourself to Instructor role
+
+1. Go back to the Django Admin browser tab
+2. Click on **Users** in the left navigation
+3. Search for your Github handle
+4. Click on your user account
+5. Toggle **Staff status** to be on
+6. In the **Group** sections, double click **Instructor** so that it moves to the _Chosen groups_ list
+
+### 5. Verify that you are an instructor
+
+1. Close the browser tab that is running the Learning Platform
+2. Open a new tab and visit http://localhost:3000 again
+3. You should now see the instructor interface
 
 
 ## Resources
