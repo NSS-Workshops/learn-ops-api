@@ -79,11 +79,11 @@ class TeamMakerView(ViewSet):
         channel_name = f"{team_prefix}-{cohort.name.split(' ')[-1]}-{random_team_suffix}"
         # Lowercase the channel name
         channel_name = channel_name.lower()
-        # try:
-        #     team.slack_channel = slack.create_channel(channel_name, student_list)
-        # except Exception as ex:
-        #     return Response({'message': str(ex)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
-        # team.save()
+        try:
+            team.slack_channel = "temp"
+        except Exception as ex:
+            return Response({'message': str(ex)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+        team.save()
 
         # Assign the students to the team. Use a for loop with enumerate to get the index of the student
         for student in student_list:
@@ -182,18 +182,18 @@ class TeamMakerView(ViewSet):
             })
             valkey_client.publish('channel_migrate_issue_tickets', message)
 
-            member_slack_ids = set()
+            member_slack_ids = []
             for member_id in student_list:
                 member = NssUser.objects.get(pk=member_id)
                 if member.slack_handle is not None:
-                    member_slack_ids.add(member.slack_handle)
+                    member_slack_ids.append(member.slack_handle)
 
             message = json.dumps({
                 'channel_name': channel_name,
                 'student_slack_handles': member_slack_ids,
                 'repository_messages': slack_welcome_message
             })
-            valkey_client.publish('channel_create_slack_channel', message)
+            valkey_client.publish('slack-channel-creation', message)
 
         serialized_team = StudentTeamSerializer(team, many=False).data
 
