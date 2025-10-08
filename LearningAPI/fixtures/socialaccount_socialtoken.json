@@ -4,7 +4,7 @@
   "pk": 1,
   "fields": {
     "app": 1,
-    "account": 1,
+    "account": 2,
     "token": "vnwiefbnwvihrgnbvirnvijewnvefnvinefievnivn",
     "token_secret": "",
     "expires_at": null
