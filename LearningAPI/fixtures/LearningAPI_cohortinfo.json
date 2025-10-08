@@ -1,0 +1,288 @@
+[
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 1,
+  "fields": {
+    "cohort": 15,
+    "student_organization_url": "",
+    "github_classroom_url": "",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1J1RTwxl2mtBslLEXNRuHrKugV8T2RWRTPhwIAG5CJ-4/edit#gid=1189605315",
+    "client_course_url": null,
+    "server_course_url": null,
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 2,
+  "fields": {
+    "cohort": 11,
+    "student_organization_url": "https://github.com/orgs/nss-day-cohort-60/repositories",
+    "github_classroom_url": "https://classroom.github.com/classrooms/113212552-nss-day-cohort-60",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1nZewoGWD0NXsrZ97qhVlvQpjIggnOQt_RA4qH4w6cZ8/edit#gid=1189605315",
+    "client_course_url": null,
+    "server_course_url": null,
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 5,
+  "fields": {
+    "cohort": 12,
+    "student_organization_url": "https://github.com/NSS-Day-Cohort-61",
+    "github_classroom_url": "",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1pPtdoHK90aKBgHufL2lAF4eulN7nAO29yFZ1FTtaBFg/edit#gid=1189605315",
+    "client_course_url": null,
+    "server_course_url": null,
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 6,
+  "fields": {
+    "cohort": 14,
+    "student_organization_url": "https://github.com/orgs/NSS-Day-Cohort-64/repositories",
+    "github_classroom_url": "https://classroom.github.com/classrooms/123669877-day-cohort-64",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1ax2176CIjsA2QTCRUDqmCCIUb8V7tCTS8dGjV28ntYs/edit#gid=1189605315",
+    "client_course_url": "https://github.com/nashville-software-school/client-side-mastery/tree/cohort-64",
+    "server_course_url": "https://github.com/nashville-software-school/bangazon-llc/tree/cohort-64",
+    "zoom_url": "https://us02web.zoom.us/j/85007861858?pwd=VHdmZVRpcFp4YjVXMTdqbTVuQ0tWQT09"
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 7,
+  "fields": {
+    "cohort": 23,
+    "student_organization_url": "https://github.com/orgs/NSS-Day-Cohort-65",
+    "github_classroom_url": "https://classroom.github.com/classrooms",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1JfNhHQNJkQQ9rmA_Zm91lpuU-Z7LHcI3KXwVqjSsnhY/edit#gid=1189605315",
+    "client_course_url": "https://github.com/nashville-software-school/client-side-mastery/tree/cohort-65",
+    "server_course_url": "https://github.com/nashville-software-school/server-side-dotnet-curriculum",
+    "zoom_url": "https://us02web.zoom.us/j/84027070562?pwd=RzNhNHhkbmRRZGFDRzdGa1g0NlpEUT09"
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 8,
+  "fields": {
+    "cohort": 24,
+    "student_organization_url": "https://github.com/NSS-Day-Cohort-66",
+    "github_classroom_url": "",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1PLZZ5VuWcDyTXXM9qJZ5FYBkE3fcrvqZ90VWrJ7xGfs/edit#gid=1189605315",
+    "client_course_url": "https://github.com/nashville-software-school/client-side-mastery/tree/cohort-66",
+    "server_course_url": "https://github.com/NSS-Day-Cohort-66/server-side-python-curriculum",
+    "zoom_url": "https://us02web.zoom.us/j/85007861858?pwd=VHdmZVRpcFp4YjVXMTdqbTVuQ0tWQT09"
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 9,
+  "fields": {
+    "cohort": 27,
+    "student_organization_url": "https://github.com/NSS-Day-Cohort-68",
+    "github_classroom_url": "https://classroom.github.com/classrooms/146243619-nss-day-cohort-68-classroom",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1mAZU4G4HjpheL-d9buIlOioa2Isb0ydPEq2rs5k8m1E/edit?usp=sharing",
+    "client_course_url": "https://github.com/NSS-Day-Cohort-68/client-side-mastery",
+    "server_course_url": "https://github.com/NSS-Day-Cohort-68/server-side-python-curriculum",
+    "zoom_url": "https://us02web.zoom.us/j/86098360980"
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 10,
+  "fields": {
+    "cohort": 25,
+    "student_organization_url": "https://github.com/NSS-Day-Cohort-67",
+    "github_classroom_url": "https://classroom.github.com/classrooms/141439301-nss-day-cohort-67-classroom",
+    "attendance_sheet_url": "https://github.com/nashville-software-school/client-side-mastery/tree/cohort-67",
+    "client_course_url": "https://github.com/nashville-software-school/client-side-mastery/tree/cohort-67",
+    "server_course_url": "https://github.com/nashville-software-school/server-side-python-curriculum",
+    "zoom_url": "https://us02web.zoom.us/j/84027070562"
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 14,
+  "fields": {
+    "cohort": 28,
+    "student_organization_url": "https://github.com/NSS-Day-Cohort-69",
+    "github_classroom_url": "https://classroom.github.com/classrooms/155314858-nss-day-cohort-69-classroom",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1OC8FuDrksnXYP2k6pQtsvP6KTTLDNxH5Yaczki35Y7Y/edit#gid=1189605315",
+    "client_course_url": "https://github.com/NSS-Day-Cohort-69/client-side-mastery",
+    "server_course_url": "https://github.com/NSS-Day-Cohort-69/server-side-dotnet-curriculum",
+    "zoom_url": "https://us02web.zoom.us/j/86098360980"
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 15,
+  "fields": {
+    "cohort": 29,
+    "student_organization_url": "https://github.com/orgs/day-cohort-70/repositories",
+    "github_classroom_url": "https://classroom.github.com/classrooms/156838293-day-cohort-70",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1-2LIxWDwFU2aIn6b696FowD26IyV5Up7ybGkNs1iqdQ/edit#gid=1189605315",
+    "client_course_url": "https://github.com/day-cohort-70/client-side-mastery",
+    "server_course_url": "https://github.com/day-cohort-70/server-side-python-curriculum",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 16,
+  "fields": {
+    "cohort": 30,
+    "student_organization_url": "https://github.com/NSS-Day-Cohort-71",
+    "github_classroom_url": "https://classroom.github.com/classrooms/167821011-nss-day-cohort-71",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1BhS4YrvGBQNmdvRINApyvCVwP1gr2Ud8qM_d8EC8bP0/edit#gid=1189605315",
+    "client_course_url": "https://github.com/NSS-Day-Cohort-71/client-side-mastery",
+    "server_course_url": "https://github.com/NSS-Day-Cohort-71/server-side-python-curriculum",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 17,
+  "fields": {
+    "cohort": 31,
+    "student_organization_url": "https://github.com/orgs/nss-day-cohort-72",
+    "github_classroom_url": "",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1TRMKcfv6TbpbyyNNR7FuWDnjbuB8v9J4JHa6IxndLBM/edit?gid=1189605315#gid=1189605315",
+    "client_course_url": "https://github.com/nss-day-cohort-72/client-side-mastery",
+    "server_course_url": "https://github.com/nss-day-cohort-72/server-side-dotnet-curriculum",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 19,
+  "fields": {
+    "cohort": 32,
+    "student_organization_url": "https://github.com/NSS-Day-Cohort-73",
+    "github_classroom_url": "https://classroom.github.com/classrooms/178316292-nss-day-cohort-73",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/179aZkwnI7gxLUz2KN1_sZlGwtg4ELRs6TnlrWnlHoyY/edit?gid=1189605315#gid=1189605315",
+    "client_course_url": "https://github.com/NSS-Day-Cohort-73/client-side-mastery",
+    "server_course_url": "https://github.com/NSS-Day-Cohort-73/server-side-dotnet-curriculum",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 20,
+  "fields": {
+    "cohort": 33,
+    "student_organization_url": "https://github.com/NSS-SE-Frontend-Cohort",
+    "github_classroom_url": null,
+    "attendance_sheet_url": "",
+    "client_course_url": "https://github.com/NSS-SE-Frontend-Cohort/client-side-mastery",
+    "server_course_url": "",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 21,
+  "fields": {
+    "cohort": 34,
+    "student_organization_url": "https://github.com/NSS-Day-Cohort-74",
+    "github_classroom_url": null,
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1JeIrmwWBrKX5geMUSIAFS5vcQYsE0JgCbCwtUmY5-8k/edit",
+    "client_course_url": "https://github.com/NSS-Day-Cohort-74/client-side-mastery",
+    "server_course_url": "https://github.com/NSS-Day-Cohort-74/server-side-python-curriculum",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 22,
+  "fields": {
+    "cohort": 35,
+    "student_organization_url": "https://github.com/nss-day-cohort-75",
+    "github_classroom_url": null,
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1XpfcyHMyOf3imE_ZRxxO0KN3MCm1bM0P6LJ7aqxO4uM/edit?gid=1189605315#gid=1189605315",
+    "client_course_url": "https://github.com/nss-day-cohort-75/client-side-mastery",
+    "server_course_url": null,
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 23,
+  "fields": {
+    "cohort": 36,
+    "student_organization_url": "https://github.com/NSS-Day-Cohort-76",
+    "github_classroom_url": null,
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1F3EFi67O3cbFx1WiWIrSEWfRgELk0blCoeiJVKt7TxY/edit?gid=1189605315#gid=1189605315",
+    "client_course_url": "https://github.com/NSS-Day-Cohort-76/client-side-mastery",
+    "server_course_url": "https://github.com/NSS-Day-Cohort-76/server-side-python-curriculum",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 24,
+  "fields": {
+    "cohort": 37,
+    "student_organization_url": "https://github.com/Day-Cohort-77",
+    "github_classroom_url": null,
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1jhRO2dq8UyYHfjv3SsMdmXR__s6yAfalz-Glzujz4jw/edit?gid=1189605315#gid=1189605315",
+    "client_course_url": "https://github.com/Day-Cohort-77/client-side-mastery",
+    "server_course_url": "https://github.com/Day-Cohort-77/server-side-dotnet-curriculum",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 25,
+  "fields": {
+    "cohort": 38,
+    "student_organization_url": "https://github.com/NSS-Evening-Cohort-30",
+    "github_classroom_url": null,
+    "attendance_sheet_url": null,
+    "client_course_url": "https://github.com/nashville-software-school/client-side-mastery",
+    "server_course_url": "https://github.com/nss-evening-cohort-30/server-side-dotnet-curriculum",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 26,
+  "fields": {
+    "cohort": 41,
+    "student_organization_url": "https://github.com/Evening-Cohort-29",
+    "github_classroom_url": null,
+    "attendance_sheet_url": null,
+    "client_course_url": "https://github.com/nashville-software-school/client-side-mastery",
+    "server_course_url": "https://github.com/nss-evening-cohort-29/server-side-python-curriculum",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 27,
+  "fields": {
+    "cohort": 42,
+    "student_organization_url": "https://github.com/Evening-Cohort-31",
+    "github_classroom_url": null,
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1iqpGQ4d2F_9hFBnL8WZSKvGh_hxDNVPamfMiD01U6pA/edit?usp=sharing",
+    "client_course_url": "https://github.com/Evening-Cohort-31/client-side-mastery",
+    "server_course_url": "https://github.com/Evening-Cohort-31/server-side-python-curriculum",
+    "zoom_url": null
+  }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 28,
+  "fields": {
+    "cohort": 43,
+    "student_organization_url": "https://github.com/NSS-Day-Cohort-78",
+    "github_classroom_url": null,
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1rcWh_bwja8GGLb2dNBotNvsD-Aa1psWuxD9Fe7q4yOQ/edit?usp=sharing",
+    "client_course_url": "https://github.com/NSS-Day-Cohort-78/client-side-mastery",
+    "server_course_url": "https://github.com/NSS-Day-Cohort-78/server-side-python-curriculum",
+    "zoom_url": null
+  }
+}
+]

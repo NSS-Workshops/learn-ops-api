@@ -1,0 +1,522 @@
+[
+{
+  "model": "LearningAPI.book",
+  "pk": 2,
+  "fields": {
+    "name": "Book 1",
+    "course": 3,
+    "description": "Data structures and data types",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 3,
+  "fields": {
+    "name": "Book 2",
+    "course": 3,
+    "description": "Functions",
+    "index": 1
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 4,
+  "fields": {
+    "name": "Kennels API SQL",
+    "course": 1,
+    "description": "Databases and SQL",
+    "index": 1
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 5,
+  "fields": {
+    "name": "Level Up",
+    "course": 1,
+    "description": "Django",
+    "index": 2
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 6,
+  "fields": {
+    "name": "Bangazon",
+    "course": 1,
+    "description": "Testing",
+    "index": 3
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 7,
+  "fields": {
+    "name": "Orientation",
+    "course": 2,
+    "description": "Basics of the language",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 8,
+  "fields": {
+    "name": "MVC",
+    "course": 2,
+    "description": "Learning SSR with ASP.NET and introduction to MVC architecture",
+    "index": 1
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 9,
+  "fields": {
+    "name": "Web API",
+    "course": 2,
+    "description": "Full stack development with Web API and React again",
+    "index": 2
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 11,
+  "fields": {
+    "name": "Capstones",
+    "course": 2,
+    "description": "Capstone project time",
+    "index": 3
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 12,
+  "fields": {
+    "name": "Book 3",
+    "course": 3,
+    "description": "Flexbox, git and working in the browser",
+    "index": 2
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 13,
+  "fields": {
+    "name": "Book 4",
+    "course": 3,
+    "description": "Browser events, data relationships and ERDs",
+    "index": 3
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 14,
+  "fields": {
+    "name": "Book 5",
+    "course": 3,
+    "description": "State",
+    "index": 4
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 15,
+  "fields": {
+    "name": "Book 6",
+    "course": 3,
+    "description": "Fetch",
+    "index": 5
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 16,
+  "fields": {
+    "name": "Book 7",
+    "course": 3,
+    "description": "React",
+    "index": 6
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 17,
+  "fields": {
+    "name": "Kennel API Python",
+    "course": 1,
+    "description": "Python basics",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 18,
+  "fields": {
+    "name": "Her Majesty",
+    "course": 4,
+    "description": "Students will gain a deeper understanding of basic syntax by debugging & fixing existing code",
+    "index": 1
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 19,
+  "fields": {
+    "name": "Aquarium",
+    "course": 4,
+    "description": "Introduction to CSS layouts and building basic, dynamic web pages. Heavy focus on modular code.",
+    "index": 2
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 20,
+  "fields": {
+    "name": "DeShawn",
+    "course": 4,
+    "description": "Introduction to data relationships and event listeners in JavaScript",
+    "index": 3
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 21,
+  "fields": {
+    "name": "Kneel Diamonds",
+    "course": 4,
+    "description": "Introduction to persistent and transient state in a web application. Fetch, async, await, and JSON Server are used.",
+    "index": 4
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 23,
+  "fields": {
+    "name": "Honey Rae",
+    "course": 4,
+    "description": "The React book that covers components, hooks, routing, and props",
+    "index": 5
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 24,
+  "fields": {
+    "name": "Foundations",
+    "course": 5,
+    "description": "An introduction to the C# language and syntax",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 25,
+  "fields": {
+    "name": "Intro to Web APIs",
+    "course": 5,
+    "description": "web servers, HTTP requests, API endpoints, data models, REST, url params, query string params ",
+    "index": 1
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 26,
+  "fields": {
+    "name": "Wrangling Data",
+    "course": 5,
+    "description": " \tqueries, database creation, foreign key constraints, Linq, ORMs, ADO.NET(Npgsql), constructors, dependency injection",
+    "index": 2
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 27,
+  "fields": {
+    "name": "Controllers",
+    "course": 5,
+    "description": " \tactions, overrides, access modifiers, authentication/authorization, JWTs ",
+    "index": 3
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 28,
+  "fields": {
+    "name": "Server-Side Rendering with MVC",
+    "course": 5,
+    "description": " views, Razor syntax, form data, data annotations, ViewModels, client-side and server-side data validation ",
+    "index": 4
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 29,
+  "fields": {
+    "name": "OOP",
+    "course": 1,
+    "description": "Students learn the basic of object oriented programming with Python",
+    "index": 4
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 30,
+  "fields": {
+    "name": "OOP",
+    "course": 6,
+    "description": "Introduction to Object Oriented Programming in Python",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 31,
+  "fields": {
+    "name": "API Intro",
+    "course": 6,
+    "description": "Introduction to building APIs with Python",
+    "index": 1
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 32,
+  "fields": {
+    "name": "APIs with Django",
+    "course": 6,
+    "description": "Building APIs with e Django and DRF",
+    "index": 2
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 33,
+  "fields": {
+    "name": "Bangazon",
+    "course": 6,
+    "description": "Testing, SSR, and professional readiness",
+    "index": 3
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 34,
+  "fields": {
+    "name": "Foundations Review",
+    "course": 4,
+    "description": "",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 35,
+  "fields": {
+    "name": "Python and SQL Intro",
+    "course": 7,
+    "description": "Introduction to basic syntax of Python and SQL, and build 2 simple APIs",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 36,
+  "fields": {
+    "name": "Django Intro",
+    "course": 7,
+    "description": "Introduction to basic patterns and tools of Django, Django REST Framework and the ORM",
+    "index": 1
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 37,
+  "fields": {
+    "name": "Queen Bee",
+    "course": 8,
+    "description": "Initial JavaScript and debugging",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 38,
+  "fields": {
+    "name": "Martin's Aquarium",
+    "course": 8,
+    "description": "Browser debugger and HTML generation",
+    "index": 1
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 39,
+  "fields": {
+    "name": "DeShawn Dog Walking",
+    "course": 8,
+    "description": "DOM attributes, ERD, event listeners",
+    "index": 2
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 40,
+  "fields": {
+    "name": "Kneel Diamonds",
+    "course": 8,
+    "description": "Async, many to many, array methods",
+    "index": 3
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 41,
+  "fields": {
+    "name": "Honey Rae",
+    "course": 8,
+    "description": "React",
+    "index": 4
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 42,
+  "fields": {
+    "name": "Queen Bee",
+    "course": 9,
+    "description": "Javascript basics ",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 43,
+  "fields": {
+    "name": "Martin's Aquarium",
+    "course": 9,
+    "description": "dev tools, html css, git/github ",
+    "index": 2
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 44,
+  "fields": {
+    "name": "Javalicious: Sipping on JavaScript",
+    "course": 9,
+    "description": "JavaScript for JAVA developers",
+    "index": 4
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 45,
+  "fields": {
+    "name": "Kneel Diamonds",
+    "course": 9,
+    "description": "HTTP, async , array methods ",
+    "index": 5
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 46,
+  "fields": {
+    "name": " Honey Rae's Repair Shop",
+    "course": 9,
+    "description": "React js",
+    "index": 7
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 47,
+  "fields": {
+    "name": "Queen Bee - self assessment",
+    "course": 9,
+    "description": "",
+    "index": 1
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 49,
+  "fields": {
+    "name": "Kneel Diamonds - self assessment",
+    "course": 9,
+    "description": "",
+    "index": 6
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 50,
+  "fields": {
+    "name": "Martin's Aquarium - self assessment",
+    "course": 9,
+    "description": "",
+    "index": 3
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 51,
+  "fields": {
+    "name": "1: Foundations",
+    "course": 10,
+    "description": "",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 52,
+  "fields": {
+    "name": "2: Web APIs",
+    "course": 10,
+    "description": "",
+    "index": 1
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 53,
+  "fields": {
+    "name": "3: Database",
+    "course": 10,
+    "description": "",
+    "index": 2
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 54,
+  "fields": {
+    "name": "4: Controllers",
+    "course": 10,
+    "description": "",
+    "index": 3
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 55,
+  "fields": {
+    "name": "C# and SQL",
+    "course": 11,
+    "description": "Introduction to C#, SQL and minimal API development",
+    "index": 0
+  }
+},
+{
+  "model": "LearningAPI.book",
+  "pk": 56,
+  "fields": {
+    "name": "Entity Framework",
+    "course": 11,
+    "description": "Introduction to using EF for managing database interactions and testing",
+    "index": 1
+  }
+}
+]

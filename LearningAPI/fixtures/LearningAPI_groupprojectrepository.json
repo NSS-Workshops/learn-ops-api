@@ -1,0 +1,191 @@
+[
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 112,
+  "fields": {
+    "team": 124,
+    "project": 109,
+    "repository": "https://github.com/NSS-Day-Cohort-73/Tabloid-client-aqkylv"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 113,
+  "fields": {
+    "team": 126,
+    "project": 109,
+    "repository": "https://github.com/NSS-Day-Cohort-73/Tabloid-client-kuqhoo"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 114,
+  "fields": {
+    "team": 125,
+    "project": 109,
+    "repository": "https://github.com/NSS-Day-Cohort-73/Tabloid-client-uakfwy"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 115,
+  "fields": {
+    "team": 124,
+    "project": 109,
+    "repository": "https://github.com/NSS-Day-Cohort-73/Tabloid-api-aqkylv"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 116,
+  "fields": {
+    "team": 126,
+    "project": 109,
+    "repository": "https://github.com/NSS-Day-Cohort-73/Tabloid-api-kuqhoo"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 117,
+  "fields": {
+    "team": 125,
+    "project": 109,
+    "repository": "https://github.com/NSS-Day-Cohort-73/Tabloid-api-uakfwy"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 196,
+  "fields": {
+    "team": 209,
+    "project": 164,
+    "repository": "https://github.com/Evening-Cohort-29/Bangazon-client-lttqvr"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 197,
+  "fields": {
+    "team": 208,
+    "project": 164,
+    "repository": "https://github.com/Evening-Cohort-29/Bangazon-client-mgitwk"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 198,
+  "fields": {
+    "team": 210,
+    "project": 164,
+    "repository": "https://github.com/Evening-Cohort-29/Bangazon-client-zclvia"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 199,
+  "fields": {
+    "team": 209,
+    "project": 164,
+    "repository": "https://github.com/Evening-Cohort-29/Bangazon-api-lttqvr"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 200,
+  "fields": {
+    "team": 210,
+    "project": 164,
+    "repository": "https://github.com/Evening-Cohort-29/Bangazon-api-zclvia"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 201,
+  "fields": {
+    "team": 208,
+    "project": 164,
+    "repository": "https://github.com/Evening-Cohort-29/Bangazon-api-mgitwk"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 234,
+  "fields": {
+    "team": 245,
+    "project": 162,
+    "repository": "https://github.com/NSS-Day-Cohort-78/Shepherds-Pie-client-ahqbzw"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 235,
+  "fields": {
+    "team": 246,
+    "project": 162,
+    "repository": "https://github.com/NSS-Day-Cohort-78/Shepherds-Pie-client-gzgxak"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 236,
+  "fields": {
+    "team": 248,
+    "project": 161,
+    "repository": "https://github.com/Evening-Cohort-31/Exomine-client-hqmngi"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 237,
+  "fields": {
+    "team": 249,
+    "project": 161,
+    "repository": "https://github.com/Evening-Cohort-31/Exomine-client-lioffy"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 238,
+  "fields": {
+    "team": 247,
+    "project": 161,
+    "repository": "https://github.com/Evening-Cohort-31/Exomine-client-qbpvvc"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 239,
+  "fields": {
+    "team": 250,
+    "project": 228,
+    "repository": "https://github.com/Day-Cohort-77/PetPal-client-hjwxyf"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 240,
+  "fields": {
+    "team": 251,
+    "project": 228,
+    "repository": "https://github.com/Day-Cohort-77/PetPal-client-rhyfxe"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 241,
+  "fields": {
+    "team": 250,
+    "project": 228,
+    "repository": "https://github.com/Day-Cohort-77/PetPal-api-hjwxyf"
+  }
+},
+{
+  "model": "LearningAPI.groupprojectrepository",
+  "pk": 242,
+  "fields": {
+    "team": 251,
+    "project": 228,
+    "repository": "https://github.com/Day-Cohort-77/PetPal-api-rhyfxe"
+  }
+}
+]

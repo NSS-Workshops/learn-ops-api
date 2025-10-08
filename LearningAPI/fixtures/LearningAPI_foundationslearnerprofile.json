@@ -1,0 +1,572 @@
+[
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 1,
+  "fields": {
+    "learner_github_id": "166757460",
+    "learner_name": "",
+    "cohort_type": "Day",
+    "cohort_number": 71
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 2,
+  "fields": {
+    "learner_github_id": "218592",
+    "learner_name": "",
+    "cohort_type": "Day",
+    "cohort_number": 74
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 3,
+  "fields": {
+    "learner_github_id": "40916902",
+    "learner_name": "Barry",
+    "cohort_type": "Day",
+    "cohort_number": 74
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 4,
+  "fields": {
+    "learner_github_id": "47334784",
+    "learner_name": "",
+    "cohort_type": "Day",
+    "cohort_number": 77
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 5,
+  "fields": {
+    "learner_github_id": "115299265",
+    "learner_name": "",
+    "cohort_type": "Day",
+    "cohort_number": 77
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 6,
+  "fields": {
+    "learner_github_id": "209704508",
+    "learner_name": "Lea Edwards",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 7,
+  "fields": {
+    "learner_github_id": "125929943",
+    "learner_name": "",
+    "cohort_type": "Day",
+    "cohort_number": 73
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 9,
+  "fields": {
+    "learner_github_id": "210836028",
+    "learner_name": "Herbert Pollard",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 10,
+  "fields": {
+    "learner_github_id": "207940958",
+    "learner_name": "",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 11,
+  "fields": {
+    "learner_github_id": "210622487",
+    "learner_name": "",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 12,
+  "fields": {
+    "learner_github_id": "204808164",
+    "learner_name": "",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 13,
+  "fields": {
+    "learner_github_id": "176324848",
+    "learner_name": "",
+    "cohort_type": "Day",
+    "cohort_number": 72
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 14,
+  "fields": {
+    "learner_github_id": "190438557",
+    "learner_name": "",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 15,
+  "fields": {
+    "learner_github_id": "209533182",
+    "learner_name": "Patrick McIsaac",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 16,
+  "fields": {
+    "learner_github_id": "198821962",
+    "learner_name": "Michael Scott Burke",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 17,
+  "fields": {
+    "learner_github_id": "210299267",
+    "learner_name": "Bedon Lancaster",
+    "cohort_type": "Day",
+    "cohort_number": 77
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 18,
+  "fields": {
+    "learner_github_id": "202809763",
+    "learner_name": "Dylan Johnson",
+    "cohort_type": "Day",
+    "cohort_number": 77
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 19,
+  "fields": {
+    "learner_github_id": "209769569",
+    "learner_name": "Gary Venus",
+    "cohort_type": "Day",
+    "cohort_number": 77
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 20,
+  "fields": {
+    "learner_github_id": "208382732",
+    "learner_name": "Gavin Beaudet",
+    "cohort_type": "Day",
+    "cohort_number": 77
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 21,
+  "fields": {
+    "learner_github_id": "209552604",
+    "learner_name": "Stephen",
+    "cohort_type": "Day",
+    "cohort_number": 77
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 22,
+  "fields": {
+    "learner_github_id": "208865850",
+    "learner_name": "Kolby Simons",
+    "cohort_type": "Day",
+    "cohort_number": 77
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 23,
+  "fields": {
+    "learner_github_id": "531426",
+    "learner_name": "Michael Scott Burke",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 25,
+  "fields": {
+    "learner_github_id": "159566991",
+    "learner_name": "Justin Lawson",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 26,
+  "fields": {
+    "learner_github_id": "211104917",
+    "learner_name": "Dale Hobbs",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 42,
+  "fields": {
+    "learner_github_id": "211275989",
+    "learner_name": "Thomas Castellon",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 44,
+  "fields": {
+    "learner_github_id": "166393285",
+    "learner_name": "Chris J",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 45,
+  "fields": {
+    "learner_github_id": "210302946",
+    "learner_name": "Michael Phillips",
+    "cohort_type": "Day",
+    "cohort_number": 77
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 46,
+  "fields": {
+    "learner_github_id": "211066248",
+    "learner_name": "Erin Telfer",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 47,
+  "fields": {
+    "learner_github_id": "190650404",
+    "learner_name": "Clinton Parker",
+    "cohort_type": "day",
+    "cohort_number": 0
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 48,
+  "fields": {
+    "learner_github_id": "2614324",
+    "learner_name": "Gabriel Cziprusz",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 49,
+  "fields": {
+    "learner_github_id": "209395146",
+    "learner_name": "cmerriman",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 50,
+  "fields": {
+    "learner_github_id": "213261719",
+    "learner_name": "James Heaton",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 51,
+  "fields": {
+    "learner_github_id": "196719773",
+    "learner_name": "Evan Alford",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 52,
+  "fields": {
+    "learner_github_id": "96952211",
+    "learner_name": "Caleb  Pittman",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 53,
+  "fields": {
+    "learner_github_id": "213532389",
+    "learner_name": "McKenney Leavell",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 54,
+  "fields": {
+    "learner_github_id": "213928804",
+    "learner_name": "Jason Norman",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 55,
+  "fields": {
+    "learner_github_id": "46795212",
+    "learner_name": "Cade McCaskill",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 56,
+  "fields": {
+    "learner_github_id": "214573285",
+    "learner_name": "Marcus Upton",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 59,
+  "fields": {
+    "learner_github_id": "204808586",
+    "learner_name": "Misty Harrison",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 60,
+  "fields": {
+    "learner_github_id": "16551239",
+    "learner_name": "Odigene Joseph",
+    "cohort_type": "day",
+    "cohort_number": 0
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 61,
+  "fields": {
+    "learner_github_id": "283611",
+    "learner_name": "Dan Denney",
+    "cohort_type": "day",
+    "cohort_number": 0
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 62,
+  "fields": {
+    "learner_github_id": "216775687",
+    "learner_name": "Deniz Koc",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 63,
+  "fields": {
+    "learner_github_id": "217277685",
+    "learner_name": "Jack Gardner",
+    "cohort_type": "Evening",
+    "cohort_number": 32
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 64,
+  "fields": {
+    "learner_github_id": "217111574",
+    "learner_name": "Ethan Omessi",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 68,
+  "fields": {
+    "learner_github_id": "186857286",
+    "learner_name": "Darren Raines",
+    "cohort_type": "Day",
+    "cohort_number": 74
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 69,
+  "fields": {
+    "learner_github_id": "155575806",
+    "learner_name": "PritiB-Chandan",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 70,
+  "fields": {
+    "learner_github_id": "88989211",
+    "learner_name": "Patrick.McIsaac",
+    "cohort_type": "Day",
+    "cohort_number": 78
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 71,
+  "fields": {
+    "learner_github_id": "217850819",
+    "learner_name": "Jordan Haddock",
+    "cohort_type": "Day",
+    "cohort_number": 80
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 72,
+  "fields": {
+    "learner_github_id": "125311832",
+    "learner_name": "Nicole D'Anton",
+    "cohort_type": "Evening",
+    "cohort_number": 31
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 73,
+  "fields": {
+    "learner_github_id": "39672857",
+    "learner_name": "Larissa",
+    "cohort_type": "Day",
+    "cohort_number": 79
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 74,
+  "fields": {
+    "learner_github_id": "224880873",
+    "learner_name": "dickson luwaju",
+    "cohort_type": "day",
+    "cohort_number": 0
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 75,
+  "fields": {
+    "learner_github_id": "50896303",
+    "learner_name": "Maggie Flatt",
+    "cohort_type": "Day",
+    "cohort_number": 80
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 76,
+  "fields": {
+    "learner_github_id": "226168490",
+    "learner_name": "Brook Hoffman",
+    "cohort_type": "day",
+    "cohort_number": 0
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 77,
+  "fields": {
+    "learner_github_id": "228060618",
+    "learner_name": "Raine Torres",
+    "cohort_type": "Day",
+    "cohort_number": 79
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 78,
+  "fields": {
+    "learner_github_id": "224658834",
+    "learner_name": "Rosie Bewer",
+    "cohort_type": "Day",
+    "cohort_number": 79
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 79,
+  "fields": {
+    "learner_github_id": "222835176",
+    "learner_name": "Caleb Lund",
+    "cohort_type": "Day",
+    "cohort_number": 79
+  }
+},
+{
+  "model": "LearningAPI.foundationslearnerprofile",
+  "pk": 80,
+  "fields": {
+    "learner_github_id": "226411496",
+    "learner_name": "Dakota Seagraves",
+    "cohort_type": "Day",
+    "cohort_number": 79
+  }
+}
+]

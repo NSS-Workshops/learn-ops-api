@@ -1,0 +1,418 @@
+[
+{
+  "model": "LearningAPI.cohort",
+  "pk": 1,
+  "fields": {
+    "name": "Day Cohort 52",
+    "slack_channel": "day-cohort-52",
+    "start_date": "2021-09-27",
+    "end_date": "2022-03-25",
+    "break_start_date": "2020-09-28",
+    "break_end_date": "2020-10-02",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 2,
+  "fields": {
+    "name": "Day Cohort 53",
+    "slack_channel": "day-cohort-53",
+    "start_date": "2021-11-08",
+    "end_date": "2022-05-13",
+    "break_start_date": "2020-08-10",
+    "break_end_date": "2020-08-14",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 3,
+  "fields": {
+    "name": "Day Cohort 54",
+    "slack_channel": "day-cohort-54",
+    "start_date": "2022-01-03",
+    "end_date": "2022-06-24",
+    "break_start_date": "2020-06-29",
+    "break_end_date": "2020-07-03",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 4,
+  "fields": {
+    "name": "Day Cohort 55",
+    "slack_channel": "day-cohort-55",
+    "start_date": "2022-02-14",
+    "end_date": "2022-08-05",
+    "break_start_date": "2020-06-29",
+    "break_end_date": "2020-07-03",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 5,
+  "fields": {
+    "name": "Day Cohort 56",
+    "slack_channel": "day-cohort-56",
+    "start_date": "2022-04-04",
+    "end_date": "2022-09-23",
+    "break_start_date": "2022-08-08",
+    "break_end_date": "2022-08-12",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 6,
+  "fields": {
+    "name": "Evening Cohort 17",
+    "slack_channel": "evening-cohort-17",
+    "start_date": "2021-10-02",
+    "end_date": "2022-09-24",
+    "break_start_date": "2022-03-26",
+    "break_end_date": "2022-04-04",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 7,
+  "fields": {
+    "name": "Day Cohort 57",
+    "slack_channel": "day-cohort-57",
+    "start_date": "2022-05-16",
+    "end_date": "2022-11-04",
+    "break_start_date": "2022-08-08",
+    "break_end_date": "2022-08-12",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 9,
+  "fields": {
+    "name": "Day Cohort 58",
+    "slack_channel": "C03FZ140D7H",
+    "start_date": "2022-07-05",
+    "end_date": "2023-01-10",
+    "break_start_date": "2022-09-26",
+    "break_end_date": "2022-09-30",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 10,
+  "fields": {
+    "name": "Day Cohort 59",
+    "slack_channel": "C03RBPTPQS0",
+    "start_date": "2022-08-15",
+    "end_date": "2023-02-17",
+    "break_start_date": "2022-11-07",
+    "break_end_date": "2022-11-11",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 11,
+  "fields": {
+    "name": "Day Cohort 60",
+    "slack_channel": "C03QM544FE3",
+    "start_date": "2022-09-28",
+    "end_date": "2023-03-24",
+    "break_start_date": "2022-12-23",
+    "break_end_date": "2023-01-03",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 12,
+  "fields": {
+    "name": "Day Cohort 61",
+    "slack_channel": "C047DH62YMQ",
+    "start_date": "2022-11-07",
+    "end_date": "2023-05-12",
+    "break_start_date": "2023-02-13",
+    "break_end_date": "2023-02-17",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 13,
+  "fields": {
+    "name": "Cohort 62",
+    "slack_channel": "C059WA15XCN",
+    "start_date": "2023-01-03",
+    "end_date": "2023-06-23",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 14,
+  "fields": {
+    "name": "Cohort 64",
+    "slack_channel": "C04P2JY765B",
+    "start_date": "2023-04-03",
+    "end_date": "2023-09-22",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 15,
+  "fields": {
+    "name": "Day Cohort 63",
+    "slack_channel": "C04KPFWSWL9",
+    "start_date": "2023-02-13",
+    "end_date": "2023-08-04",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 23,
+  "fields": {
+    "name": "Cohort 65",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2023-05-15",
+    "end_date": "2023-11-03",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 24,
+  "fields": {
+    "name": "Cohort 66",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2023-07-05",
+    "end_date": "2024-01-09",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 25,
+  "fields": {
+    "name": "Cohort 67",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2023-08-07",
+    "end_date": "2024-02-09",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 27,
+  "fields": {
+    "name": "Cohort 68",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2023-11-06",
+    "end_date": "2024-05-10",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 28,
+  "fields": {
+    "name": "Cohort 69",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2024-01-02",
+    "end_date": "2024-06-21",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 29,
+  "fields": {
+    "name": "Cohort 70",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2024-02-12",
+    "end_date": "2024-08-02",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 30,
+  "fields": {
+    "name": "Cohort 71",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2024-05-13",
+    "end_date": "2024-11-01",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 31,
+  "fields": {
+    "name": "Cohort 72",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2024-07-22",
+    "end_date": "2025-01-24",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 32,
+  "fields": {
+    "name": "Cohort 73",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2024-09-03",
+    "end_date": "2025-03-07",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 33,
+  "fields": {
+    "name": "SE",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2024-11-04",
+    "end_date": "2025-02-28",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 34,
+  "fields": {
+    "name": "C74",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2024-11-04",
+    "end_date": "2025-05-29",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 35,
+  "fields": {
+    "name": "C75",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2025-01-06",
+    "end_date": "2025-06-27",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 36,
+  "fields": {
+    "name": "C76",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2025-03-03",
+    "end_date": "2025-08-22",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 37,
+  "fields": {
+    "name": "C77",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2025-05-05",
+    "end_date": "2025-10-24",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": true
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 38,
+  "fields": {
+    "name": "E30",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2025-01-06",
+    "end_date": "2026-01-08",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": true
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 41,
+  "fields": {
+    "name": "E29",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2024-09-30",
+    "end_date": "2025-09-19",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": true
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 42,
+  "fields": {
+    "name": "E31",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2025-06-30",
+    "end_date": "2026-07-13",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": true
+  }
+},
+{
+  "model": "LearningAPI.cohort",
+  "pk": 43,
+  "fields": {
+    "name": "C78",
+    "slack_channel": "C06GHMZB3M3",
+    "start_date": "2025-07-07",
+    "end_date": "2026-01-16",
+    "break_start_date": "2022-01-01",
+    "break_end_date": "2022-01-01",
+    "active": true
+  }
+}
+]

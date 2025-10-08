@@ -1,0 +1,706 @@
+[
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 723,
+  "fields": {
+    "team": 124,
+    "student": 514
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 724,
+  "fields": {
+    "team": 124,
+    "student": 503
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 725,
+  "fields": {
+    "team": 124,
+    "student": 508
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 726,
+  "fields": {
+    "team": 124,
+    "student": 151
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 727,
+  "fields": {
+    "team": 125,
+    "student": 515
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 728,
+  "fields": {
+    "team": 125,
+    "student": 505
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 729,
+  "fields": {
+    "team": 125,
+    "student": 507
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 730,
+  "fields": {
+    "team": 125,
+    "student": 151
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 731,
+  "fields": {
+    "team": 126,
+    "student": 510
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 732,
+  "fields": {
+    "team": 126,
+    "student": 512
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 733,
+  "fields": {
+    "team": 126,
+    "student": 502
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 734,
+  "fields": {
+    "team": 126,
+    "student": 518
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 735,
+  "fields": {
+    "team": 126,
+    "student": 151
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1005,
+  "fields": {
+    "team": 182,
+    "student": 584
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1006,
+  "fields": {
+    "team": 182,
+    "student": 589
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1007,
+  "fields": {
+    "team": 182,
+    "student": 457
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1008,
+  "fields": {
+    "team": 182,
+    "student": 357
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1009,
+  "fields": {
+    "team": 183,
+    "student": 588
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1010,
+  "fields": {
+    "team": 183,
+    "student": 590
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1011,
+  "fields": {
+    "team": 183,
+    "student": 586
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1012,
+  "fields": {
+    "team": 183,
+    "student": 357
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1013,
+  "fields": {
+    "team": 184,
+    "student": 585
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1014,
+  "fields": {
+    "team": 184,
+    "student": 426
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1015,
+  "fields": {
+    "team": 184,
+    "student": 592
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1016,
+  "fields": {
+    "team": 184,
+    "student": 357
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1145,
+  "fields": {
+    "team": 208,
+    "student": 642
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1146,
+  "fields": {
+    "team": 208,
+    "student": 649
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1147,
+  "fields": {
+    "team": 208,
+    "student": 660
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1148,
+  "fields": {
+    "team": 208,
+    "student": 95
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1149,
+  "fields": {
+    "team": 209,
+    "student": 636
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1151,
+  "fields": {
+    "team": 209,
+    "student": 648
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1152,
+  "fields": {
+    "team": 208,
+    "student": 571
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1153,
+  "fields": {
+    "team": 209,
+    "student": 95
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1154,
+  "fields": {
+    "team": 209,
+    "student": 571
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1155,
+  "fields": {
+    "team": 209,
+    "student": 640
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1156,
+  "fields": {
+    "team": 208,
+    "student": 640
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1157,
+  "fields": {
+    "team": 210,
+    "student": 633
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1158,
+  "fields": {
+    "team": 210,
+    "student": 635
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1159,
+  "fields": {
+    "team": 210,
+    "student": 643
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1160,
+  "fields": {
+    "team": 210,
+    "student": 95
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1161,
+  "fields": {
+    "team": 210,
+    "student": 571
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1162,
+  "fields": {
+    "team": 210,
+    "student": 640
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1297,
+  "fields": {
+    "team": 241,
+    "student": 650
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1298,
+  "fields": {
+    "team": 241,
+    "student": 644
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1299,
+  "fields": {
+    "team": 241,
+    "student": 656
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1300,
+  "fields": {
+    "team": 241,
+    "student": 95
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1301,
+  "fields": {
+    "team": 242,
+    "student": 645
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1302,
+  "fields": {
+    "team": 242,
+    "student": 652
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1303,
+  "fields": {
+    "team": 242,
+    "student": 647
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1304,
+  "fields": {
+    "team": 242,
+    "student": 95
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1316,
+  "fields": {
+    "team": 245,
+    "student": 672
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1317,
+  "fields": {
+    "team": 245,
+    "student": 673
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1318,
+  "fields": {
+    "team": 245,
+    "student": 667
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1319,
+  "fields": {
+    "team": 245,
+    "student": 675
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1320,
+  "fields": {
+    "team": 245,
+    "student": 357
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1321,
+  "fields": {
+    "team": 246,
+    "student": 669
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1322,
+  "fields": {
+    "team": 246,
+    "student": 670
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1323,
+  "fields": {
+    "team": 246,
+    "student": 671
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1324,
+  "fields": {
+    "team": 246,
+    "student": 678
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1325,
+  "fields": {
+    "team": 246,
+    "student": 676
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1326,
+  "fields": {
+    "team": 246,
+    "student": 357
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1327,
+  "fields": {
+    "team": 247,
+    "student": 651
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1328,
+  "fields": {
+    "team": 248,
+    "student": 679
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1329,
+  "fields": {
+    "team": 247,
+    "student": 654
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1330,
+  "fields": {
+    "team": 248,
+    "student": 653
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1331,
+  "fields": {
+    "team": 248,
+    "student": 659
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1332,
+  "fields": {
+    "team": 248,
+    "student": 655
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1333,
+  "fields": {
+    "team": 247,
+    "student": 661
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1334,
+  "fields": {
+    "team": 247,
+    "student": 657
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1335,
+  "fields": {
+    "team": 248,
+    "student": 638
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1336,
+  "fields": {
+    "team": 247,
+    "student": 638
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1337,
+  "fields": {
+    "team": 249,
+    "student": 663
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1338,
+  "fields": {
+    "team": 249,
+    "student": 516
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1339,
+  "fields": {
+    "team": 249,
+    "student": 658
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1340,
+  "fields": {
+    "team": 249,
+    "student": 662
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1341,
+  "fields": {
+    "team": 249,
+    "student": 638
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1342,
+  "fields": {
+    "team": 250,
+    "student": 623
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1343,
+  "fields": {
+    "team": 250,
+    "student": 628
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1344,
+  "fields": {
+    "team": 250,
+    "student": 626
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1345,
+  "fields": {
+    "team": 250,
+    "student": 646
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1346,
+  "fields": {
+    "team": 250,
+    "student": 2
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1347,
+  "fields": {
+    "team": 250,
+    "student": 681
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1348,
+  "fields": {
+    "team": 251,
+    "student": 627
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1349,
+  "fields": {
+    "team": 251,
+    "student": 625
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1350,
+  "fields": {
+    "team": 251,
+    "student": 622
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1351,
+  "fields": {
+    "team": 251,
+    "student": 624
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1352,
+  "fields": {
+    "team": 251,
+    "student": 2
+  }
+},
+{
+  "model": "LearningAPI.nssuserteam",
+  "pk": 1353,
+  "fields": {
+    "team": 251,
+    "student": 681
+  }
+}
+]
