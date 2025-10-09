@@ -71,6 +71,7 @@ urlpatterns = [
     path('api-auth', include('rest_framework.urls', namespace='rest_framework')),
     path('logs/', include('LogViewer.urls')), # Added for in-app log inspection
     path('admin', admin.site.urls),
+    path('metrics/', include('django_prometheus.urls')), # Added for Prometheus metrics
 ]
 
 if settings.DEBUG: # Added for django-debug-toolbar

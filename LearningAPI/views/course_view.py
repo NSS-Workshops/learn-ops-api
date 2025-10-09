@@ -3,6 +3,7 @@ from django.http import HttpResponseServerError
 from django.conf import settings # Added for debug toolbar diagnosis
 
 import structlog
+from LearningAPI.metrics import course_views_total # Added for Prometheus metrics
 import logging
 
 log = structlog.get_logger(__name__)
@@ -46,6 +47,7 @@ class CourseViewSet(ViewSet):
             Response -- JSON serialized instance
         """
         try:
+            course_views_total.labels(type='detail', course_id=pk).inc() # Increment custom metric for single course view
             log.info("Retrieving course", course_id=pk, user=request.user.id) # INFO level: Indicates a normal, expected operation.
             course = Course.objects.get(pk=pk)
             log.debug("Course found", course_name=course.name) # DEBUG level: Provides detailed information, useful for development/debugging.
@@ -115,6 +117,7 @@ class CourseViewSet(ViewSet):
                 active_cohort_course = CohortCourse.objects.get(cohort__id=cohort, active=bool(active))
                 courses = courses.filter(pk=active_cohort_course.course.id)
 
+            course_views_total.labels(type='list', course_id='all').inc() # Increment custom metric for course list view
             serializer = CourseSerializer(courses, many=True, context={'request': request})
             return Response(serializer.data, status=status.HTTP_200_OK)
         except Exception as ex:
