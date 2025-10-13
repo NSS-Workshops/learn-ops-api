@@ -114,6 +114,7 @@ MIDDLEWARE = [
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'LearningAPI.middleware.RequestContextMiddleware', # Added for structlog tracing
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'django_prometheus.middleware.PrometheusAfterMiddleware',  # Added for Prometheus metrics
@@ -284,6 +285,7 @@ LOGGING = {
 structlog.configure(
     processors=[
         structlog.stdlib.filter_by_level,
+        structlog.contextvars.merge_contextvars, # Merges context from middleware
         structlog.processors.TimeStamper(fmt="iso"),
         structlog.stdlib.add_logger_name,
         structlog.stdlib.add_log_level,
