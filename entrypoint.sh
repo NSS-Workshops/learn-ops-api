@@ -87,6 +87,7 @@ python3 manage.py flush --no-input
 
 # Load fixture data
 echo "Loading fixture data..."
+python3 manage.py flush --no-input
 python3 manage.py loaddata ./LearningAPI/fixtures/*.json
 
 # Clean up temporary fixture files
