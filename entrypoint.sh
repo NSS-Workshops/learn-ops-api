@@ -84,6 +84,7 @@ python3 manage.py migrate
 
 # Load fixture data
 echo "Loading fixture data..."
+python3 manage.py flush --no-input
 python3 manage.py loaddata *.json
 
 # Clean up temporary fixture files
