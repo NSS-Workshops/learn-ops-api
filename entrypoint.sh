@@ -85,9 +85,7 @@ python3 manage.py migrate
 # Load fixture data
 echo "Loading fixture data..."
 python3 manage.py flush --no-input
-python3 manage.py loaddata socialaccount
-python3 manage.py loaddata complete_backup
-python3 manage.py loaddata superuser
+python3 manage.py loaddata *.json
 
 # Clean up temporary fixture files
 echo "Cleaning up temporary fixture files..."

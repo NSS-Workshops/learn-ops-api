@@ -31,7 +31,7 @@ DEBUG = os.getenv("DEBUG", "False")
 DEVELOPMENT_MODE = os.getenv("DEVELOPMENT_MODE", "False")
 ALLOWED_HOSTS = os.getenv(
     "LEARN_OPS_ALLOWED_HOSTS",
-    "learning.nss.team,learningapi.nss.team,127.0.0.1,localhost") \
+    "learning.nss.team,learningapi.nss.team,127.0.0.1,localhost,api") \
         .split(",")
 
 APPEND_SLASH = False
@@ -81,7 +81,8 @@ INSTALLED_APPS = [
     'LearningAPI',
     'LogViewer',        # added for in-app log inspection
     'django_db_logger', # Added for in-app log storage
-    'debug_toolbar'     # Added for django-debug-toolbar
+    'debug_toolbar',    # Added for django-debug-toolbar
+    'django_prometheus' # Added for Prometheus metrics
 ]
 
 SOCIALACCOUNT_LOGIN_ON_GET = True
@@ -105,7 +106,8 @@ CORS_EXPOSE_HEADERS = (
 )
 
 MIDDLEWARE = [
-    'debug_toolbar.middleware.DebugToolbarMiddleware', # Added for django-debug-toolbar
+    'django_prometheus.middleware.PrometheusBeforeMiddleware', # Added for Prometheus metrics
+    'debug_toolbar.middleware.DebugToolbarMiddleware',         # Added for django-debug-toolbar
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'corsheaders.middleware.CorsMiddleware',
@@ -114,6 +116,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'django_prometheus.middleware.PrometheusAfterMiddleware',  # Added for Prometheus metrics
 ]
 
 REST_FRAMEWORK = {
@@ -242,33 +245,33 @@ LOGGING = {
     },
     "loggers": {
         "django": {
-            "handlers": ["console", "json_file", "logstash", "db_handler"], 
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "INFO",
         },
-        "django_db_logger": { 
+        "django_db_logger": {
             "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "INFO",
             "propagate": False,
         },
         "LearningAPI": {
-            "handlers": ["console", "json_file", "logstash", "db_handler"], 
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": True, 
+            "propagate": True,
         },
         "LearningAPI.cohort": {
-            "handlers": ["console", "json_file", "logstash", "db_handler"], 
+            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": True, 
+            "propagate": True,
         },
         "LearningAPI.student": {
             "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": True, 
+            "propagate": True,
         },
         "LearningAPI.cohortevent": {
             "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
-            "propagate": True, 
+            "propagate": True,
         },
     },
     "root": {
@@ -296,7 +299,6 @@ structlog.configure(
     cache_logger_on_first_use=True,
 )
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
 
@@ -319,4 +321,3 @@ STATICFILES_DIRS = [
 ]
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 SITE_ID = 1
-
