@@ -9,6 +9,8 @@ WORKDIR /app
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
   gcc \
+  python3-dev \
+  build-essential \
   postgresql-client \
   && rm -rf /var/lib/apt/lists/*
 
