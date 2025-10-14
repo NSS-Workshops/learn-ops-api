@@ -1,0 +1,30 @@
+[
+{
+  "model": "LearningAPI.coreskill",
+  "pk": 1,
+  "fields": {
+    "label": "Analytical Thinking"
+  }
+},
+{
+  "model": "LearningAPI.coreskill",
+  "pk": 2,
+  "fields": {
+    "label": "Algorithmic Thinking"
+  }
+},
+{
+  "model": "LearningAPI.coreskill",
+  "pk": 3,
+  "fields": {
+    "label": "Learning Efficiency"
+  }
+},
+{
+  "model": "LearningAPI.coreskill",
+  "pk": 4,
+  "fields": {
+    "label": "Communication"
+  }
+}
+]

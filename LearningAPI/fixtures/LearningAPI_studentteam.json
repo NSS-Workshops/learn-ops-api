@@ -1,0 +1,182 @@
+[
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 124,
+  "fields": {
+    "group_name": "",
+    "cohort": 32,
+    "sprint_team": true,
+    "slack_channel": "C08CL86JVMG"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 125,
+  "fields": {
+    "group_name": "",
+    "cohort": 32,
+    "sprint_team": true,
+    "slack_channel": "C08CYUMD4C9"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 126,
+  "fields": {
+    "group_name": "",
+    "cohort": 32,
+    "sprint_team": true,
+    "slack_channel": "C08CHD5U5RT"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 182,
+  "fields": {
+    "group_name": "",
+    "cohort": 35,
+    "sprint_team": true,
+    "slack_channel": "C090DUJJN9H"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 183,
+  "fields": {
+    "group_name": "",
+    "cohort": 35,
+    "sprint_team": true,
+    "slack_channel": "C090DUKBF43"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 184,
+  "fields": {
+    "group_name": "",
+    "cohort": 35,
+    "sprint_team": true,
+    "slack_channel": "C090E0UQ0DU"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 208,
+  "fields": {
+    "group_name": "",
+    "cohort": 41,
+    "sprint_team": true,
+    "slack_channel": "C093J08LJ07"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 209,
+  "fields": {
+    "group_name": "",
+    "cohort": 41,
+    "sprint_team": true,
+    "slack_channel": "C094ATKNTTK"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 210,
+  "fields": {
+    "group_name": "",
+    "cohort": 41,
+    "sprint_team": true,
+    "slack_channel": "C093QKVM6FM"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 241,
+  "fields": {
+    "group_name": "",
+    "cohort": 38,
+    "sprint_team": false,
+    "slack_channel": "C09BXLAUDQQ"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 242,
+  "fields": {
+    "group_name": "",
+    "cohort": 38,
+    "sprint_team": false,
+    "slack_channel": "C09BXLBGQ80"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 245,
+  "fields": {
+    "group_name": "",
+    "cohort": 43,
+    "sprint_team": true,
+    "slack_channel": "C09EDDAJG74"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 246,
+  "fields": {
+    "group_name": "",
+    "cohort": 43,
+    "sprint_team": true,
+    "slack_channel": "C09EHD69NLU"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 247,
+  "fields": {
+    "group_name": "",
+    "cohort": 42,
+    "sprint_team": true,
+    "slack_channel": "C09E0DZB4JK"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 248,
+  "fields": {
+    "group_name": "",
+    "cohort": 42,
+    "sprint_team": true,
+    "slack_channel": "C09EEQ61SN6"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 249,
+  "fields": {
+    "group_name": "",
+    "cohort": 42,
+    "sprint_team": true,
+    "slack_channel": "C09EJNT83AQ"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 250,
+  "fields": {
+    "group_name": "",
+    "cohort": 37,
+    "sprint_team": true,
+    "slack_channel": "C09GDETP25B"
+  }
+},
+{
+  "model": "LearningAPI.studentteam",
+  "pk": 251,
+  "fields": {
+    "group_name": "",
+    "cohort": 37,
+    "sprint_team": true,
+    "slack_channel": "C09G18VR12B"
+  }
+}
+]
