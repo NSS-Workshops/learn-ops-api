@@ -50,6 +50,7 @@ Your instructor needs to create a Github Organization and add you as an owner. Y
 |  LEARN_OPS_SUPERUSER_NAME | Create a simple username _(e.g. admin)_  |
 | LEARN_OPS_SUPERUSER_PASSWORD  | Create a simple password _(e.g. password123)_  |
 | SLACK_TOKEN  |  Your instructor will share this value with you |
+| GITHUB_TOKEN | Your Personal Access Token generated in the previous step 
 
 ## PAUSE: Set Up Infrastructure
 
