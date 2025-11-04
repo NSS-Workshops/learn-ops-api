@@ -169,10 +169,16 @@ class StudentAssessmentSerializer(serializers.ModelSerializer):
     """JSON serializer"""
     assessment = AssessmentSerializer(many=False)
     status = serializers.SerializerMethodField()
+    instructor_username = serializers.SerializerMethodField() 
 
     def get_status(self, obj):
         """Return the status of assessment"""
         return obj.status.status
+
+    def get_instructor_username(self, obj):
+        """Return the instructor's username"""
+        return obj.instructor.user.username
+
     class Meta:
         model = StudentAssessment
-        fields = ('id', 'assessment', 'status', 'url', )
+        fields = ('id', 'assessment', 'status', 'url', 'instructor_username', )
