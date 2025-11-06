@@ -277,22 +277,18 @@ LOGGING = {
             "propagate": False,
         },
         "LearningAPI": {
-            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
             "propagate": True,
         },
         "LearningAPI.cohort": {
-            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
             "propagate": True,
         },
         "LearningAPI.student": {
-            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
             "propagate": True,
         },
         "LearningAPI.cohortevent": {
-            "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "DEBUG",
             "propagate": True,
         },
