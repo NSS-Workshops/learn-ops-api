@@ -268,11 +268,9 @@ LOGGING = {
     },
     "loggers": {
         "django": {
-            # "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "INFO",
         },
         "django_db_logger": {
-            # "handlers": ["console", "json_file", "logstash", "db_handler"],
             "level": "INFO",
             "propagate": False,
         },
