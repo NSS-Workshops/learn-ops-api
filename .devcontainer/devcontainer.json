@@ -14,7 +14,15 @@
       "settings": {
         "python.defaultInterpreterPath": "/usr/local/bin/python",
         "python.linting.enabled": true,
-        "python.linting.pylintEnabled": true
+        "python.linting.pylintEnabled": true,
+        "python.testing.pytestEnabled": true,
+        "python.testing.unittestEnabled": false,
+        "python.testing.pytestArgs": [
+          "LearningAPI/tests",
+          "-v",
+          "--tb=short"
+        ],
+        "python.testing.autoTestDiscoverOnSaveEnabled": true
       }
     }
   },

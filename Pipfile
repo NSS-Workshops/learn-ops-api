@@ -6,6 +6,9 @@ verify_ssl = true
 [dev-packages]
 pylint = "*"
 colorama = "==0.4.6"
+pytest = "*"
+pytest-django = "*"
+pytest-cov = "*"
 
 [packages]
 django = "*"
