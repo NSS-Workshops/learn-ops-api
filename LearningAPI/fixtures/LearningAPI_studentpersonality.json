@@ -1,0 +1,5644 @@
+[
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 1,
+  "fields": {
+    "student": 2,
+    "briggs_myers_type": "INTJ",
+    "bfi_extraversion": 69,
+    "bfi_agreeableness": 96,
+    "bfi_conscientiousness": 73,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 94
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 2,
+  "fields": {
+    "student": 148,
+    "briggs_myers_type": "ENFJ-A",
+    "bfi_extraversion": 92,
+    "bfi_agreeableness": 98,
+    "bfi_conscientiousness": 95,
+    "bfi_neuroticism": 13,
+    "bfi_openness": 98
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 3,
+  "fields": {
+    "student": 136,
+    "briggs_myers_type": "INFJ-T",
+    "bfi_extraversion": 56,
+    "bfi_agreeableness": 7,
+    "bfi_conscientiousness": 83,
+    "bfi_neuroticism": 85,
+    "bfi_openness": 81
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 4,
+  "fields": {
+    "student": 132,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 5,
+  "fields": {
+    "student": 161,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 6,
+  "fields": {
+    "student": 138,
+    "briggs_myers_type": "ENFJ-A",
+    "bfi_extraversion": 90,
+    "bfi_agreeableness": 91,
+    "bfi_conscientiousness": 72,
+    "bfi_neuroticism": 29,
+    "bfi_openness": 77
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 7,
+  "fields": {
+    "student": 129,
+    "briggs_myers_type": "INFJ-T",
+    "bfi_extraversion": 69,
+    "bfi_agreeableness": 34,
+    "bfi_conscientiousness": 89,
+    "bfi_neuroticism": 66,
+    "bfi_openness": 96
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 8,
+  "fields": {
+    "student": 175,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 9,
+  "fields": {
+    "student": 153,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 10,
+  "fields": {
+    "student": 141,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 11,
+  "fields": {
+    "student": 60,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 12,
+  "fields": {
+    "student": 95,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 13,
+  "fields": {
+    "student": 98,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 14,
+  "fields": {
+    "student": 123,
+    "briggs_myers_type": "ENFP",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 15,
+  "fields": {
+    "student": 134,
+    "briggs_myers_type": "ESFJ-T",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 16,
+  "fields": {
+    "student": 142,
+    "briggs_myers_type": "INFJ-A",
+    "bfi_extraversion": 34,
+    "bfi_agreeableness": 71,
+    "bfi_conscientiousness": 75,
+    "bfi_neuroticism": 9,
+    "bfi_openness": 47
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 17,
+  "fields": {
+    "student": 146,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 22,
+    "bfi_agreeableness": 93,
+    "bfi_conscientiousness": 91,
+    "bfi_neuroticism": 72,
+    "bfi_openness": 63
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 18,
+  "fields": {
+    "student": 125,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 19,
+  "fields": {
+    "student": 126,
+    "briggs_myers_type": "ENFP-T",
+    "bfi_extraversion": 67,
+    "bfi_agreeableness": 24,
+    "bfi_conscientiousness": 5,
+    "bfi_neuroticism": 59,
+    "bfi_openness": 30
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 20,
+  "fields": {
+    "student": 122,
+    "briggs_myers_type": "ENFP",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 21,
+  "fields": {
+    "student": 128,
+    "briggs_myers_type": "INFP-A",
+    "bfi_extraversion": 22,
+    "bfi_agreeableness": 34,
+    "bfi_conscientiousness": 29,
+    "bfi_neuroticism": 53,
+    "bfi_openness": 88
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 22,
+  "fields": {
+    "student": 127,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 23,
+  "fields": {
+    "student": 137,
+    "briggs_myers_type": "INTJ-A",
+    "bfi_extraversion": 16,
+    "bfi_agreeableness": 22,
+    "bfi_conscientiousness": 86,
+    "bfi_neuroticism": 29,
+    "bfi_openness": 97
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 24,
+  "fields": {
+    "student": 144,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 25,
+  "fields": {
+    "student": 133,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 26,
+  "fields": {
+    "student": 72,
+    "briggs_myers_type": "INTP-T",
+    "bfi_extraversion": 61,
+    "bfi_agreeableness": 57,
+    "bfi_conscientiousness": 54,
+    "bfi_neuroticism": 62,
+    "bfi_openness": 92
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 27,
+  "fields": {
+    "student": 124,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 56,
+    "bfi_agreeableness": 86,
+    "bfi_conscientiousness": 68,
+    "bfi_neuroticism": 72,
+    "bfi_openness": 96
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 28,
+  "fields": {
+    "student": 130,
+    "briggs_myers_type": "ENFP-T",
+    "bfi_extraversion": 63,
+    "bfi_agreeableness": 78,
+    "bfi_conscientiousness": 71,
+    "bfi_neuroticism": 71,
+    "bfi_openness": 95
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 29,
+  "fields": {
+    "student": 131,
+    "briggs_myers_type": "ISFP-A",
+    "bfi_extraversion": 3,
+    "bfi_agreeableness": 92,
+    "bfi_conscientiousness": 66,
+    "bfi_neuroticism": 9,
+    "bfi_openness": 42
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 30,
+  "fields": {
+    "student": 135,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 31,
+  "fields": {
+    "student": 145,
+    "briggs_myers_type": "ENTJ-A",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 32,
+  "fields": {
+    "student": 139,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 33,
+  "fields": {
+    "student": 209,
+    "briggs_myers_type": "INFJ-A",
+    "bfi_extraversion": 69,
+    "bfi_agreeableness": 50,
+    "bfi_conscientiousness": 58,
+    "bfi_neuroticism": 29,
+    "bfi_openness": 95
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 34,
+  "fields": {
+    "student": 181,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 73,
+    "bfi_agreeableness": 57,
+    "bfi_conscientiousness": 83,
+    "bfi_neuroticism": 16,
+    "bfi_openness": 90
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 35,
+  "fields": {
+    "student": 143,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 92,
+    "bfi_agreeableness": 82,
+    "bfi_conscientiousness": 86,
+    "bfi_neuroticism": 6,
+    "bfi_openness": 67
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 36,
+  "fields": {
+    "student": 185,
+    "briggs_myers_type": "ENFJ",
+    "bfi_extraversion": 69,
+    "bfi_agreeableness": 69,
+    "bfi_conscientiousness": 63,
+    "bfi_neuroticism": 32,
+    "bfi_openness": 88
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 37,
+  "fields": {
+    "student": 177,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 38,
+  "fields": {
+    "student": 183,
+    "briggs_myers_type": "ISTJ",
+    "bfi_extraversion": 3,
+    "bfi_agreeableness": 3,
+    "bfi_conscientiousness": 4,
+    "bfi_neuroticism": 5,
+    "bfi_openness": 5
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 39,
+  "fields": {
+    "student": 184,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 40,
+  "fields": {
+    "student": 182,
+    "briggs_myers_type": "INTJ-A",
+    "bfi_extraversion": 77,
+    "bfi_agreeableness": 51,
+    "bfi_conscientiousness": 14,
+    "bfi_neuroticism": 14,
+    "bfi_openness": 96
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 41,
+  "fields": {
+    "student": 187,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 42,
+  "fields": {
+    "student": 186,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 43,
+  "fields": {
+    "student": 189,
+    "briggs_myers_type": "INFP-T",
+    "bfi_extraversion": 4,
+    "bfi_agreeableness": 57,
+    "bfi_conscientiousness": 45,
+    "bfi_neuroticism": 95,
+    "bfi_openness": 92
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 44,
+  "fields": {
+    "student": 190,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 45,
+  "fields": {
+    "student": 191,
+    "briggs_myers_type": "INFP-T",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 46,
+  "fields": {
+    "student": 192,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 47,
+  "fields": {
+    "student": 193,
+    "briggs_myers_type": "ENFJ-T",
+    "bfi_extraversion": 61,
+    "bfi_agreeableness": 86,
+    "bfi_conscientiousness": 76,
+    "bfi_neuroticism": 25,
+    "bfi_openness": 80
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 48,
+  "fields": {
+    "student": 188,
+    "briggs_myers_type": "INTJ",
+    "bfi_extraversion": 3,
+    "bfi_agreeableness": 21,
+    "bfi_conscientiousness": 44,
+    "bfi_neuroticism": 67,
+    "bfi_openness": 38
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 49,
+  "fields": {
+    "student": 194,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 50,
+  "fields": {
+    "student": 195,
+    "briggs_myers_type": "INFP",
+    "bfi_extraversion": 48,
+    "bfi_agreeableness": 60,
+    "bfi_conscientiousness": 35,
+    "bfi_neuroticism": 71,
+    "bfi_openness": 90
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 51,
+  "fields": {
+    "student": 196,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 52,
+  "fields": {
+    "student": 198,
+    "briggs_myers_type": "ESTJ-A",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 53,
+  "fields": {
+    "student": 199,
+    "briggs_myers_type": "INTJ",
+    "bfi_extraversion": 43,
+    "bfi_agreeableness": 1,
+    "bfi_conscientiousness": 8,
+    "bfi_neuroticism": 100,
+    "bfi_openness": 97
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 54,
+  "fields": {
+    "student": 200,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 55,
+  "fields": {
+    "student": 201,
+    "briggs_myers_type": "ISFP-T",
+    "bfi_extraversion": 48,
+    "bfi_agreeableness": 89,
+    "bfi_conscientiousness": 1,
+    "bfi_neuroticism": 5,
+    "bfi_openness": 90
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 56,
+  "fields": {
+    "student": 203,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 57,
+  "fields": {
+    "student": 204,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 69,
+    "bfi_agreeableness": 12,
+    "bfi_conscientiousness": 76,
+    "bfi_neuroticism": 87,
+    "bfi_openness": 77
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 58,
+  "fields": {
+    "student": 205,
+    "briggs_myers_type": "INFP",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 59,
+  "fields": {
+    "student": 197,
+    "briggs_myers_type": "INFP-T",
+    "bfi_extraversion": 75,
+    "bfi_agreeableness": 48,
+    "bfi_conscientiousness": 65,
+    "bfi_neuroticism": 96,
+    "bfi_openness": 95
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 60,
+  "fields": {
+    "student": 206,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 92,
+    "bfi_agreeableness": 70,
+    "bfi_conscientiousness": 75,
+    "bfi_neuroticism": 50,
+    "bfi_openness": 93
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 61,
+  "fields": {
+    "student": 207,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 62,
+  "fields": {
+    "student": 208,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 63,
+  "fields": {
+    "student": 202,
+    "briggs_myers_type": "ISFP-T",
+    "bfi_extraversion": 53,
+    "bfi_agreeableness": 45,
+    "bfi_conscientiousness": 17,
+    "bfi_neuroticism": 75,
+    "bfi_openness": 20
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 64,
+  "fields": {
+    "student": 180,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 65,
+  "fields": {
+    "student": 111,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 66,
+  "fields": {
+    "student": 99,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 67,
+  "fields": {
+    "student": 166,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 68,
+  "fields": {
+    "student": 170,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 69,
+  "fields": {
+    "student": 171,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 70,
+  "fields": {
+    "student": 167,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 71,
+  "fields": {
+    "student": 154,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 72,
+  "fields": {
+    "student": 174,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 73,
+  "fields": {
+    "student": 179,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 74,
+  "fields": {
+    "student": 168,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 75,
+  "fields": {
+    "student": 162,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 76,
+  "fields": {
+    "student": 163,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 77,
+  "fields": {
+    "student": 164,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 78,
+  "fields": {
+    "student": 158,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 79,
+  "fields": {
+    "student": 155,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 80,
+  "fields": {
+    "student": 157,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 81,
+  "fields": {
+    "student": 165,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 82,
+  "fields": {
+    "student": 178,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 83,
+  "fields": {
+    "student": 169,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 84,
+  "fields": {
+    "student": 176,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 39,
+    "bfi_agreeableness": 61,
+    "bfi_conscientiousness": 1,
+    "bfi_neuroticism": 96,
+    "bfi_openness": 86
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 85,
+  "fields": {
+    "student": 156,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 86,
+  "fields": {
+    "student": 172,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 87,
+  "fields": {
+    "student": 160,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 88,
+  "fields": {
+    "student": 173,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 89,
+  "fields": {
+    "student": 159,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 90,
+  "fields": {
+    "student": 219,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 91,
+  "fields": {
+    "student": 227,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 92,
+  "fields": {
+    "student": 96,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 93,
+  "fields": {
+    "student": 150,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 94,
+  "fields": {
+    "student": 231,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 95,
+  "fields": {
+    "student": 234,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 96,
+  "fields": {
+    "student": 212,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 97,
+  "fields": {
+    "student": 233,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 98,
+  "fields": {
+    "student": 225,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 99,
+  "fields": {
+    "student": 226,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 100,
+  "fields": {
+    "student": 230,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 101,
+  "fields": {
+    "student": 224,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 102,
+  "fields": {
+    "student": 220,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 103,
+  "fields": {
+    "student": 213,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 104,
+  "fields": {
+    "student": 222,
+    "briggs_myers_type": "ESFP",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 105,
+  "fields": {
+    "student": 221,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 106,
+  "fields": {
+    "student": 211,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 107,
+  "fields": {
+    "student": 229,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 108,
+  "fields": {
+    "student": 215,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 109,
+  "fields": {
+    "student": 218,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 110,
+  "fields": {
+    "student": 214,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 111,
+  "fields": {
+    "student": 235,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 112,
+  "fields": {
+    "student": 217,
+    "briggs_myers_type": "INJF-T",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 113,
+  "fields": {
+    "student": 228,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 114,
+  "fields": {
+    "student": 223,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 115,
+  "fields": {
+    "student": 147,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 116,
+  "fields": {
+    "student": 232,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 117,
+  "fields": {
+    "student": 69,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 118,
+  "fields": {
+    "student": 49,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 119,
+  "fields": {
+    "student": 54,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 120,
+  "fields": {
+    "student": 57,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 121,
+  "fields": {
+    "student": 55,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 122,
+  "fields": {
+    "student": 58,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 123,
+  "fields": {
+    "student": 62,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 124,
+  "fields": {
+    "student": 53,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 125,
+  "fields": {
+    "student": 56,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 126,
+  "fields": {
+    "student": 59,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 127,
+  "fields": {
+    "student": 61,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 128,
+  "fields": {
+    "student": 63,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 129,
+  "fields": {
+    "student": 65,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 130,
+  "fields": {
+    "student": 66,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 131,
+  "fields": {
+    "student": 67,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 132,
+  "fields": {
+    "student": 68,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 133,
+  "fields": {
+    "student": 70,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 134,
+  "fields": {
+    "student": 71,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 135,
+  "fields": {
+    "student": 73,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 136,
+  "fields": {
+    "student": 74,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 137,
+  "fields": {
+    "student": 64,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 138,
+  "fields": {
+    "student": 104,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 139,
+  "fields": {
+    "student": 75,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 140,
+  "fields": {
+    "student": 105,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 141,
+  "fields": {
+    "student": 118,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 142,
+  "fields": {
+    "student": 106,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 143,
+  "fields": {
+    "student": 107,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 144,
+  "fields": {
+    "student": 100,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 145,
+  "fields": {
+    "student": 108,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 146,
+  "fields": {
+    "student": 101,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 147,
+  "fields": {
+    "student": 102,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 148,
+  "fields": {
+    "student": 116,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 149,
+  "fields": {
+    "student": 103,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 150,
+  "fields": {
+    "student": 114,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 151,
+  "fields": {
+    "student": 110,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 152,
+  "fields": {
+    "student": 113,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 153,
+  "fields": {
+    "student": 115,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 154,
+  "fields": {
+    "student": 112,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 155,
+  "fields": {
+    "student": 117,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 156,
+  "fields": {
+    "student": 109,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 157,
+  "fields": {
+    "student": 97,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 158,
+  "fields": {
+    "student": 119,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 159,
+  "fields": {
+    "student": 236,
+    "briggs_myers_type": "INFP",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 1,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 160,
+  "fields": {
+    "student": 237,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 161,
+  "fields": {
+    "student": 238,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 162,
+  "fields": {
+    "student": 239,
+    "briggs_myers_type": "ENFP",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 163,
+  "fields": {
+    "student": 240,
+    "briggs_myers_type": "ENFP",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 164,
+  "fields": {
+    "student": 241,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 165,
+  "fields": {
+    "student": 242,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 166,
+  "fields": {
+    "student": 243,
+    "briggs_myers_type": "ENFP",
+    "bfi_extraversion": 4,
+    "bfi_agreeableness": 5,
+    "bfi_conscientiousness": 5,
+    "bfi_neuroticism": 5,
+    "bfi_openness": 3
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 167,
+  "fields": {
+    "student": 244,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 168,
+  "fields": {
+    "student": 245,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 169,
+  "fields": {
+    "student": 246,
+    "briggs_myers_type": "INFP",
+    "bfi_extraversion": 48,
+    "bfi_agreeableness": 50,
+    "bfi_conscientiousness": 45,
+    "bfi_neuroticism": 87,
+    "bfi_openness": 63
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 170,
+  "fields": {
+    "student": 247,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 171,
+  "fields": {
+    "student": 248,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 172,
+  "fields": {
+    "student": 249,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 173,
+  "fields": {
+    "student": 250,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 174,
+  "fields": {
+    "student": 251,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 175,
+  "fields": {
+    "student": 252,
+    "briggs_myers_type": "INFJ",
+    "bfi_extraversion": 34,
+    "bfi_agreeableness": 51,
+    "bfi_conscientiousness": 93,
+    "bfi_neuroticism": 98,
+    "bfi_openness": 97
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 176,
+  "fields": {
+    "student": 253,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 177,
+  "fields": {
+    "student": 254,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 178,
+  "fields": {
+    "student": 255,
+    "briggs_myers_type": "INFP",
+    "bfi_extraversion": 34,
+    "bfi_agreeableness": 68,
+    "bfi_conscientiousness": 68,
+    "bfi_neuroticism": 57,
+    "bfi_openness": 94
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 179,
+  "fields": {
+    "student": 256,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 180,
+  "fields": {
+    "student": 257,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 181,
+  "fields": {
+    "student": 258,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 182,
+  "fields": {
+    "student": 259,
+    "briggs_myers_type": "ENTP",
+    "bfi_extraversion": 95,
+    "bfi_agreeableness": 69,
+    "bfi_conscientiousness": 55,
+    "bfi_neuroticism": 11,
+    "bfi_openness": 89
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 183,
+  "fields": {
+    "student": 260,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 184,
+  "fields": {
+    "student": 261,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 185,
+  "fields": {
+    "student": 262,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 186,
+  "fields": {
+    "student": 263,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 187,
+  "fields": {
+    "student": 94,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 188,
+  "fields": {
+    "student": 14,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 189,
+  "fields": {
+    "student": 15,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 190,
+  "fields": {
+    "student": 16,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 191,
+  "fields": {
+    "student": 17,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 192,
+  "fields": {
+    "student": 20,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 193,
+  "fields": {
+    "student": 21,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 194,
+  "fields": {
+    "student": 22,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 195,
+  "fields": {
+    "student": 23,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 196,
+  "fields": {
+    "student": 24,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 197,
+  "fields": {
+    "student": 25,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 198,
+  "fields": {
+    "student": 26,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 199,
+  "fields": {
+    "student": 27,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 200,
+  "fields": {
+    "student": 28,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 201,
+  "fields": {
+    "student": 29,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 202,
+  "fields": {
+    "student": 30,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 203,
+  "fields": {
+    "student": 31,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 204,
+  "fields": {
+    "student": 32,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 205,
+  "fields": {
+    "student": 33,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 206,
+  "fields": {
+    "student": 34,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 207,
+  "fields": {
+    "student": 35,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 208,
+  "fields": {
+    "student": 36,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 209,
+  "fields": {
+    "student": 41,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 210,
+  "fields": {
+    "student": 42,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 211,
+  "fields": {
+    "student": 44,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 212,
+  "fields": {
+    "student": 38,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 213,
+  "fields": {
+    "student": 43,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 214,
+  "fields": {
+    "student": 19,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 215,
+  "fields": {
+    "student": 76,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 216,
+  "fields": {
+    "student": 37,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 217,
+  "fields": {
+    "student": 18,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 218,
+  "fields": {
+    "student": 264,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 219,
+  "fields": {
+    "student": 265,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 220,
+  "fields": {
+    "student": 266,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 221,
+  "fields": {
+    "student": 267,
+    "briggs_myers_type": "ENFJ",
+    "bfi_extraversion": 85,
+    "bfi_agreeableness": 86,
+    "bfi_conscientiousness": 100,
+    "bfi_neuroticism": 9,
+    "bfi_openness": 58
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 222,
+  "fields": {
+    "student": 268,
+    "briggs_myers_type": "INFP-T",
+    "bfi_extraversion": 22,
+    "bfi_agreeableness": 61,
+    "bfi_conscientiousness": 17,
+    "bfi_neuroticism": 99,
+    "bfi_openness": 58
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 223,
+  "fields": {
+    "student": 269,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 224,
+  "fields": {
+    "student": 270,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 225,
+  "fields": {
+    "student": 271,
+    "briggs_myers_type": "ISTP-T",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 226,
+  "fields": {
+    "student": 272,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 227,
+  "fields": {
+    "student": 273,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 228,
+  "fields": {
+    "student": 274,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 229,
+  "fields": {
+    "student": 275,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 230,
+  "fields": {
+    "student": 276,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 231,
+  "fields": {
+    "student": 277,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 232,
+  "fields": {
+    "student": 278,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 233,
+  "fields": {
+    "student": 279,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 234,
+  "fields": {
+    "student": 280,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 235,
+  "fields": {
+    "student": 281,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 236,
+  "fields": {
+    "student": 282,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 237,
+  "fields": {
+    "student": 283,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 238,
+  "fields": {
+    "student": 284,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 239,
+  "fields": {
+    "student": 285,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 240,
+  "fields": {
+    "student": 286,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 241,
+  "fields": {
+    "student": 287,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 242,
+  "fields": {
+    "student": 288,
+    "briggs_myers_type": "ISTP",
+    "bfi_extraversion": 9,
+    "bfi_agreeableness": 34,
+    "bfi_conscientiousness": 71,
+    "bfi_neuroticism": 21,
+    "bfi_openness": 11
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 243,
+  "fields": {
+    "student": 289,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 244,
+  "fields": {
+    "student": 290,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 245,
+  "fields": {
+    "student": 291,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 246,
+  "fields": {
+    "student": 47,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 249,
+  "fields": {
+    "student": 151,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 250,
+  "fields": {
+    "student": 294,
+    "briggs_myers_type": "INTJ",
+    "bfi_extraversion": 77,
+    "bfi_agreeableness": 73,
+    "bfi_conscientiousness": 96,
+    "bfi_neuroticism": 14,
+    "bfi_openness": 99
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 251,
+  "fields": {
+    "student": 295,
+    "briggs_myers_type": "INTJ",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 252,
+  "fields": {
+    "student": 296,
+    "briggs_myers_type": "ENFP-A",
+    "bfi_extraversion": 67,
+    "bfi_agreeableness": 97,
+    "bfi_conscientiousness": 96,
+    "bfi_neuroticism": 59,
+    "bfi_openness": 98
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 253,
+  "fields": {
+    "student": 297,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 254,
+  "fields": {
+    "student": 298,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 255,
+  "fields": {
+    "student": 299,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 256,
+  "fields": {
+    "student": 300,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 257,
+  "fields": {
+    "student": 301,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 258,
+  "fields": {
+    "student": 302,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 259,
+  "fields": {
+    "student": 303,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 260,
+  "fields": {
+    "student": 304,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 95,
+    "bfi_agreeableness": 74,
+    "bfi_conscientiousness": 2,
+    "bfi_neuroticism": 89,
+    "bfi_openness": 96
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 261,
+  "fields": {
+    "student": 305,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 262,
+  "fields": {
+    "student": 306,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 263,
+  "fields": {
+    "student": 307,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 264,
+  "fields": {
+    "student": 308,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 265,
+  "fields": {
+    "student": 309,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 266,
+  "fields": {
+    "student": 310,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 267,
+  "fields": {
+    "student": 311,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 268,
+  "fields": {
+    "student": 312,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 269,
+  "fields": {
+    "student": 313,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 270,
+  "fields": {
+    "student": 314,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 271,
+  "fields": {
+    "student": 315,
+    "briggs_myers_type": "ENFP",
+    "bfi_extraversion": 3,
+    "bfi_agreeableness": 5,
+    "bfi_conscientiousness": 3,
+    "bfi_neuroticism": 1,
+    "bfi_openness": 5
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 272,
+  "fields": {
+    "student": 316,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 273,
+  "fields": {
+    "student": 317,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 274,
+  "fields": {
+    "student": 318,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 275,
+  "fields": {
+    "student": 319,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 276,
+  "fields": {
+    "student": 293,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 277,
+  "fields": {
+    "student": 320,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 278,
+  "fields": {
+    "student": 321,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 279,
+  "fields": {
+    "student": 210,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 280,
+  "fields": {
+    "student": 322,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 281,
+  "fields": {
+    "student": 324,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 282,
+  "fields": {
+    "student": 325,
+    "briggs_myers_type": "ENFP-T",
+    "bfi_extraversion": 68,
+    "bfi_agreeableness": 88,
+    "bfi_conscientiousness": 51,
+    "bfi_neuroticism": 58,
+    "bfi_openness": 93
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 283,
+  "fields": {
+    "student": 326,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 284,
+  "fields": {
+    "student": 323,
+    "briggs_myers_type": "INTJ",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 285,
+  "fields": {
+    "student": 327,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 286,
+  "fields": {
+    "student": 328,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 287,
+  "fields": {
+    "student": 329,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 288,
+  "fields": {
+    "student": 330,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 289,
+  "fields": {
+    "student": 140,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 290,
+  "fields": {
+    "student": 331,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 291,
+  "fields": {
+    "student": 332,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 292,
+  "fields": {
+    "student": 333,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 293,
+  "fields": {
+    "student": 334,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 294,
+  "fields": {
+    "student": 335,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 295,
+  "fields": {
+    "student": 336,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 296,
+  "fields": {
+    "student": 337,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 297,
+  "fields": {
+    "student": 338,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 298,
+  "fields": {
+    "student": 339,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 299,
+  "fields": {
+    "student": 340,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 300,
+  "fields": {
+    "student": 341,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 301,
+  "fields": {
+    "student": 342,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 302,
+  "fields": {
+    "student": 343,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 303,
+  "fields": {
+    "student": 344,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 304,
+  "fields": {
+    "student": 345,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 305,
+  "fields": {
+    "student": 346,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 306,
+  "fields": {
+    "student": 347,
+    "briggs_myers_type": "ENFP-A",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 307,
+  "fields": {
+    "student": 348,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 308,
+  "fields": {
+    "student": 349,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 309,
+  "fields": {
+    "student": 350,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 310,
+  "fields": {
+    "student": 152,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 311,
+  "fields": {
+    "student": 351,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 312,
+  "fields": {
+    "student": 352,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 313,
+  "fields": {
+    "student": 353,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 314,
+  "fields": {
+    "student": 354,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 315,
+  "fields": {
+    "student": 355,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 316,
+  "fields": {
+    "student": 356,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 317,
+  "fields": {
+    "student": 357,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 318,
+  "fields": {
+    "student": 358,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 319,
+  "fields": {
+    "student": 359,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 320,
+  "fields": {
+    "student": 360,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 321,
+  "fields": {
+    "student": 361,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 322,
+  "fields": {
+    "student": 362,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 323,
+  "fields": {
+    "student": 363,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 324,
+  "fields": {
+    "student": 364,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 325,
+  "fields": {
+    "student": 365,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 326,
+  "fields": {
+    "student": 366,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 327,
+  "fields": {
+    "student": 367,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 328,
+  "fields": {
+    "student": 368,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 329,
+  "fields": {
+    "student": 369,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 330,
+  "fields": {
+    "student": 370,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 331,
+  "fields": {
+    "student": 371,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 332,
+  "fields": {
+    "student": 372,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 333,
+  "fields": {
+    "student": 373,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 334,
+  "fields": {
+    "student": 374,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 335,
+  "fields": {
+    "student": 375,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 336,
+  "fields": {
+    "student": 376,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 337,
+  "fields": {
+    "student": 377,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 338,
+  "fields": {
+    "student": 378,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 339,
+  "fields": {
+    "student": 379,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 340,
+  "fields": {
+    "student": 380,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 341,
+  "fields": {
+    "student": 381,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 342,
+  "fields": {
+    "student": 382,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 343,
+  "fields": {
+    "student": 383,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 344,
+  "fields": {
+    "student": 384,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 345,
+  "fields": {
+    "student": 385,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 346,
+  "fields": {
+    "student": 386,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 347,
+  "fields": {
+    "student": 387,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 348,
+  "fields": {
+    "student": 388,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 349,
+  "fields": {
+    "student": 389,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 350,
+  "fields": {
+    "student": 92,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 351,
+  "fields": {
+    "student": 390,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 352,
+  "fields": {
+    "student": 391,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 353,
+  "fields": {
+    "student": 392,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 354,
+  "fields": {
+    "student": 393,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 355,
+  "fields": {
+    "student": 394,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 356,
+  "fields": {
+    "student": 395,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 357,
+  "fields": {
+    "student": 396,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 358,
+  "fields": {
+    "student": 397,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 359,
+  "fields": {
+    "student": 398,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 360,
+  "fields": {
+    "student": 399,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 361,
+  "fields": {
+    "student": 400,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 362,
+  "fields": {
+    "student": 401,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 363,
+  "fields": {
+    "student": 402,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 364,
+  "fields": {
+    "student": 403,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 366,
+  "fields": {
+    "student": 405,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 367,
+  "fields": {
+    "student": 406,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 368,
+  "fields": {
+    "student": 407,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 369,
+  "fields": {
+    "student": 408,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 370,
+  "fields": {
+    "student": 409,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 371,
+  "fields": {
+    "student": 410,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 372,
+  "fields": {
+    "student": 411,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 373,
+  "fields": {
+    "student": 412,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 374,
+  "fields": {
+    "student": 413,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 375,
+  "fields": {
+    "student": 414,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 376,
+  "fields": {
+    "student": 415,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 377,
+  "fields": {
+    "student": 416,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 378,
+  "fields": {
+    "student": 417,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 379,
+  "fields": {
+    "student": 418,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 380,
+  "fields": {
+    "student": 419,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 381,
+  "fields": {
+    "student": 420,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 382,
+  "fields": {
+    "student": 421,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 383,
+  "fields": {
+    "student": 422,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 384,
+  "fields": {
+    "student": 423,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 385,
+  "fields": {
+    "student": 424,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 386,
+  "fields": {
+    "student": 425,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 387,
+  "fields": {
+    "student": 426,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 388,
+  "fields": {
+    "student": 427,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 389,
+  "fields": {
+    "student": 428,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 390,
+  "fields": {
+    "student": 429,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 391,
+  "fields": {
+    "student": 430,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 392,
+  "fields": {
+    "student": 431,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 394,
+  "fields": {
+    "student": 433,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 395,
+  "fields": {
+    "student": 434,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 396,
+  "fields": {
+    "student": 435,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 397,
+  "fields": {
+    "student": 436,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 398,
+  "fields": {
+    "student": 437,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 399,
+  "fields": {
+    "student": 438,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 400,
+  "fields": {
+    "student": 439,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 401,
+  "fields": {
+    "student": 440,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 402,
+  "fields": {
+    "student": 441,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 403,
+  "fields": {
+    "student": 442,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 404,
+  "fields": {
+    "student": 443,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 405,
+  "fields": {
+    "student": 444,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 406,
+  "fields": {
+    "student": 445,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 407,
+  "fields": {
+    "student": 446,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 408,
+  "fields": {
+    "student": 447,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 409,
+  "fields": {
+    "student": 448,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 410,
+  "fields": {
+    "student": 449,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 411,
+  "fields": {
+    "student": 450,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 412,
+  "fields": {
+    "student": 451,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 413,
+  "fields": {
+    "student": 452,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 414,
+  "fields": {
+    "student": 453,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 415,
+  "fields": {
+    "student": 454,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 416,
+  "fields": {
+    "student": 455,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 417,
+  "fields": {
+    "student": 456,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 419,
+  "fields": {
+    "student": 458,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 420,
+  "fields": {
+    "student": 459,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 421,
+  "fields": {
+    "student": 460,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 422,
+  "fields": {
+    "student": 461,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 423,
+  "fields": {
+    "student": 462,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 424,
+  "fields": {
+    "student": 463,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 425,
+  "fields": {
+    "student": 465,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 427,
+  "fields": {
+    "student": 467,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 428,
+  "fields": {
+    "student": 468,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 429,
+  "fields": {
+    "student": 469,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 430,
+  "fields": {
+    "student": 470,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 431,
+  "fields": {
+    "student": 471,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 432,
+  "fields": {
+    "student": 472,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 433,
+  "fields": {
+    "student": 473,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 434,
+  "fields": {
+    "student": 474,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 435,
+  "fields": {
+    "student": 475,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 436,
+  "fields": {
+    "student": 476,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 437,
+  "fields": {
+    "student": 477,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 438,
+  "fields": {
+    "student": 478,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 439,
+  "fields": {
+    "student": 479,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+},
+{
+  "model": "LearningAPI.studentpersonality",
+  "pk": 441,
+  "fields": {
+    "student": 481,
+    "briggs_myers_type": "",
+    "bfi_extraversion": 0,
+    "bfi_agreeableness": 0,
+    "bfi_conscientiousness": 0,
+    "bfi_neuroticism": 0,
+    "bfi_openness": 0
+  }
+}
+]

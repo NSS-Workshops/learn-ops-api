@@ -1,0 +1,322 @@
+[
+{
+  "model": "LearningAPI.assessment",
+  "pk": 1,
+  "fields": {
+    "name": "Mortgage Qualifiers",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/functions-book-assessment",
+    "book": 3,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 2,
+  "fields": {
+    "name": "Kids Dreams",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/kids-dreams-assessment",
+    "book": 13,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 3,
+  "fields": {
+    "name": "House of Hummus",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/house-of-hummus-assessment",
+    "book": 14,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 4,
+  "fields": {
+    "name": "Pen Pal Society",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/pen-pal-society-assessment",
+    "book": 15,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 5,
+  "fields": {
+    "name": "Modern Farm",
+    "source_url": "https://github.com/nashville-software-school/client-side-mastery/tree/master/projects/tier-1/modern-farm",
+    "book": 12,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 12,
+  "fields": {
+    "name": "Tuna Piano API",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/django-rest-api-assessment",
+    "book": 5,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 13,
+  "fields": {
+    "name": "Snakes On A Brain",
+    "source_url": "https://github.com/nashville-software-school/bangazon-llc/blob/cohort-60/book-2-database/chapters/SNAKES_ON_A_BRAIN.md",
+    "book": 4,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 14,
+  "fields": {
+    "name": "Flowers",
+    "source_url": "http://www.google.com",
+    "book": 2,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 15,
+  "fields": {
+    "name": "Bug Wrangler Ranch",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/bug-wrangler-ranch",
+    "book": 18,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 16,
+  "fields": {
+    "name": "Hairy Potter",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/hairy-potter",
+    "book": 19,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 17,
+  "fields": {
+    "name": "Kids Dreams",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/kids-dreams-assessment",
+    "book": 20,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 18,
+  "fields": {
+    "name": "House of Hummus",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/house-of-hummus-assessment",
+    "book": 21,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 20,
+  "fields": {
+    "name": "Brass and Poem",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/BrassAndPoemBook1",
+    "book": 24,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 21,
+  "fields": {
+    "name": "Tuber Treats",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/TuberTreatsBook2",
+    "book": 25,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 22,
+  "fields": {
+    "name": "EF Corner Store",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/CornerStore-Assessment",
+    "book": 26,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 23,
+  "fields": {
+    "name": "Snakes on a Brain",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/assessment-snakes-api",
+    "book": 31,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 24,
+  "fields": {
+    "name": "Django Reflections",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/django-rest-api-assessment",
+    "book": 32,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 26,
+  "fields": {
+    "name": "Flower Shop",
+    "source_url": "https://github.com/NSS-Day-Cohort-69/client-side-mastery/blob/master/supplement-foundations/chapters/JS_DATA_ASSESSMENT.md",
+    "book": 34,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 28,
+  "fields": {
+    "name": "Hairy Potter",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/hairy-potter",
+    "book": 38,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 29,
+  "fields": {
+    "name": "Bug Ranch",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/bug-wrangler-ranch",
+    "book": 37,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 30,
+  "fields": {
+    "name": "Kids Dreams",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/kids-dreams-assessment",
+    "book": 39,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 31,
+  "fields": {
+    "name": "House of Hummus",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/house-o-hummus-assessment",
+    "book": 40,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 32,
+  "fields": {
+    "name": "Fish Fusion",
+    "source_url": "https://github.com/nss-group-projects/fish-fusion",
+    "book": 47,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 33,
+  "fields": {
+    "name": "Hairy Potter",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/hairy-potter",
+    "book": 43,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 34,
+  "fields": {
+    "name": "House of Hummus",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/house-o-hummus-assessment",
+    "book": 45,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 36,
+  "fields": {
+    "name": "Bug Ranch",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/bug-wrangler-ranch",
+    "book": 42,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 37,
+  "fields": {
+    "name": "Exomine",
+    "source_url": "https://github.com/nss-group-projects/exomine",
+    "book": 49,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 38,
+  "fields": {
+    "name": "Modern Farm",
+    "source_url": "https://github.com/nss-group-projects/modern-farm",
+    "book": 50,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 39,
+  "fields": {
+    "name": "Shepherds Pies",
+    "source_url": "https://github.com/nss-group-projects/shepherds-pies-frontend",
+    "book": 46,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 40,
+  "fields": {
+    "name": "Brass and Poem",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/BrassAndPoemBook1",
+    "book": 51,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 41,
+  "fields": {
+    "name": "Tuber Treats",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/TuberTreatsBook2",
+    "book": 52,
+    "type": "SELF"
+  }
+},
+{
+  "model": "LearningAPI.assessment",
+  "pk": 42,
+  "fields": {
+    "name": "Corner Store",
+    "source_url": "https://github.com/Nashville-Software-School-Assessments/CornerStore-Assessment",
+    "book": 53,
+    "type": "SELF"
+  }
+}
+]

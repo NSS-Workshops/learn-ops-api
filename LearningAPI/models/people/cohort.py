@@ -57,3 +57,18 @@ class Cohort(models.Model):
     def students(self, value):
         self.__students = value
 
+    def is_active_on_date(self, check_date):
+        """
+        Check if cohort is active on a given date.
+
+        Args:
+            check_date: A date object to check against cohort dates
+
+        Returns:
+            bool: True if check_date falls between start and end dates (inclusive),
+                  False otherwise or if dates are not set
+        """
+        if not self.start_date or not self.end_date:
+            return False
+        return self.start_date <= check_date <= self.end_date
+    

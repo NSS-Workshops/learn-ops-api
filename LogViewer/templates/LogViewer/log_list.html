@@ -39,6 +39,12 @@
             {% endfor %}
         </select>
 
+        <label for="request_id">Request ID:</label>
+        <input type="text" name="request_id" id="request_id" value="{{ current_request_id_filter|default:'' }}">
+
+        <label for="user_id">User ID:</label>
+        <input type="text" name="user_id" id="user_id" value="{{ current_user_id_filter|default:'' }}">
+
         <button type="submit">Filter</button>
     </form>
 
@@ -49,6 +55,12 @@
                 <strong>{{ log.create_datetime }}</strong>
                 [{{ log.level }}] ({{ log.logger_name }})
                 <div>{{ log.msg }}</div>
+                {% if log.extra.request_id %}
+                    <small>Request ID: {{ log.extra.request_id }}</small><br>
+                {% endif %}
+                {% if log.extra.user_id %}
+                    <small>User ID: {{ log.extra.user_id }}</small><br>
+                {% endif %}
                 {% if log.trace %}
                     <pre>{{ log.trace }}</pre>
                 {% elif log.msg|first == '{' and log.msg|last == '}' %}

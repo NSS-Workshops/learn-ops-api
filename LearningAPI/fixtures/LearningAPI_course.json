@@ -1,0 +1,101 @@
+[
+{
+  "model": "LearningAPI.course",
+  "pk": 1,
+  "fields": {
+    "name": "Python 2.0",
+    "date_created": "2024-01-10",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.course",
+  "pk": 2,
+  "fields": {
+    "name": "C# (deprecated)",
+    "date_created": "2024-01-10",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.course",
+  "pk": 3,
+  "fields": {
+    "name": "JavaScript",
+    "date_created": "2024-01-10",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.course",
+  "pk": 4,
+  "fields": {
+    "name": "JavaScript/React",
+    "date_created": "2024-07-08",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.course",
+  "pk": 5,
+  "fields": {
+    "name": "C#/.NET",
+    "date_created": "2025-08-18",
+    "active": true
+  }
+},
+{
+  "model": "LearningAPI.course",
+  "pk": 6,
+  "fields": {
+    "name": "Python 3.0 (c66)",
+    "date_created": "2024-02-26",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.course",
+  "pk": 7,
+  "fields": {
+    "name": "Python 2024",
+    "date_created": "2024-10-17",
+    "active": true
+  }
+},
+{
+  "model": "LearningAPI.course",
+  "pk": 8,
+  "fields": {
+    "name": "JavaScript 2024",
+    "date_created": "2024-10-24",
+    "active": true
+  }
+},
+{
+  "model": "LearningAPI.course",
+  "pk": 9,
+  "fields": {
+    "name": "Frontend course for SE grads",
+    "date_created": "2025-08-18",
+    "active": false
+  }
+},
+{
+  "model": "LearningAPI.course",
+  "pk": 10,
+  "fields": {
+    "name": "C# & .NET 2025",
+    "date_created": "2025-04-09",
+    "active": true
+  }
+},
+{
+  "model": "LearningAPI.course",
+  "pk": 11,
+  "fields": {
+    "name": "C# with Sprints",
+    "date_created": "2025-08-18",
+    "active": true
+  }
+}
+]

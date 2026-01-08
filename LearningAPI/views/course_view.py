@@ -48,17 +48,17 @@ class CourseViewSet(ViewSet):
         """
         try:
             course_views_total.labels(type='detail', course_id=pk).inc() # Increment custom metric for single course view
-            log.info("Retrieving course", course_id=pk, user=request.user.id) # INFO level: Indicates a normal, expected operation.
+            log.info("Retrieving course", course_id=pk, user_id=request.user.id) # INFO level: Indicates a normal, expected operation.
             course = Course.objects.get(pk=pk)
-            log.debug("Course found", course_name=course.name) # DEBUG level: Provides detailed information, useful for development/debugging.
+            log.debug("Course found", course_name=course.name, user_id=request.user.id) # DEBUG level: Provides detailed information, useful for development/debugging.
 
             serializer = CourseSerializer(course, context={'request': request})
             return Response(serializer.data)
         except Course.DoesNotExist:
-            log.warning("Course not found", course_id=pk, user=request.user.id) # WARNING level: Unexpected but handled client-side error.
+            log.warning("Course not found", course_id=pk, user_id=request.user.id) # WARNING level: Unexpected but handled client-side error.
             return Response({"message": "Course not found"}, status=status.HTTP_404_NOT_FOUND)
         except Exception as ex:
-            log.error("Error retrieving course", course_id=pk, error=str(ex), exc_info=True) # ERROR level: Serious server-side issue, includes stack trace.
+            log.error("Error retrieving course", course_id=pk, user_id=request.user.id, error=str(ex), exc_info=True) # ERROR level: Serious server-side issue, includes stack trace.
             return HttpResponseServerError(ex)
 
     @method_decorator(is_instructor())

@@ -57,7 +57,7 @@ cat > ./LearningAPI/fixtures/superuser.json << EOF
 [
     {
         "model": "auth.user",
-        "pk": null,
+        "pk": 3,
         "fields": {
             "password": "$DJANGO_GENERATED_PASSWORD",
             "last_login": null,
@@ -82,10 +82,13 @@ EOF
 echo "Running database migrations..."
 python3 manage.py migrate
 
+# Flush the database
+python3 manage.py flush --no-input
+
 # Load fixture data
 echo "Loading fixture data..."
 python3 manage.py flush --no-input
-python3 manage.py loaddata *.json
+python3 manage.py loaddata ./LearningAPI/fixtures/*.json
 
 # Clean up temporary fixture files
 echo "Cleaning up temporary fixture files..."

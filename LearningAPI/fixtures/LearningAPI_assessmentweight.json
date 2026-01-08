@@ -1,0 +1,642 @@
+[
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 1,
+  "fields": {
+    "weight": 19,
+    "assessment": 13
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 2,
+  "fields": {
+    "weight": 21,
+    "assessment": 13
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 3,
+  "fields": {
+    "weight": 22,
+    "assessment": 13
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 4,
+  "fields": {
+    "weight": 23,
+    "assessment": 13
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 5,
+  "fields": {
+    "weight": 26,
+    "assessment": 13
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 6,
+  "fields": {
+    "weight": 8,
+    "assessment": 3
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 7,
+  "fields": {
+    "weight": 9,
+    "assessment": 3
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 8,
+  "fields": {
+    "weight": 7,
+    "assessment": 3
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 9,
+  "fields": {
+    "weight": 11,
+    "assessment": 2
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 10,
+  "fields": {
+    "weight": 7,
+    "assessment": 2
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 13,
+  "fields": {
+    "weight": 5,
+    "assessment": 5
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 14,
+  "fields": {
+    "weight": 5,
+    "assessment": 2
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 15,
+  "fields": {
+    "weight": 35,
+    "assessment": 12
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 16,
+  "fields": {
+    "weight": 19,
+    "assessment": 12
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 17,
+  "fields": {
+    "weight": 21,
+    "assessment": 12
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 18,
+  "fields": {
+    "weight": 24,
+    "assessment": 12
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 19,
+  "fields": {
+    "weight": 25,
+    "assessment": 12
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 20,
+  "fields": {
+    "weight": 26,
+    "assessment": 12
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 21,
+  "fields": {
+    "weight": 28,
+    "assessment": 12
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 22,
+  "fields": {
+    "weight": 29,
+    "assessment": 12
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 23,
+  "fields": {
+    "weight": 12,
+    "assessment": 4
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 24,
+  "fields": {
+    "weight": 7,
+    "assessment": 4
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 25,
+  "fields": {
+    "weight": 1,
+    "assessment": 1
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 26,
+  "fields": {
+    "weight": 2,
+    "assessment": 1
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 27,
+  "fields": {
+    "weight": 6,
+    "assessment": 1
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 28,
+  "fields": {
+    "weight": 6,
+    "assessment": 14
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 29,
+  "fields": {
+    "weight": 1,
+    "assessment": 14
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 30,
+  "fields": {
+    "weight": 2,
+    "assessment": 14
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 31,
+  "fields": {
+    "weight": 5,
+    "assessment": 15
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 32,
+  "fields": {
+    "weight": 1,
+    "assessment": 15
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 33,
+  "fields": {
+    "weight": 6,
+    "assessment": 15
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 34,
+  "fields": {
+    "weight": 2,
+    "assessment": 15
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 40,
+  "fields": {
+    "weight": 7,
+    "assessment": 17
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 41,
+  "fields": {
+    "weight": 8,
+    "assessment": 17
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 42,
+  "fields": {
+    "weight": 11,
+    "assessment": 17
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 44,
+  "fields": {
+    "weight": 8,
+    "assessment": 18
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 45,
+  "fields": {
+    "weight": 9,
+    "assessment": 18
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 47,
+  "fields": {
+    "weight": 21,
+    "assessment": 23
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 48,
+  "fields": {
+    "weight": 19,
+    "assessment": 23
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 49,
+  "fields": {
+    "weight": 26,
+    "assessment": 23
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 50,
+  "fields": {
+    "weight": 27,
+    "assessment": 23
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 51,
+  "fields": {
+    "weight": 30,
+    "assessment": 24
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 52,
+  "fields": {
+    "weight": 29,
+    "assessment": 24
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 53,
+  "fields": {
+    "weight": 28,
+    "assessment": 24
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 54,
+  "fields": {
+    "weight": 24,
+    "assessment": 24
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 55,
+  "fields": {
+    "weight": 25,
+    "assessment": 24
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 58,
+  "fields": {
+    "weight": 2,
+    "assessment": 26
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 60,
+  "fields": {
+    "weight": 1,
+    "assessment": 26
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 64,
+  "fields": {
+    "weight": 11,
+    "assessment": 18
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 65,
+  "fields": {
+    "weight": 1,
+    "assessment": 29
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 66,
+  "fields": {
+    "weight": 2,
+    "assessment": 29
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 68,
+  "fields": {
+    "weight": 5,
+    "assessment": 29
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 70,
+  "fields": {
+    "weight": 8,
+    "assessment": 31
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 71,
+  "fields": {
+    "weight": 9,
+    "assessment": 31
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 72,
+  "fields": {
+    "weight": 12,
+    "assessment": 31
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 73,
+  "fields": {
+    "weight": 11,
+    "assessment": 30
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 75,
+  "fields": {
+    "weight": 7,
+    "assessment": 30
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 80,
+  "fields": {
+    "weight": 6,
+    "assessment": 29
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 82,
+  "fields": {
+    "weight": 1,
+    "assessment": 32
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 83,
+  "fields": {
+    "weight": 5,
+    "assessment": 32
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 84,
+  "fields": {
+    "weight": 2,
+    "assessment": 32
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 86,
+  "fields": {
+    "weight": 6,
+    "assessment": 32
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 91,
+  "fields": {
+    "weight": 12,
+    "assessment": 34
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 92,
+  "fields": {
+    "weight": 9,
+    "assessment": 34
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 93,
+  "fields": {
+    "weight": 8,
+    "assessment": 34
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 94,
+  "fields": {
+    "weight": 20,
+    "assessment": 20
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 95,
+  "fields": {
+    "weight": 34,
+    "assessment": 28
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 96,
+  "fields": {
+    "weight": 3,
+    "assessment": 28
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 97,
+  "fields": {
+    "weight": 4,
+    "assessment": 28
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 98,
+  "fields": {
+    "weight": 6,
+    "assessment": 28
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 99,
+  "fields": {
+    "weight": 21,
+    "assessment": 40
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 100,
+  "fields": {
+    "weight": 19,
+    "assessment": 40
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 101,
+  "fields": {
+    "weight": 20,
+    "assessment": 40
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 102,
+  "fields": {
+    "weight": 21,
+    "assessment": 41
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 103,
+  "fields": {
+    "weight": 35,
+    "assessment": 41
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 104,
+  "fields": {
+    "weight": 24,
+    "assessment": 41
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 105,
+  "fields": {
+    "weight": 25,
+    "assessment": 42
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 106,
+  "fields": {
+    "weight": 21,
+    "assessment": 42
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 107,
+  "fields": {
+    "weight": 35,
+    "assessment": 42
+  }
+},
+{
+  "model": "LearningAPI.assessmentweight",
+  "pk": 108,
+  "fields": {
+    "weight": 22,
+    "assessment": 42
+  }
+}
+]
