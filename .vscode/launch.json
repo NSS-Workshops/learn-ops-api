@@ -15,6 +15,57 @@
         "PYTHONPATH": "${workspaceFolder}",
         "DJANGO_SETTINGS_MODULE": "LearningPlatform.settings"
       }
+    },
+    {
+      "name": "Python: Debug Tests",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": [
+        "LearningAPI/tests",
+        "-v",
+        "-s"
+      ],
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}",
+        "DJANGO_SETTINGS_MODULE": "LearningPlatform.settings"
+      }
+    },
+    {
+      "name": "Python: Debug Current Test File",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": [
+        "${file}",
+        "-v",
+        "-s"
+      ],
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}",
+        "DJANGO_SETTINGS_MODULE": "LearningPlatform.settings"
+      }
+    },
+    {
+      "name": "Python: Debug Current Test Method",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": [
+        "${file}::${selectedText}",
+        "-v",
+        "-s"
+      ],
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}",
+        "DJANGO_SETTINGS_MODULE": "LearningPlatform.settings"
+      }
     }
   ]
 }
