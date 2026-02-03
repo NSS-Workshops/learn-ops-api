@@ -1,7 +1,11 @@
 {
   "name": "Learn Ops API",
-  "dockerComposeFile": "../../learn-ops-infrastructure/docker-compose.yml",
+  "dockerComposeFile": [
+  "../../learn-ops-infrastructure/docker-compose.yml",
+  "../../learn-ops-infrastructure/docker-compose.dev.yml"
+  ],
   "service": "api",
+  "runServices": ["api"],
   "workspaceFolder": "/app",
   "overrideCommand": true,
   "customizations": {
