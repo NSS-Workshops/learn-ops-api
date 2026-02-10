@@ -13,10 +13,12 @@ Key concepts:
 from rest_framework.test import APITestCase
 from unittest.mock import patch, MagicMock, ANY, call
 from django.urls import reverse
+from rest_framework.authtoken.models import Token
 from django.contrib.auth.models import User
 from LearningAPI.models import (
-    NSSUser, Cohort, StudentTeam, Project,
-    CohortInfo, NSSUserCohort, GroupProjectRepository
+    NssUser, Cohort, StudentTeam, Project,
+    CohortInfo, NssUserCohort, GroupProjectRepository,
+    Book, Course
 )
 
 
@@ -32,19 +34,24 @@ class TeamMakerIntegrationTests(APITestCase):
     """
 
     def setUp(self):
-        """Create test fixtures for all integration tests."""
-        # Create authenticated user (instructor)
+        """Create test fixtures and authenticate."""
+        # Create a test user
         self.user = User.objects.create_user(
             username='testinstructor',
             password='testpass123',
             is_staff=True
         )
-        self.nss_user = NSSUser.objects.create(
+        self.nss_user = NssUser.objects.create(
             user=self.user,
             slack_handle='@testinstructor',
             github_handle='testinstructor'
         )
-        self.client.force_authenticate(user=self.user)
+
+        # Create token for the user
+        self.token = Token.objects.create(user=self.user)
+
+        # Authenticate using token (not force_authenticate)
+        self.client.credentials(HTTP_AUTHORIZATION='Token ' + self.token.key)
 
         # Create test cohort with required info
         self.cohort = Cohort.objects.create(
@@ -64,13 +71,28 @@ class TeamMakerIntegrationTests(APITestCase):
             server_course_url="https://example.com/server"
         )
 
+        # Create test course (books belong to courses)
+        self.course = Course.objects.create(
+            name="Test Course",
+            active=True
+        )
+
+        # Create test book (projects belong to books)
+        self.book = Book.objects.create(
+            name="Test Book",
+            course=self.course,
+            index=1
+        )
+
         # Create test project
         self.project = Project.objects.create(
             name="Test Group Project",
+            book=self.book,
             index=1,
             client_template_url="https://github.com/templates/client-template",
             api_template_url="https://github.com/templates/api-template",
-            active=True
+            active=True,
+            is_group_project=True
         )
 
         # Create test students
@@ -79,7 +101,7 @@ class TeamMakerIntegrationTests(APITestCase):
             password='pass',
             is_staff=False
         )
-        self.student1 = NSSUser.objects.create(
+        self.student1 = NssUser.objects.create(
             user=self.student1_user,
             slack_handle='@student1',
             github_handle='student1gh'
@@ -90,22 +112,22 @@ class TeamMakerIntegrationTests(APITestCase):
             password='pass',
             is_staff=False
         )
-        self.student2 = NSSUser.objects.create(
+        self.student2 = NssUser.objects.create(
             user=self.student2_user,
             slack_handle='@student2',
             github_handle='student2gh'
         )
 
         # Enroll students in cohort
-        NSSUserCohort.objects.create(nss_user=self.student1, cohort=self.cohort)
-        NSSUserCohort.objects.create(nss_user=self.student2, cohort=self.cohort)
+        NssUserCohort.objects.create(nss_user=self.student1, cohort=self.cohort)
+        NssUserCohort.objects.create(nss_user=self.student2, cohort=self.cohort)
 
     @patch('LearningAPI.views.team_maker_view.valkey_client')
     @patch('LearningAPI.views.team_maker_view.GithubRequest')
     @patch('LearningAPI.views.team_maker_view.SlackAPI')
     def test_create_team_with_github_repos_success(self, MockSlack, MockGithub, mock_valkey):
         """
-        INSTRUCTOR DEMO: Test successful team creation with all services.
+        Test successful team creation with all services.
 
         This demonstrates:
         1. Setting up multiple mocks
@@ -132,7 +154,7 @@ class TeamMakerIntegrationTests(APITestCase):
         mock_valkey.publish = MagicMock(return_value=None)
 
         # Act: Make POST request to create team
-        url = reverse('teammaker-list')
+        url = reverse('team_maker-list')
         data = {
             "cohort": self.cohort.id,
             "students": [self.student1.id, self.student2.id],
@@ -187,7 +209,7 @@ class TeamMakerIntegrationTests(APITestCase):
     @patch('LearningAPI.views.team_maker_view.SlackAPI')
     def test_github_failure_returns_error(self, MockSlack, MockGithub, mock_valkey):
         """
-        INSTRUCTOR DEMO: Test handling of GitHub API failure.
+        Test handling of GitHub API failure.
 
         This demonstrates:
         1. Simulating service failures with side_effect
@@ -204,7 +226,7 @@ class TeamMakerIntegrationTests(APITestCase):
         )
 
         # Act: Attempt to create team
-        url = reverse('teammaker-list')
+        url = reverse('team_maker-list')
         data = {
             "cohort": self.cohort.id,
             "students": [self.student1.id, self.student2.id],
@@ -244,7 +266,7 @@ class TeamMakerIntegrationTests(APITestCase):
         # TODO: Configure Slack to raise an exception
 
         # Act
-        url = reverse('teammaker-list')
+        url = reverse('team_maker-list')
         data = {
             "cohort": self.cohort.id,
             "students": [self.student1.id, self.student2.id],
