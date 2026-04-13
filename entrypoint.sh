@@ -102,4 +102,9 @@ rm -f ./LearningAPI/fixtures/superuser.json
 echo "Database setup complete!"
 
 # Hand off to whatever was given in CMD (or docker run args)
-exec "$@"
+if [ "$DEBUG" = "True" ]; then
+  shift  # drop "python3" so debugpy receives "manage.py runserver ..." as the target
+  exec python -m debugpy --listen 0.0.0.0:5678 "$@"
+else
+  exec "$@"
+fi
