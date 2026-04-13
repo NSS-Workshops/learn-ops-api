@@ -50,7 +50,10 @@ Your instructor needs to create a Github Organization and add you as an owner. Y
 |  LEARN_OPS_SUPERUSER_NAME | Create a simple username _(e.g. admin)_  |
 | LEARN_OPS_SUPERUSER_PASSWORD  | Create a simple password _(e.g. password123)_  |
 | SLACK_TOKEN  |  Your instructor will share this value with you |
-| GITHUB_TOKEN | Your Personal Access Token generated in the previous step 
+| GITHUB_TOKEN | Your Personal Access Token generated in the previous step |
+| WIPE_DB | Set to `true` to flush the database and reload all fixtures on startup. Leave unset (or set to `false`) for normal runs — fixtures are skipped when the database already has data, which makes startup much faster. |
+
+> **Tip:** You only need `WIPE_DB=true` when you want a clean slate (e.g. corrupted data, schema conflicts). Remove or set it back to `false` after the wipe so subsequent startups stay fast.
 
 ## PAUSE: Set Up Infrastructure
 
