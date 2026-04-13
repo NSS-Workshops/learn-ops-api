@@ -2,7 +2,7 @@
 
 set -e
 
-echo "Waiting for PostgreSQL to be ready..."
+export DJANGO_SETTINGS_MODULE="LearningPlatform.settings"
 
 # Function to wait for PostgreSQL to be ready
 wait_for_postgres() {
@@ -13,10 +13,7 @@ wait_for_postgres() {
     echo "PostgreSQL is ready!"
 }
 
-# Wait for database to be ready
 wait_for_postgres
-
-echo "PostgreSQL is ready!"
 
 # Generate socialaccount fixture with environment variables
 echo "Creating socialaccount fixture..."
@@ -49,8 +46,6 @@ EOF
 
 # Generate superuser fixture with environment variables
 echo "Creating superuser fixture..."
-export DJANGO_SETTINGS_MODULE="LearningPlatform.settings"
-
 DJANGO_GENERATED_PASSWORD=$(python3 ./djangopass.py "$LEARN_OPS_SUPERUSER_PASSWORD")
 
 cat > ./LearningAPI/fixtures/superuser.json << EOF
@@ -78,17 +73,26 @@ cat > ./LearningAPI/fixtures/superuser.json << EOF
 ]
 EOF
 
-# Run migrations
+# Run migrations (always — safe to re-run, applies any new migrations)
 echo "Running database migrations..."
 python3 manage.py migrate
 
-# Flush the database
-python3 manage.py flush --no-input
+# If WIPE_DB=true, flush everything so fixtures will reload below
+if [ "${WIPE_DB:-false}" = "true" ]; then
+    echo "WIPE_DB=true — flushing database..."
+    python3 manage.py flush --no-input
+fi
 
-# Load fixture data
-echo "Loading fixture data..."
-python3 manage.py flush --no-input
-python3 manage.py loaddata ./LearningAPI/fixtures/*.json
+# Only load fixtures when the DB is empty (no users exist yet)
+USER_COUNT=$(python3 manage.py shell -c "from django.contrib.auth.models import User; print(User.objects.count())" 2>/dev/null | tail -1 | tr -d '[:space:]')
+
+if [ "$USER_COUNT" = "0" ]; then
+    echo "Database is empty, loading fixture data..."
+    python3 manage.py loaddata ./LearningAPI/fixtures/*.json
+    echo "Fixture data loaded."
+else
+    echo "Database already has data ($USER_COUNT users) — skipping fixture load."
+fi
 
 # Clean up temporary fixture files
 echo "Cleaning up temporary fixture files..."
