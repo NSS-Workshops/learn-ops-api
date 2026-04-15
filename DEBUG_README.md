@@ -7,13 +7,8 @@
 
 ## Steps
 
-1. Start the containers from the `learn-ops-infrastructure` directory:
-   ```shell
-   make up-api
-   # or to bring up everything
-   make up
-   ```
-2. Open the **Run and Debug** panel (`Ctrl+Shift+D` / `Cmd+Shift+D`).
+1. Start the containers from the `learn-ops-infrastructure` directory (Refer to the Learning Platform Infrastructure project for instructions.)
+2. Open the **Run and Debug** panel in VS code (`Ctrl+Shift+D` / `Cmd+Shift+D`).
 3. Select **Django: Attach to Docker** from the dropdown.
 4. Press `F5` to attach.
 5. Set a breakpoint anywhere in the Python source.
