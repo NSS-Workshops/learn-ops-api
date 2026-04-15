@@ -90,22 +90,9 @@ Your instructor needs to create a Github Organization and add you as an owner. Y
 
 ## Debugging
 
-The API container runs with [debugpy](https://github.com/microsoft/debugpy) when `DEBUG=True` (the default in your `.env`), so you can attach VS Code and hit breakpoints without any extra setup.
+The project includes several VS Code debug configurations for attaching to the running Docker container, launching the server locally, and debugging tests.
 
-### Steps
-
-1. Start the containers:
-   ```shell
-   make up
-   ```
-2. In VS Code, open the **Run and Debug** panel (Ctrl+Shift+D / Cmd+Shift+D)
-3. Select **Django: Attach to Docker** from the dropdown
-4. Press **F5** to attach
-5. Set a breakpoint in any view or file
-6. Trigger the relevant endpoint in your browser or with curl — the breakpoint will fire
-7. Press **Disconnect** (Shift+F5) when you are done debugging
-
-> **Note:** The container starts and serves requests normally whether or not you are attached. You only attach when you actually want to use breakpoints, and you can disconnect and reconnect freely without restarting the container.
+See [DEBUG_README.md](DEBUG_README.md) for the full guide.
 
 ## Resources
 
