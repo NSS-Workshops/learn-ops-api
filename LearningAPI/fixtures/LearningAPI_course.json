@@ -23,7 +23,7 @@
   "fields": {
     "name": "JavaScript",
     "date_created": "2024-01-10",
-    "active": false
+    "active": true
   }
 },
 {
