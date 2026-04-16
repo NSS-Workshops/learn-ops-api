@@ -284,5 +284,18 @@
     "server_course_url": "https://github.com/NSS-Day-Cohort-78/server-side-python-curriculum",
     "zoom_url": null
   }
+},
+{
+  "model": "LearningAPI.cohortinfo",
+  "pk": 29,
+  "fields": {
+    "cohort": 13,
+    "student_organization_url": "https://github.com/organizations/System-Explorer-Cohorts",
+    "github_classroom_url": "",
+    "attendance_sheet_url": "https://docs.google.com/spreadsheets/d/1rcWh_bwja8GGLb2dNBotNvsD-Aa1psWuxD9Fe7q4yOQ/edit?usp=sharing",
+    "client_course_url": "https://github.com/NSS-Day-Cohort-78/client-side-mastery",
+    "server_course_url": "https://github.com/NSS-Day-Cohort-78/server-side-python-curriculum",
+    "zoom_url": null
+  }
 }
 ]
