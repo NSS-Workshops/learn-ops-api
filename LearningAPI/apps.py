@@ -4,5 +4,4 @@ class LearningAPIConfig(AppConfig):
     name = 'LearningAPI'
 
     def ready(self):
-        # Import the signals module to ensure signal handlers are connected
-        pass
+        import LearningAPI.signals  # noqa: F401

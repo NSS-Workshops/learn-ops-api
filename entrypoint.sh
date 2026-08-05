@@ -94,6 +94,41 @@ else
     echo "Database already has data ($USER_COUNT users) — skipping fixture load."
 fi
 
+# Idempotently elevate INSTRUCTOR_USERNAME to instructor role and assign cohort (survives DB wipes)
+if [ -n "${INSTRUCTOR_USERNAME:-}" ]; then
+    python3 manage.py shell -c "
+import os
+from django.contrib.auth.models import User, Group
+from LearningAPI.models.people import NssUser, NssUserCohort, Cohort
+
+username = os.environ.get('INSTRUCTOR_USERNAME', '')
+cohort_id = os.environ.get('INSTRUCTOR_COHORT', '')
+
+u = User.objects.filter(username=username).first()
+if u:
+    u.is_staff = True
+    u.save(update_fields=['is_staff'])
+    g = Group.objects.filter(pk=2).first()
+    if g:
+        u.groups.add(g)
+    print(f'Elevated {username} to instructor')
+
+    if cohort_id:
+        nss_user, _ = NssUser.objects.get_or_create(user=u, defaults={'github_handle': username})
+        try:
+            cohort = Cohort.objects.get(pk=cohort_id)
+            _, created = NssUserCohort.objects.get_or_create(nss_user=nss_user, cohort=cohort)
+            if created:
+                print(f'Assigned {username} to cohort {cohort_id}')
+            else:
+                print(f'{username} already in cohort {cohort_id} — skipping')
+        except Cohort.DoesNotExist:
+            print(f'Cohort {cohort_id!r} not found — skipping cohort assignment')
+else:
+    print(f'User {username!r} not found — will elevate after OAuth login')
+"
+fi
+
 # Clean up temporary fixture files
 echo "Cleaning up temporary fixture files..."
 rm -f ./LearningAPI/fixtures/socialaccount.json

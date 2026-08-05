@@ -133,7 +133,8 @@ class Profile(ViewSet):
             student_cohort = nss_user.assigned_cohorts.first()
             req_logger.info("Assigned cohort found", cohort=student_cohort.cohort.name if student_cohort else "None")
 
-            if not student_cohort.is_github_org_member:
+            github_org_membership_status = None
+            if student_cohort is not None and not student_cohort.is_github_org_member:
                 # Send a request to the Github API to check the membership status of the user for the cohort Github organization
                 gh_request = GithubRequest()
                 student_org_name = student_cohort.cohort.info.student_organization_url.split("/")[-1]
@@ -145,7 +146,7 @@ class Profile(ViewSet):
                     student_cohort.is_github_org_member = True
                     student_cohort.save()
                     req_logger.info("Github organization membership status updated", user=nss_user.user.username, status=github_org_membership_status)
-            else:
+            elif student_cohort is not None:
                 github_org_membership_status = "active"
 
 
