@@ -1,4 +1,5 @@
 .DS_Store
+LearningAPI/fixtures/instructor_*.json
 *.pyc
 *.db
 *.db-journal

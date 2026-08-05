@@ -2,7 +2,7 @@
 
 set -e
 
-echo "Waiting for PostgreSQL to be ready..."
+export DJANGO_SETTINGS_MODULE="LearningPlatform.settings"
 
 # Function to wait for PostgreSQL to be ready
 wait_for_postgres() {
@@ -13,10 +13,7 @@ wait_for_postgres() {
     echo "PostgreSQL is ready!"
 }
 
-# Wait for database to be ready
 wait_for_postgres
-
-echo "PostgreSQL is ready!"
 
 # Generate socialaccount fixture with environment variables
 echo "Creating socialaccount fixture..."
@@ -49,8 +46,6 @@ EOF
 
 # Generate superuser fixture with environment variables
 echo "Creating superuser fixture..."
-export DJANGO_SETTINGS_MODULE="LearningPlatform.settings"
-
 DJANGO_GENERATED_PASSWORD=$(python3 ./djangopass.py "$LEARN_OPS_SUPERUSER_PASSWORD")
 
 cat > ./LearningAPI/fixtures/superuser.json << EOF
@@ -78,17 +73,61 @@ cat > ./LearningAPI/fixtures/superuser.json << EOF
 ]
 EOF
 
-# Run migrations
+# Run migrations (always — safe to re-run, applies any new migrations)
 echo "Running database migrations..."
 python3 manage.py migrate
 
-# Flush the database
-python3 manage.py flush --no-input
+# If WIPE_DB=true, flush everything so fixtures will reload below
+if [ "${WIPE_DB:-false}" = "true" ]; then
+    echo "WIPE_DB=true — flushing database..."
+    python3 manage.py flush --no-input
+fi
 
-# Load fixture data
-echo "Loading fixture data..."
-python3 manage.py flush --no-input
-python3 manage.py loaddata ./LearningAPI/fixtures/*.json
+# Only load fixtures when the DB is empty (no users exist yet)
+USER_COUNT=$(python3 manage.py shell -c "from django.contrib.auth.models import User; print(User.objects.count())" 2>/dev/null | tail -1 | tr -d '[:space:]')
+
+if [ "$USER_COUNT" = "0" ]; then
+    echo "Database is empty, loading fixture data..."
+    python3 manage.py loaddata ./LearningAPI/fixtures/*.json
+    echo "Fixture data loaded."
+else
+    echo "Database already has data ($USER_COUNT users) — skipping fixture load."
+fi
+
+# Idempotently elevate INSTRUCTOR_USERNAME to instructor role and assign cohort (survives DB wipes)
+if [ -n "${INSTRUCTOR_USERNAME:-}" ]; then
+    python3 manage.py shell -c "
+import os
+from django.contrib.auth.models import User, Group
+from LearningAPI.models.people import NssUser, NssUserCohort, Cohort
+
+username = os.environ.get('INSTRUCTOR_USERNAME', '')
+cohort_id = os.environ.get('INSTRUCTOR_COHORT', '')
+
+u = User.objects.filter(username=username).first()
+if u:
+    u.is_staff = True
+    u.save(update_fields=['is_staff'])
+    g = Group.objects.filter(pk=2).first()
+    if g:
+        u.groups.add(g)
+    print(f'Elevated {username} to instructor')
+
+    if cohort_id:
+        nss_user, _ = NssUser.objects.get_or_create(user=u, defaults={'github_handle': username})
+        try:
+            cohort = Cohort.objects.get(pk=cohort_id)
+            _, created = NssUserCohort.objects.get_or_create(nss_user=nss_user, cohort=cohort)
+            if created:
+                print(f'Assigned {username} to cohort {cohort_id}')
+            else:
+                print(f'{username} already in cohort {cohort_id} — skipping')
+        except Cohort.DoesNotExist:
+            print(f'Cohort {cohort_id!r} not found — skipping cohort assignment')
+else:
+    print(f'User {username!r} not found — will elevate after OAuth login')
+"
+fi
 
 # Clean up temporary fixture files
 echo "Cleaning up temporary fixture files..."
@@ -98,4 +137,9 @@ rm -f ./LearningAPI/fixtures/superuser.json
 echo "Database setup complete!"
 
 # Hand off to whatever was given in CMD (or docker run args)
-exec "$@"
+if [ "$DEBUG" = "True" ]; then
+  shift  # drop "python3" so debugpy receives "manage.py runserver ..." as the target
+  exec python -m debugpy --listen 0.0.0.0:5678 "$@"
+else
+  exec "$@"
+fi
