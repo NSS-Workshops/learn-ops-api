@@ -133,6 +133,13 @@ class Profile(ViewSet):
             student_cohort = nss_user.assigned_cohorts.first()
             req_logger.info("Assigned cohort found", cohort=student_cohort.cohort.name if student_cohort else "None")
 
+            if student_cohort is None:
+                req_logger.warning("No cohort assignment found for user", user=nss_user.user.username)
+                return Response(
+                    {"error": "No cohort assignment found for this user."},
+                    status=status.HTTP_404_NOT_FOUND
+                )
+
             if not student_cohort.is_github_org_member:
                 # Send a request to the Github API to check the membership status of the user for the cohort Github organization
                 gh_request = GithubRequest()
